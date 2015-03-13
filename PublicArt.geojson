@@ -2,7 +2,7 @@
 
 "features": [
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209861,
     "ART_CODE": "101",
     "TITLE": "Almond Blossom/Astronomy",
@@ -22,7 +22,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209862,
     "ART_CODE": "102",
     "TITLE": "Formas Esperando Palabra de Otros Mundos",
@@ -42,7 +42,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209863,
     "ART_CODE": "104",
     "TITLE": "Sumer #24",
@@ -62,7 +62,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209864,
     "ART_CODE": "105",
     "TITLE": "Images",
@@ -82,7 +82,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209865,
     "ART_CODE": "106",
     "TITLE": "The Hounds of Enchantment",
@@ -102,7 +102,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209866,
     "ART_CODE": "107",
     "TITLE": "Carved Wood Dais",
@@ -122,7 +122,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209867,
     "ART_CODE": "108",
     "TITLE": "Runways",
@@ -142,7 +142,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209868,
     "ART_CODE": "109",
     "TITLE": "Triptych",
@@ -162,7 +162,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209869,
     "ART_CODE": "110",
     "TITLE": "Kindred Spirit",
@@ -182,7 +182,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209870,
     "ART_CODE": "111",
     "TITLE": "Solar Arc",
@@ -202,7 +202,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209871,
     "ART_CODE": null,
     "TITLE": null,
@@ -222,7 +222,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209872,
     "ART_CODE": "112",
     "TITLE": "Interweave",
@@ -242,7 +242,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209873,
     "ART_CODE": "113",
     "TITLE": "Hand of Friendship",
@@ -262,7 +262,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209874,
     "ART_CODE": "114",
     "TITLE": "Presto",
@@ -282,7 +282,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209875,
     "ART_CODE": "115",
     "TITLE": "Las Mesas",
@@ -302,7 +302,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209876,
     "ART_CODE": "116",
     "TITLE": "The Shepherd",
@@ -322,7 +322,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209877,
     "ART_CODE": "117",
     "TITLE": "Retratos de la Vecinidad (#1)",
@@ -342,7 +342,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209878,
     "ART_CODE": "117",
     "TITLE": "Retratos de la Vecinidad (#1)",
@@ -362,7 +362,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209879,
     "ART_CODE": "117.01",
     "TITLE": "Retratos de la Vecinidad (#2)",
@@ -382,7 +382,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209880,
     "ART_CODE": "117.01",
     "TITLE": "Retratos de la Vecinidad (#2)",
@@ -402,7 +402,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209881,
     "ART_CODE": "117.02",
     "TITLE": "Retratos de la Vecinidad (#3)",
@@ -422,7 +422,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209882,
     "ART_CODE": "117.02",
     "TITLE": "Retratos de la Vecinidad (#3)",
@@ -442,7 +442,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209883,
     "ART_CODE": "117.03",
     "TITLE": "Retratos de la Vecinidad (#4)",
@@ -462,7 +462,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209884,
     "ART_CODE": "117.03",
     "TITLE": "Retratos de la Vecinidad (#4)",
@@ -482,7 +482,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209885,
     "ART_CODE": "117.04",
     "TITLE": "Retratos de la Vecinidad (#5)",
@@ -502,7 +502,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209886,
     "ART_CODE": "117.04",
     "TITLE": "Retratos de la Vecinidad (#5)",
@@ -522,7 +522,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209887,
     "ART_CODE": "117.05",
     "TITLE": "Retratos de la Vecinidad (#6)",
@@ -542,7 +542,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209888,
     "ART_CODE": "117.05",
     "TITLE": "Retratos de la Vecinidad (#6)",
@@ -562,7 +562,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209889,
     "ART_CODE": "117.06",
     "TITLE": "Retratos de la Vecinidad (#7)",
@@ -582,7 +582,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209890,
     "ART_CODE": "117.06",
     "TITLE": "Retratos de la Vecinidad (#7)",
@@ -602,7 +602,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209891,
     "ART_CODE": "117.07",
     "TITLE": "Retratos de la Vecinidad (#8)",
@@ -622,7 +622,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209892,
     "ART_CODE": "117.07",
     "TITLE": "Retratos de la Vecinidad (#8)",
@@ -642,7 +642,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209893,
     "ART_CODE": "117.08",
     "TITLE": "Retratos de la Vecinidad (#9)",
@@ -662,7 +662,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209894,
     "ART_CODE": "117.08",
     "TITLE": "Retratos de la Vecinidad (#9)",
@@ -682,7 +682,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209895,
     "ART_CODE": "117.09",
     "TITLE": "Retratos de la Vecinidad (#10)",
@@ -702,7 +702,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209896,
     "ART_CODE": "117.09",
     "TITLE": "Retratos de la Vecinidad (#10)",
@@ -722,7 +722,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209897,
     "ART_CODE": "117.1",
     "TITLE": "Retratos de la Vecinidad (#11)",
@@ -742,7 +742,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209898,
     "ART_CODE": "117.1",
     "TITLE": "Retratos de la Vecinidad (#11)",
@@ -762,7 +762,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209899,
     "ART_CODE": "117.11",
     "TITLE": "Retratos de la Vecinidad (#12)",
@@ -782,7 +782,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209900,
     "ART_CODE": "117.11",
     "TITLE": "Retratos de la Vecinidad (#12)",
@@ -802,7 +802,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209901,
     "ART_CODE": "117.12",
     "TITLE": "Retratos de la Vecinidad (#13)",
@@ -822,7 +822,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209902,
     "ART_CODE": "117.12",
     "TITLE": "Retratos de la Vecinidad (#13)",
@@ -842,7 +842,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209903,
     "ART_CODE": "117.13",
     "TITLE": "Retratos de la Vecinidad (#14)",
@@ -862,7 +862,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209904,
     "ART_CODE": "117.13",
     "TITLE": "Retratos de la Vecinidad (#14)",
@@ -882,7 +882,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209905,
     "ART_CODE": "117.14",
     "TITLE": "Retratos de la Vecinidad (#15)",
@@ -902,7 +902,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209906,
     "ART_CODE": "117.14",
     "TITLE": "Retratos de la Vecinidad (#15)",
@@ -922,7 +922,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209907,
     "ART_CODE": "118",
     "TITLE": "Memories of the North Valley (Haciendo Adobes)",
@@ -942,7 +942,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209908,
     "ART_CODE": "118.01",
     "TITLE": "Memories of the North Valley (La Acequia)",
@@ -962,7 +962,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209909,
     "ART_CODE": "118.02",
     "TITLE": "Memories of the North Valley (The Harvesters)",
@@ -982,7 +982,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209910,
     "ART_CODE": "118.03",
     "TITLE": "Memories of the North Valley (Hanging Chile)",
@@ -1002,7 +1002,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209911,
     "ART_CODE": "118.04",
     "TITLE": "Memories of the North Valley (Los Abuelos)",
@@ -1022,7 +1022,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209912,
     "ART_CODE": "118.05",
     "TITLE": "Memories of the North Valley (Haciendo Tortillas)",
@@ -1042,7 +1042,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209913,
     "ART_CODE": "119",
     "TITLE": "Sidewalk Society",
@@ -1062,7 +1062,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209914,
     "ART_CODE": "120",
     "TITLE": "Zia",
@@ -1082,7 +1082,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209915,
     "ART_CODE": "121",
     "TITLE": "Tapestry of Life",
@@ -1102,7 +1102,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209916,
     "ART_CODE": "122",
     "TITLE": "Fountain of Peace",
@@ -1122,7 +1122,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209917,
     "ART_CODE": "123",
     "TITLE": "Picture Fountain",
@@ -1142,7 +1142,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209918,
     "ART_CODE": "124",
     "TITLE": "Coronado’s First Visit to New Mexico",
@@ -1162,7 +1162,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209919,
     "ART_CODE": "125",
     "TITLE": "Albuquerque Apparition",
@@ -1182,7 +1182,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209920,
     "ART_CODE": "126",
     "TITLE": "New Life in Old Albuquerque",
@@ -1202,7 +1202,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209921,
     "ART_CODE": "127",
     "TITLE": "Cruising San Mateo I",
@@ -1222,7 +1222,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209922,
     "ART_CODE": "127.01",
     "TITLE": "Cruising San Mateo II",
@@ -1242,7 +1242,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209923,
     "ART_CODE": "128",
     "TITLE": "The Harvest",
@@ -1262,7 +1262,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209924,
     "ART_CODE": "129",
     "TITLE": "A Tree of Mixed Metaphors",
@@ -1282,7 +1282,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209925,
     "ART_CODE": "130",
     "TITLE": "Lioness and Cubs",
@@ -1302,7 +1302,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209926,
     "ART_CODE": "131",
     "TITLE": "Phoenix Rising from the Ashes",
@@ -1322,7 +1322,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209927,
     "ART_CODE": "132",
     "TITLE": "Cultural Crossroads of the Americas",
@@ -1342,7 +1342,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209928,
     "ART_CODE": "133",
     "TITLE": "Walk in Beauty",
@@ -1362,7 +1362,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209929,
     "ART_CODE": "134",
     "TITLE": "Southwest Pieta/Pieta Suroeste",
@@ -1382,7 +1382,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209930,
     "ART_CODE": "134.01",
     "TITLE": "Southwest Pieta/Pieta Suroeste (Drawing)",
@@ -1402,7 +1402,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209931,
     "ART_CODE": "135.01",
     "TITLE": "Stepping Stone Table",
@@ -1422,7 +1422,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209932,
     "ART_CODE": "136",
     "TITLE": "Asteroid Sequence #2",
@@ -1442,7 +1442,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209933,
     "ART_CODE": "137",
     "TITLE": "Heritage",
@@ -1462,7 +1462,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209934,
     "ART_CODE": "140",
     "TITLE": "Thread of New Mexico",
@@ -1482,7 +1482,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209935,
     "ART_CODE": "141",
     "TITLE": "Breath of Life",
@@ -1502,7 +1502,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209936,
     "ART_CODE": "142",
     "TITLE": "Vehicle Stop",
@@ -1522,7 +1522,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209937,
     "ART_CODE": "143",
     "TITLE": "Madonna of the Trail",
@@ -1542,7 +1542,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209938,
     "ART_CODE": "144",
     "TITLE": "Tea Gate V",
@@ -1562,7 +1562,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209939,
     "ART_CODE": "145",
     "TITLE": "River of Life",
@@ -1582,7 +1582,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209940,
     "ART_CODE": "146",
     "TITLE": "Holocaust Memorial",
@@ -1602,7 +1602,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209941,
     "ART_CODE": "147",
     "TITLE": "Yei-bi-chai Gathering Place",
@@ -1622,7 +1622,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209942,
     "ART_CODE": "148",
     "TITLE": "The Shield",
@@ -1642,7 +1642,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209943,
     "ART_CODE": "149",
     "TITLE": "Full Circle",
@@ -1662,7 +1662,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209944,
     "ART_CODE": "150",
     "TITLE": "Tree of Life",
@@ -1682,7 +1682,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209945,
     "ART_CODE": "151",
     "TITLE": "\"Mestizaje,\"  De Colores Hispanic Heritage Festival Mural",
@@ -1702,7 +1702,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209946,
     "ART_CODE": "152",
     "TITLE": "Blue Tile Walls",
@@ -1722,7 +1722,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209947,
     "ART_CODE": "153",
     "TITLE": "Don Francisco Cuervo y Valdes, Founder of Albuquerque",
@@ -1742,7 +1742,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209948,
     "ART_CODE": "154",
     "TITLE": "To Create the Beloved Community",
@@ -1762,7 +1762,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209949,
     "ART_CODE": "155",
     "TITLE": "Running Horses",
@@ -1782,7 +1782,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209950,
     "ART_CODE": "156",
     "TITLE": "Lifelines",
@@ -1802,7 +1802,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209951,
     "ART_CODE": "157",
     "TITLE": "George J. Maloof",
@@ -1822,7 +1822,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209952,
     "ART_CODE": "158",
     "TITLE": "The Fallen Friend",
@@ -1842,7 +1842,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209953,
     "ART_CODE": "159",
     "TITLE": "Floating Mesa",
@@ -1862,7 +1862,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209954,
     "ART_CODE": "160",
     "TITLE": "Globe",
@@ -1882,7 +1882,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209955,
     "ART_CODE": "161",
     "TITLE": "Spirit Maiden",
@@ -1902,7 +1902,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209956,
     "ART_CODE": "162",
     "TITLE": "Khwee ... Seng (Woman...Man)",
@@ -1922,7 +1922,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209957,
     "ART_CODE": "163",
     "TITLE": "Portrait of Roger A. Hoisington",
@@ -1942,7 +1942,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209958,
     "ART_CODE": "164",
     "TITLE": "Dreams & Nightmares: Journey of a Broken Weave",
@@ -1962,7 +1962,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209959,
     "ART_CODE": "165",
     "TITLE": "Maria C.",
@@ -1982,7 +1982,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209960,
     "ART_CODE": "166",
     "TITLE": "El Camino Real, Road of Life",
@@ -2002,7 +2002,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209961,
     "ART_CODE": "167",
     "TITLE": "La Communidad",
@@ -2022,7 +2022,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209962,
     "ART_CODE": "168",
     "TITLE": "More than a Fire Fighter",
@@ -2042,7 +2042,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209963,
     "ART_CODE": "169",
     "TITLE": "La Primavera ",
@@ -2062,7 +2062,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209964,
     "ART_CODE": "170",
     "TITLE": "Crossroads",
@@ -2082,7 +2082,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209965,
     "ART_CODE": "171",
     "TITLE": "La Blessure",
@@ -2102,7 +2102,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209966,
     "ART_CODE": "172",
     "TITLE": "Gorilla Route #66",
@@ -2122,7 +2122,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209967,
     "ART_CODE": "174",
     "TITLE": "First Furrow",
@@ -2142,7 +2142,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209968,
     "ART_CODE": "175",
     "TITLE": "Jack Rabbit, Lizards & Bats",
@@ -2162,7 +2162,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209969,
     "ART_CODE": "176",
     "TITLE": "Los Cibolos del Rio Grande",
@@ -2182,7 +2182,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209970,
     "ART_CODE": "177",
     "TITLE": "Los Osos del Canyon",
@@ -2202,7 +2202,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209971,
     "ART_CODE": "178",
     "TITLE": "La Curandera y su Jardin",
@@ -2222,7 +2222,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209972,
     "ART_CODE": "179",
     "TITLE": "La Entrada al Futuro",
@@ -2242,7 +2242,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209973,
     "ART_CODE": "180",
     "TITLE": "BMW, Chetro Ketl Kiva, Chaco Canyon, USA",
@@ -2262,7 +2262,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209974,
     "ART_CODE": "181",
     "TITLE": "NM Lowrider Bench",
@@ -2282,7 +2282,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209975,
     "ART_CODE": "182",
     "TITLE": "Gridlock",
@@ -2302,7 +2302,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209976,
     "ART_CODE": "183",
     "TITLE": "Fire Work",
@@ -2322,7 +2322,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209977,
     "ART_CODE": "184",
     "TITLE": "El Senador Memorial Honoring Senator Dennis Chavez",
@@ -2342,7 +2342,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209978,
     "ART_CODE": "185",
     "TITLE": "Natural Vistas",
@@ -2362,7 +2362,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209979,
     "ART_CODE": "186",
     "TITLE": "Tree II",
@@ -2382,7 +2382,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209980,
     "ART_CODE": "187",
     "TITLE": "Cowboy Dream",
@@ -2402,7 +2402,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209981,
     "ART_CODE": "188",
     "TITLE": "Chile Harvest",
@@ -2422,7 +2422,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209982,
     "ART_CODE": "189",
     "TITLE": "Big Hearted Joy Beasts",
@@ -2442,7 +2442,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209983,
     "ART_CODE": "190",
     "TITLE": "Brave Men",
@@ -2462,7 +2462,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209984,
     "ART_CODE": "191",
     "TITLE": "The Last Ride",
@@ -2482,7 +2482,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209985,
     "ART_CODE": "192",
     "TITLE": "Children Build Community",
@@ -2502,7 +2502,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209986,
     "ART_CODE": "193",
     "TITLE": "Lion’s Share",
@@ -2522,7 +2522,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209987,
     "ART_CODE": null,
     "TITLE": null,
@@ -2542,7 +2542,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209988,
     "ART_CODE": "194",
     "TITLE": "Variacion Nuevo Mexico",
@@ -2562,7 +2562,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209989,
     "ART_CODE": "195",
     "TITLE": "Wild Things (Squirrel)",
@@ -2582,7 +2582,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209990,
     "ART_CODE": "195.01",
     "TITLE": "Wild Things (Ram)",
@@ -2602,7 +2602,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209991,
     "ART_CODE": "195.02",
     "TITLE": "Wild Things (Wolf)",
@@ -2622,7 +2622,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209992,
     "ART_CODE": "195.03",
     "TITLE": "Wild Things (Deer)",
@@ -2642,7 +2642,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209993,
     "ART_CODE": "195.04",
     "TITLE": "Wild Things (Fish)",
@@ -2662,7 +2662,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209994,
     "ART_CODE": "195.05",
     "TITLE": "Wild Things (Toad)",
@@ -2682,7 +2682,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209995,
     "ART_CODE": "195.06",
     "TITLE": "Wild Things (Buffalo)",
@@ -2702,7 +2702,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209996,
     "ART_CODE": "195.07",
     "TITLE": "Wild Things (Hummingbird 1)",
@@ -2722,7 +2722,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209997,
     "ART_CODE": "195.08",
     "TITLE": "Wild Things (Hummingbird 2)",
@@ -2742,7 +2742,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209998,
     "ART_CODE": "195.09",
     "TITLE": "Wild Things (Hare)",
@@ -2762,7 +2762,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 209999,
     "ART_CODE": "195.1",
     "TITLE": "Wild Things (Eagle)",
@@ -2782,7 +2782,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210000,
     "ART_CODE": "195.11",
     "TITLE": "Wild Things (Lizards)",
@@ -2802,7 +2802,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210001,
     "ART_CODE": "195.12",
     "TITLE": "Wild Things (Hawk)",
@@ -2822,7 +2822,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210002,
     "ART_CODE": "196",
     "TITLE": "Bus Stop and Low Walls",
@@ -2842,7 +2842,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210003,
     "ART_CODE": "197",
     "TITLE": "Star",
@@ -2862,7 +2862,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210004,
     "ART_CODE": "198",
     "TITLE": "Mi Jacalito y Mi Comunidad",
@@ -2882,7 +2882,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210005,
     "ART_CODE": "199",
     "TITLE": "Ahora y Cuando",
@@ -2902,7 +2902,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210006,
     "ART_CODE": "200",
     "TITLE": "Kolowisi",
@@ -2922,7 +2922,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210007,
     "ART_CODE": "202",
     "TITLE": "Historical Timeline of Books",
@@ -2942,7 +2942,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210008,
     "ART_CODE": "203",
     "TITLE": "East Central Mosaics (Home on the Rainbow)",
@@ -2962,7 +2962,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210009,
     "ART_CODE": "203.01",
     "TITLE": "East Central Mosaics (March of the Flowers)",
@@ -2982,7 +2982,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210010,
     "ART_CODE": "203.02",
     "TITLE": "East Central Mosaics (Pinwheel)",
@@ -3002,7 +3002,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210011,
     "ART_CODE": "204",
     "TITLE": "Palo Duro Mosaic",
@@ -3022,7 +3022,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210012,
     "ART_CODE": "205",
     "TITLE": "Gates to Sculpture Garden",
@@ -3042,7 +3042,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210013,
     "ART_CODE": "206",
     "TITLE": "Pentaceratops Sternbergii (aka \"Spike\")",
@@ -3062,7 +3062,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210014,
     "ART_CODE": "207",
     "TITLE": "Albertosaurus Sternbergii (aka \"Alberta\")",
@@ -3082,7 +3082,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210015,
     "ART_CODE": "208",
     "TITLE": "Historia de Barelas",
@@ -3102,7 +3102,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210016,
     "ART_CODE": "209",
     "TITLE": "Sharing the Joy of a New Discovery",
@@ -3122,7 +3122,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210017,
     "ART_CODE": null,
     "TITLE": null,
@@ -3142,7 +3142,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210018,
     "ART_CODE": "210",
     "TITLE": "To Serve & Protect",
@@ -3162,7 +3162,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210019,
     "ART_CODE": "211",
     "TITLE": "Kimo the Cat",
@@ -3182,7 +3182,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210020,
     "ART_CODE": "212",
     "TITLE": "Dawn Light",
@@ -3202,7 +3202,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210021,
     "ART_CODE": "213",
     "TITLE": "Historic Railing Design",
@@ -3222,7 +3222,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210022,
     "ART_CODE": "214",
     "TITLE": "A Tradition of Public Transportation in Albuquerque",
@@ -3242,7 +3242,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210023,
     "ART_CODE": "215",
     "TITLE": "Santa Madre Tierra y su Alma",
@@ -3262,7 +3262,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210024,
     "ART_CODE": "216",
     "TITLE": "Cone 10",
@@ -3282,7 +3282,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210025,
     "ART_CODE": "217",
     "TITLE": "Alligator Vase",
@@ -3302,7 +3302,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210026,
     "ART_CODE": "218",
     "TITLE": "“Five Stones of Elena Gallegos” Memorial",
@@ -3322,7 +3322,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210027,
     "ART_CODE": "219",
     "TITLE": "Ceramic Tile Mural",
@@ -3342,7 +3342,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210028,
     "ART_CODE": "220",
     "TITLE": "Arc - 28",
@@ -3362,7 +3362,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210029,
     "ART_CODE": "221",
     "TITLE": "Nob Hill Gateway",
@@ -3382,7 +3382,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210030,
     "ART_CODE": "222",
     "TITLE": "Nob Hill Gateway",
@@ -3402,7 +3402,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210031,
     "ART_CODE": "223",
     "TITLE": "La Pared de Imagenes (The Wall of Images)",
@@ -3422,7 +3422,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210032,
     "ART_CODE": "224",
     "TITLE": "Netherwood Habitat",
@@ -3442,7 +3442,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210033,
     "ART_CODE": "225",
     "TITLE": "Mountain Waves",
@@ -3462,7 +3462,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210034,
     "ART_CODE": "226",
     "TITLE": "Police Officers Memorial \"Beyond the Call\"",
@@ -3482,7 +3482,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210035,
     "ART_CODE": "227",
     "TITLE": "Morning Allegory",
@@ -3502,7 +3502,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210036,
     "ART_CODE": "228",
     "TITLE": " Mediterranean Conservatory Mural",
@@ -3522,7 +3522,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210037,
     "ART_CODE": "229",
     "TITLE": "Under the Portal of Santa Fe",
@@ -3542,7 +3542,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210038,
     "ART_CODE": "230",
     "TITLE": "Jubilee",
@@ -3562,7 +3562,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210039,
     "ART_CODE": "231",
     "TITLE": "Kokobello I",
@@ -3582,7 +3582,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210040,
     "ART_CODE": "232",
     "TITLE": "The Rio Wildlife (Frogs)",
@@ -3602,7 +3602,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210041,
     "ART_CODE": "232.01",
     "TITLE": "The Rio Wildlife (Fish)",
@@ -3622,7 +3622,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210042,
     "ART_CODE": "232.02",
     "TITLE": "The Rio Wildlife (Pelican)",
@@ -3642,7 +3642,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210043,
     "ART_CODE": "232.03",
     "TITLE": "The Rio Wildlife (Turtle)",
@@ -3662,7 +3662,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210044,
     "ART_CODE": "233",
     "TITLE": "Ark",
@@ -3682,7 +3682,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210045,
     "ART_CODE": "234",
     "TITLE": "Large Sculptural Form",
@@ -3702,7 +3702,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210046,
     "ART_CODE": "235",
     "TITLE": "Ramagir-A ",
@@ -3722,7 +3722,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210047,
     "ART_CODE": "237",
     "TITLE": "Construction with Chacmol",
@@ -3742,7 +3742,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210048,
     "ART_CODE": "238",
     "TITLE": " Rosalie Doolittle Fountain",
@@ -3762,7 +3762,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210049,
     "ART_CODE": "241",
     "TITLE": "Emerging Madonna I",
@@ -3782,7 +3782,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210050,
     "ART_CODE": "242",
     "TITLE": "Blackened Clay",
@@ -3802,7 +3802,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210051,
     "ART_CODE": "243",
     "TITLE": "Nichos with Tile #1",
@@ -3822,7 +3822,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210052,
     "ART_CODE": "243.01",
     "TITLE": "Nichos with Tile #2",
@@ -3842,7 +3842,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210053,
     "ART_CODE": "244",
     "TITLE": "Illustration",
@@ -3862,7 +3862,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210054,
     "ART_CODE": "245",
     "TITLE": "Illustration",
@@ -3882,7 +3882,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210055,
     "ART_CODE": "246",
     "TITLE": "Illustration",
@@ -3902,7 +3902,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210056,
     "ART_CODE": "247",
     "TITLE": "Illustration",
@@ -3922,7 +3922,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210057,
     "ART_CODE": "248",
     "TITLE": "Illustration",
@@ -3942,7 +3942,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210058,
     "ART_CODE": "249",
     "TITLE": "Illustration",
@@ -3962,7 +3962,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210059,
     "ART_CODE": "250",
     "TITLE": "Illustration",
@@ -3982,7 +3982,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210060,
     "ART_CODE": "251",
     "TITLE": "Illustration",
@@ -4002,7 +4002,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210061,
     "ART_CODE": "252",
     "TITLE": "Illustration",
@@ -4022,7 +4022,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210062,
     "ART_CODE": "253",
     "TITLE": "Illustration",
@@ -4042,7 +4042,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210063,
     "ART_CODE": "254",
     "TITLE": "Calligraphy",
@@ -4062,7 +4062,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210064,
     "ART_CODE": "255",
     "TITLE": "Don Quixote Suit Case",
@@ -4082,7 +4082,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210065,
     "ART_CODE": "256",
     "TITLE": "Untitled #1",
@@ -4102,7 +4102,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210066,
     "ART_CODE": "257",
     "TITLE": "Untitled, 76.1.1",
@@ -4122,7 +4122,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210067,
     "ART_CODE": "258",
     "TITLE": "Apprehension of the Stage Robbers",
@@ -4142,7 +4142,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210068,
     "ART_CODE": "259",
     "TITLE": "Untitled, 78.2.2A and 78.2.1B",
@@ -4162,7 +4162,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210069,
     "ART_CODE": "260",
     "TITLE": "Eastern Provinces",
@@ -4182,7 +4182,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210070,
     "ART_CODE": "261",
     "TITLE": "Untitled,78.3.2",
@@ -4202,7 +4202,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210071,
     "ART_CODE": "262",
     "TITLE": "Celebration in Story",
@@ -4222,7 +4222,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210072,
     "ART_CODE": "263",
     "TITLE": "To All the Great Animals Around the World",
@@ -4242,7 +4242,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210073,
     "ART_CODE": "264",
     "TITLE": "Bosque Rio Sunset",
@@ -4262,7 +4262,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210074,
     "ART_CODE": "265",
     "TITLE": "“Very Special Arts Garage” Neon Sign",
@@ -4282,7 +4282,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210075,
     "ART_CODE": "266",
     "TITLE": "Gardens that Bloom in Fragrance and Flower",
@@ -4302,7 +4302,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210076,
     "ART_CODE": "267",
     "TITLE": "Triptych",
@@ -4322,7 +4322,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210077,
     "ART_CODE": "268",
     "TITLE": "Gar Bender",
@@ -4342,7 +4342,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210078,
     "ART_CODE": "269",
     "TITLE": "Stickman #14 and #23",
@@ -4362,7 +4362,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210079,
     "ART_CODE": "270",
     "TITLE": "Silente Paisano",
@@ -4382,7 +4382,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210080,
     "ART_CODE": "271",
     "TITLE": "Spring Fever",
@@ -4402,7 +4402,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210081,
     "ART_CODE": "272",
     "TITLE": "Bison",
@@ -4422,7 +4422,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210082,
     "ART_CODE": "273",
     "TITLE": "La Cueva Sunset, East",
@@ -4442,7 +4442,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210083,
     "ART_CODE": "274",
     "TITLE": "La Cueva Sunset, West",
@@ -4462,7 +4462,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210084,
     "ART_CODE": "275",
     "TITLE": "1914 Ingram Foster Biplane Curtiss Model D",
@@ -4482,7 +4482,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210085,
     "ART_CODE": "276",
     "TITLE": "Guardian of the Fourth World",
@@ -4502,7 +4502,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210086,
     "ART_CODE": "277",
     "TITLE": "Seed Pot",
@@ -4522,7 +4522,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210087,
     "ART_CODE": "278",
     "TITLE": "Sikyatki Shaped Bowl",
@@ -4542,7 +4542,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210088,
     "ART_CODE": "279",
     "TITLE": "Owl Bowl",
@@ -4562,7 +4562,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210089,
     "ART_CODE": "280",
     "TITLE": "Polychrome Jar",
@@ -4582,7 +4582,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210090,
     "ART_CODE": "281",
     "TITLE": "Untitled - Bracelet",
@@ -4602,7 +4602,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210091,
     "ART_CODE": "282",
     "TITLE": "Seed Jar",
@@ -4622,7 +4622,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210092,
     "ART_CODE": "283",
     "TITLE": "Traditional Pueblo Concho Belt",
@@ -4642,7 +4642,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210093,
     "ART_CODE": "284",
     "TITLE": "Caldron",
@@ -4662,7 +4662,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210094,
     "ART_CODE": "285",
     "TITLE": "Fetish Necklace",
@@ -4682,7 +4682,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210095,
     "ART_CODE": "286",
     "TITLE": "Jar with Dancers",
@@ -4702,7 +4702,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210096,
     "ART_CODE": "287",
     "TITLE": "Untitled - Bracelet",
@@ -4722,7 +4722,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210097,
     "ART_CODE": "288",
     "TITLE": "Untitled - Tapestry",
@@ -4742,7 +4742,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210098,
     "ART_CODE": "289",
     "TITLE": "Poe Kwinsawin",
@@ -4762,7 +4762,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210099,
     "ART_CODE": "290",
     "TITLE": "Hopi Woman",
@@ -4782,7 +4782,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210100,
     "ART_CODE": "291",
     "TITLE": "Untitled - Necklace",
@@ -4802,7 +4802,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210101,
     "ART_CODE": "292",
     "TITLE": "Zuni Masked Dancer",
@@ -4822,7 +4822,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210102,
     "ART_CODE": "293",
     "TITLE": "Horse Mural",
@@ -4842,7 +4842,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210103,
     "ART_CODE": "294",
     "TITLE": "Navajo Yeibichai",
@@ -4862,7 +4862,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210104,
     "ART_CODE": "295",
     "TITLE": "Buffalo Mural",
@@ -4882,7 +4882,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210105,
     "ART_CODE": "296",
     "TITLE": "Matachine",
@@ -4902,7 +4902,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210106,
     "ART_CODE": "297",
     "TITLE": "Apache Crown Dancer",
@@ -4922,7 +4922,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210107,
     "ART_CODE": "298",
     "TITLE": "Brown Deer",
@@ -4942,7 +4942,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210108,
     "ART_CODE": "299",
     "TITLE": "Blue Deer",
@@ -4962,7 +4962,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210109,
     "ART_CODE": "300",
     "TITLE": "Buffalo Dancer",
@@ -4982,7 +4982,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210110,
     "ART_CODE": "301",
     "TITLE": "Taos Horsetail Dancer",
@@ -5002,7 +5002,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210111,
     "ART_CODE": "302",
     "TITLE": "Our Lady of Guadalupe",
@@ -5022,7 +5022,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210112,
     "ART_CODE": "303",
     "TITLE": "Bell Ranch Spur",
@@ -5042,7 +5042,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210113,
     "ART_CODE": "304",
     "TITLE": "Spanish Market",
@@ -5062,7 +5062,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210114,
     "ART_CODE": "305",
     "TITLE": "Look...We're Building You a Treehouse",
@@ -5082,7 +5082,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210115,
     "ART_CODE": "306",
     "TITLE": "Untitled - Necklace",
@@ -5102,7 +5102,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210116,
     "ART_CODE": "307",
     "TITLE": "Lamp Vase",
@@ -5122,7 +5122,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210117,
     "ART_CODE": "308",
     "TITLE": "Untitled - Pottery",
@@ -5142,7 +5142,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210118,
     "ART_CODE": "309",
     "TITLE": "Pottery Jar",
@@ -5162,7 +5162,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210119,
     "ART_CODE": "310",
     "TITLE": "Sueño Entre Sueño",
@@ -5182,7 +5182,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210120,
     "ART_CODE": "311",
     "TITLE": "Para David",
@@ -5202,7 +5202,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210121,
     "ART_CODE": "312",
     "TITLE": "Celebrating Nature/the Landscape Underground",
@@ -5222,7 +5222,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210122,
     "ART_CODE": null,
     "TITLE": null,
@@ -5242,7 +5242,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210123,
     "ART_CODE": "313",
     "TITLE": "Images in the Pueblo Night",
@@ -5262,7 +5262,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210124,
     "ART_CODE": "314",
     "TITLE": "Untitled - Basket",
@@ -5282,7 +5282,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210125,
     "ART_CODE": "315",
     "TITLE": "Storyteller with Eight Separate Children",
@@ -5302,7 +5302,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210126,
     "ART_CODE": "316",
     "TITLE": "Why the Coyote Bays at the Moon",
@@ -5322,7 +5322,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210127,
     "ART_CODE": "317",
     "TITLE": "Untitled - Necklace",
@@ -5342,7 +5342,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210128,
     "ART_CODE": "318",
     "TITLE": "Medicine Bear",
@@ -5362,7 +5362,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210129,
     "ART_CODE": "319",
     "TITLE": "Zebra",
@@ -5382,7 +5382,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210130,
     "ART_CODE": "320",
     "TITLE": "Untitled - Pottery",
@@ -5402,7 +5402,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210131,
     "ART_CODE": "321",
     "TITLE": "Haciendo Pan",
@@ -5422,7 +5422,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210132,
     "ART_CODE": "322",
     "TITLE": "Untitled - Weaving",
@@ -5442,7 +5442,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210133,
     "ART_CODE": null,
     "TITLE": null,
@@ -5462,7 +5462,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210134,
     "ART_CODE": "323",
     "TITLE": "Lucinda",
@@ -5482,7 +5482,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210135,
     "ART_CODE": "324",
     "TITLE": "Abstract Crown Dancer I",
@@ -5502,7 +5502,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210136,
     "ART_CODE": "325",
     "TITLE": "Calico Cat",
@@ -5522,7 +5522,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210137,
     "ART_CODE": "326",
     "TITLE": "Storyteller",
@@ -5542,7 +5542,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210138,
     "ART_CODE": "327",
     "TITLE": "Spring Fever",
@@ -5562,7 +5562,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210139,
     "ART_CODE": "328",
     "TITLE": "La Huida a Egipto",
@@ -5582,7 +5582,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210140,
     "ART_CODE": "329",
     "TITLE": "Cristo and Mourning Figures",
@@ -5602,7 +5602,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210141,
     "ART_CODE": "330",
     "TITLE": "San Pascual",
@@ -5622,7 +5622,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210142,
     "ART_CODE": "331",
     "TITLE": "Popular Santos in New Mexico",
@@ -5642,7 +5642,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210143,
     "ART_CODE": "332",
     "TITLE": "Holy Family",
@@ -5662,7 +5662,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210144,
     "ART_CODE": "333",
     "TITLE": "St. Francis",
@@ -5682,7 +5682,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210145,
     "ART_CODE": "334",
     "TITLE": "Queen of Rosary, Lady of Guadalupe, Lady of Sorrows",
@@ -5702,7 +5702,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210146,
     "ART_CODE": "335",
     "TITLE": "San Rafael",
@@ -5722,7 +5722,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210147,
     "ART_CODE": "336",
     "TITLE": "Bere de Santa Cruz",
@@ -5742,7 +5742,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210148,
     "ART_CODE": "338",
     "TITLE": "The Basket Dance",
@@ -5762,7 +5762,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210149,
     "ART_CODE": "339",
     "TITLE": "Dream of Flight",
@@ -5782,7 +5782,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210150,
     "ART_CODE": "340",
     "TITLE": "Rains for the Harvest",
@@ -5802,7 +5802,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210151,
     "ART_CODE": "341",
     "TITLE": "Processional - New Mexican Church",
@@ -5822,7 +5822,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210152,
     "ART_CODE": "342",
     "TITLE": "Last Tango in Santa Fe V",
@@ -5842,7 +5842,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210153,
     "ART_CODE": "343",
     "TITLE": "Corrales Mystique",
@@ -5862,7 +5862,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210154,
     "ART_CODE": "344",
     "TITLE": "\"What the hell are we waiting for now, Christmas?\"",
@@ -5882,7 +5882,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210155,
     "ART_CODE": "345",
     "TITLE": "Deep Sea Falls",
@@ -5902,7 +5902,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210156,
     "ART_CODE": "346",
     "TITLE": "Yellow Pot",
@@ -5922,7 +5922,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210157,
     "ART_CODE": "347",
     "TITLE": "Earth Legend Series",
@@ -5942,7 +5942,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210158,
     "ART_CODE": "348",
     "TITLE": "Tewa Motel, Albuquerque, New Mexico",
@@ -5962,7 +5962,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210159,
     "ART_CODE": "349",
     "TITLE": "Coyote with Woman Inside",
@@ -5982,7 +5982,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210160,
     "ART_CODE": "350",
     "TITLE": "The Magician",
@@ -6002,7 +6002,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210161,
     "ART_CODE": "351",
     "TITLE": "Sun Song",
@@ -6022,7 +6022,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210162,
     "ART_CODE": "352",
     "TITLE": "Night on Elk Mountain",
@@ -6042,7 +6042,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210163,
     "ART_CODE": "353",
     "TITLE": "Guadalupe Sunrise",
@@ -6062,7 +6062,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210164,
     "ART_CODE": "354",
     "TITLE": "San Ildefonso Hunting Dancer",
@@ -6082,7 +6082,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210165,
     "ART_CODE": "355",
     "TITLE": "Botanical Layout: Peony",
@@ -6102,7 +6102,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210166,
     "ART_CODE": "356",
     "TITLE": "The Last Hill",
@@ -6122,7 +6122,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210167,
     "ART_CODE": "357",
     "TITLE": "Quiet Scherzo I",
@@ -6142,7 +6142,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210168,
     "ART_CODE": "358",
     "TITLE": "All that Surrounds the Earth Surrounds Me",
@@ -6162,7 +6162,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210169,
     "ART_CODE": "359",
     "TITLE": "Untitled - Pottery",
@@ -6182,7 +6182,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210170,
     "ART_CODE": "360",
     "TITLE": "Serenity and Hope",
@@ -6202,7 +6202,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210171,
     "ART_CODE": "361",
     "TITLE": "Untitled",
@@ -6222,7 +6222,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210172,
     "ART_CODE": "362",
     "TITLE": "Andean Spirit",
@@ -6242,7 +6242,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210173,
     "ART_CODE": "363",
     "TITLE": "Rites",
@@ -6262,7 +6262,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210174,
     "ART_CODE": "364",
     "TITLE": "The Navajo Nation \"Storage Jar\"",
@@ -6282,7 +6282,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210175,
     "ART_CODE": "365",
     "TITLE": "La Facade II",
@@ -6302,7 +6302,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210176,
     "ART_CODE": "366",
     "TITLE": "Buffalo White",
@@ -6322,7 +6322,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210177,
     "ART_CODE": "367",
     "TITLE": "Figure in Green",
@@ -6342,7 +6342,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210178,
     "ART_CODE": "368",
     "TITLE": "Profile in Blue",
@@ -6362,7 +6362,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210179,
     "ART_CODE": "369",
     "TITLE": "Untitled: 81.2.1 A+B",
@@ -6382,7 +6382,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210180,
     "ART_CODE": "370",
     "TITLE": "Central Ave. at Carlisle, Albuquerque",
@@ -6402,7 +6402,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210181,
     "ART_CODE": "371",
     "TITLE": "Rudolfo Mascarenas - Amalia, New Mexico",
@@ -6422,7 +6422,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210182,
     "ART_CODE": "372",
     "TITLE": "Ansel Adams - Ranchos de Taos, New Mexico",
@@ -6442,7 +6442,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210183,
     "ART_CODE": "373",
     "TITLE": "American",
@@ -6462,7 +6462,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210184,
     "ART_CODE": "374",
     "TITLE": "Ever Changing",
@@ -6482,7 +6482,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210185,
     "ART_CODE": "393",
     "TITLE": "Mothers and Babies Under...Tree",
@@ -6502,7 +6502,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210186,
     "ART_CODE": "394",
     "TITLE": "Locust with Bushman Potato (Quare)",
@@ -6522,7 +6522,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210187,
     "ART_CODE": "395",
     "TITLE": "Remembering II",
@@ -6542,7 +6542,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210188,
     "ART_CODE": "396",
     "TITLE": "Stories from Within",
@@ -6562,7 +6562,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210189,
     "ART_CODE": "397",
     "TITLE": "Jujubu and Nxam Veldfood",
@@ -6582,7 +6582,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210190,
     "ART_CODE": "398",
     "TITLE": "Trickster I",
@@ -6602,7 +6602,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210191,
     "ART_CODE": "399",
     "TITLE": "Trickster II",
@@ -6622,7 +6622,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210192,
     "ART_CODE": "400",
     "TITLE": "Culture Speak",
@@ -6642,7 +6642,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210193,
     "ART_CODE": "401",
     "TITLE": "Tortoise with Ostrich",
@@ -6662,7 +6662,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210194,
     "ART_CODE": "402",
     "TITLE": "Trickster Hare and Lion",
@@ -6682,7 +6682,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210195,
     "ART_CODE": "403",
     "TITLE": "Jackal and Hyena",
@@ -6702,7 +6702,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210196,
     "ART_CODE": "404",
     "TITLE": "Antbear and Acacia Tree",
@@ -6722,7 +6722,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210197,
     "ART_CODE": "405",
     "TITLE": "King of the Monsters",
@@ -6742,7 +6742,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210198,
     "ART_CODE": "406",
     "TITLE": "Gods of the Warm, Cold Middle",
@@ -6762,7 +6762,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210199,
     "ART_CODE": "407",
     "TITLE": "Birds and Women Eating Sour...",
@@ -6782,7 +6782,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210200,
     "ART_CODE": "408",
     "TITLE": "Remembering I",
@@ -6802,7 +6802,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210201,
     "ART_CODE": "409",
     "TITLE": "Montaño Bridge Overlooks",
@@ -6822,7 +6822,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210202,
     "ART_CODE": "410",
     "TITLE": "Toad",
@@ -6842,7 +6842,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210203,
     "ART_CODE": "411",
     "TITLE": "Dragonfly",
@@ -6862,7 +6862,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210204,
     "ART_CODE": "412",
     "TITLE": "Mesa",
@@ -6882,7 +6882,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210205,
     "ART_CODE": "413",
     "TITLE": "Se Murio mi Guapanjero",
@@ -6902,7 +6902,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210206,
     "ART_CODE": "414",
     "TITLE": "Make Me an Angel",
@@ -6922,7 +6922,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210207,
     "ART_CODE": "415",
     "TITLE": "Quartet of the Seasons of New Mexico #5",
@@ -6942,7 +6942,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210208,
     "ART_CODE": "416",
     "TITLE": "Rio Grande Nature Center",
@@ -6962,7 +6962,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210209,
     "ART_CODE": "418",
     "TITLE": "Untitled",
@@ -6982,7 +6982,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210210,
     "ART_CODE": "419",
     "TITLE": "Untitled",
@@ -7002,7 +7002,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210211,
     "ART_CODE": "420",
     "TITLE": "Untitled",
@@ -7022,7 +7022,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210212,
     "ART_CODE": "423",
     "TITLE": "Consumer Market Series",
@@ -7042,7 +7042,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210213,
     "ART_CODE": "424",
     "TITLE": "They Won't Show their Faces",
@@ -7062,7 +7062,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210214,
     "ART_CODE": "425",
     "TITLE": "Tesuque Pueblo Camel Rock",
@@ -7082,7 +7082,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210215,
     "ART_CODE": "426",
     "TITLE": "Kiva Steps",
@@ -7102,7 +7102,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210216,
     "ART_CODE": "427",
     "TITLE": "Untitled",
@@ -7122,7 +7122,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210217,
     "ART_CODE": "428",
     "TITLE": "Untitled",
@@ -7142,7 +7142,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210218,
     "ART_CODE": "429",
     "TITLE": "Thunder Storm",
@@ -7162,7 +7162,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210219,
     "ART_CODE": "430",
     "TITLE": "Kachina Spirits",
@@ -7182,7 +7182,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210220,
     "ART_CODE": "431",
     "TITLE": "Untitled",
@@ -7202,7 +7202,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210221,
     "ART_CODE": "432",
     "TITLE": "Untitled",
@@ -7222,7 +7222,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210222,
     "ART_CODE": "433",
     "TITLE": "Untitled",
@@ -7242,7 +7242,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210223,
     "ART_CODE": "434",
     "TITLE": "Untitled",
@@ -7262,7 +7262,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210224,
     "ART_CODE": "435",
     "TITLE": "Purple Dreams",
@@ -7282,7 +7282,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210225,
     "ART_CODE": "436",
     "TITLE": "Chosen Contracts",
@@ -7302,7 +7302,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210226,
     "ART_CODE": "437",
     "TITLE": "What He Sees (II)",
@@ -7322,7 +7322,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210227,
     "ART_CODE": "438",
     "TITLE": "He Told Me to Create...(I)",
@@ -7342,7 +7342,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210228,
     "ART_CODE": "439",
     "TITLE": "Reclining Nude",
@@ -7362,7 +7362,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210229,
     "ART_CODE": "440",
     "TITLE": "Night: The Presence of Man",
@@ -7382,7 +7382,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210230,
     "ART_CODE": "441",
     "TITLE": "Untitled",
@@ -7402,7 +7402,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210231,
     "ART_CODE": "442",
     "TITLE": "Untitled",
@@ -7422,7 +7422,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210232,
     "ART_CODE": "443",
     "TITLE": "Homage to Summer Rains",
@@ -7442,7 +7442,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210233,
     "ART_CODE": "444",
     "TITLE": "Tewa Bluegate",
@@ -7462,7 +7462,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210234,
     "ART_CODE": "445",
     "TITLE": "Sioux Pony",
@@ -7482,7 +7482,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210235,
     "ART_CODE": "446",
     "TITLE": "Untitled",
@@ -7502,7 +7502,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210236,
     "ART_CODE": "447",
     "TITLE": "Untitled",
@@ -7522,7 +7522,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210237,
     "ART_CODE": null,
     "TITLE": null,
@@ -7542,7 +7542,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210238,
     "ART_CODE": "448",
     "TITLE": "Untitled",
@@ -7562,7 +7562,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210239,
     "ART_CODE": null,
     "TITLE": null,
@@ -7582,7 +7582,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210240,
     "ART_CODE": "449",
     "TITLE": "Butterfly Maidens",
@@ -7602,7 +7602,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210241,
     "ART_CODE": "450",
     "TITLE": "Zuni Corn Dancers",
@@ -7622,7 +7622,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210242,
     "ART_CODE": "451",
     "TITLE": "Spirit of a Tewa Water Jar",
@@ -7642,7 +7642,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210243,
     "ART_CODE": "452",
     "TITLE": "Water Jars of Many Blessings",
@@ -7662,7 +7662,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210244,
     "ART_CODE": "453",
     "TITLE": "Malinche",
@@ -7682,7 +7682,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210245,
     "ART_CODE": "454",
     "TITLE": "Kiva Figure",
@@ -7702,7 +7702,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210246,
     "ART_CODE": "455",
     "TITLE": "Corn Dryer",
@@ -7722,7 +7722,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210247,
     "ART_CODE": "456",
     "TITLE": "Mask",
@@ -7742,7 +7742,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210248,
     "ART_CODE": "457",
     "TITLE": "Tablita",
@@ -7762,7 +7762,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210249,
     "ART_CODE": "458",
     "TITLE": "Untitled",
@@ -7782,7 +7782,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210250,
     "ART_CODE": "459",
     "TITLE": "Across the Land",
@@ -7802,7 +7802,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210251,
     "ART_CODE": "460",
     "TITLE": "Vanished",
@@ -7822,7 +7822,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210252,
     "ART_CODE": "461",
     "TITLE": "Apache Plume",
@@ -7842,7 +7842,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210253,
     "ART_CODE": "462",
     "TITLE": "Chamisa",
@@ -7862,7 +7862,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210254,
     "ART_CODE": "463",
     "TITLE": "Mexican Hat",
@@ -7882,7 +7882,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210255,
     "ART_CODE": "464",
     "TITLE": "Red Iris",
@@ -7902,7 +7902,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210256,
     "ART_CODE": "465",
     "TITLE": "Corn Lily Spring",
@@ -7922,7 +7922,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210257,
     "ART_CODE": "466",
     "TITLE": "WPA Relief Map",
@@ -7942,7 +7942,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210258,
     "ART_CODE": "467",
     "TITLE": "Rays of Communication ",
@@ -7962,7 +7962,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210259,
     "ART_CODE": null,
     "TITLE": null,
@@ -7982,7 +7982,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210260,
     "ART_CODE": "468",
     "TITLE": "Teach the Mind & Touch the Spirit",
@@ -8002,7 +8002,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210261,
     "ART_CODE": "469",
     "TITLE": "Sandia Peaks, Spring Morning",
@@ -8022,7 +8022,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210262,
     "ART_CODE": "470",
     "TITLE": "Winter Snacking (Abert's squirrel)",
@@ -8042,7 +8042,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210263,
     "ART_CODE": "471",
     "TITLE": "Verde Canyon II",
@@ -8062,7 +8062,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210264,
     "ART_CODE": "472",
     "TITLE": "Indian and Eagle",
@@ -8082,7 +8082,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210265,
     "ART_CODE": "473",
     "TITLE": "Ottowi Cottonwood`",
@@ -8102,7 +8102,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210266,
     "ART_CODE": "474",
     "TITLE": "Spirit of the Pot",
@@ -8122,7 +8122,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210267,
     "ART_CODE": "475",
     "TITLE": "Monotype with Arch",
@@ -8142,7 +8142,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210268,
     "ART_CODE": "476",
     "TITLE": "The Flock",
@@ -8162,7 +8162,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210269,
     "ART_CODE": "477",
     "TITLE": "Black Elk's Vision",
@@ -8182,7 +8182,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210270,
     "ART_CODE": "478",
     "TITLE": "Eavesdropper",
@@ -8202,7 +8202,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210271,
     "ART_CODE": "479",
     "TITLE": "Contemporary Southwest Masks",
@@ -8222,7 +8222,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210272,
     "ART_CODE": "480",
     "TITLE": "Pueblo Indians: Man and Woman",
@@ -8242,7 +8242,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210273,
     "ART_CODE": "481",
     "TITLE": "Boy on Ladder",
@@ -8262,7 +8262,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210274,
     "ART_CODE": "482",
     "TITLE": "Monet's Garden",
@@ -8282,7 +8282,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210275,
     "ART_CODE": "483",
     "TITLE": "Los Volcanes",
@@ -8302,7 +8302,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210276,
     "ART_CODE": "484",
     "TITLE": "Interstate Corridors Enhancement ",
@@ -8322,7 +8322,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210277,
     "ART_CODE": "485",
     "TITLE": "Global Positioner",
@@ -8342,7 +8342,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210278,
     "ART_CODE": "486",
     "TITLE": "Clyde and Carrie Tingley ",
@@ -8362,7 +8362,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210279,
     "ART_CODE": "487",
     "TITLE": "Wheels in Motion",
@@ -8382,7 +8382,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210280,
     "ART_CODE": null,
     "TITLE": null,
@@ -8402,7 +8402,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210281,
     "ART_CODE": "488",
     "TITLE": "Marquee",
@@ -8422,7 +8422,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210282,
     "ART_CODE": "488.01",
     "TITLE": "Marquee Tiles",
@@ -8442,7 +8442,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210283,
     "ART_CODE": "489",
     "TITLE": "Oneness of Dance",
@@ -8462,7 +8462,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210284,
     "ART_CODE": "490",
     "TITLE": "Bus Stop",
@@ -8482,7 +8482,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210285,
     "ART_CODE": null,
     "TITLE": null,
@@ -8502,7 +8502,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210286,
     "ART_CODE": "491",
     "TITLE": "Carl von Hassler Mural Restoration",
@@ -8522,7 +8522,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210287,
     "ART_CODE": "492",
     "TITLE": "Washington Bridge Design",
@@ -8542,7 +8542,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210288,
     "ART_CODE": "493",
     "TITLE": "KiMo Art Conservation Project",
@@ -8562,7 +8562,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210289,
     "ART_CODE": "501",
     "TITLE": "Yarman I",
@@ -8582,7 +8582,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210290,
     "ART_CODE": "502",
     "TITLE": "Timur",
@@ -8602,7 +8602,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210291,
     "ART_CODE": "503",
     "TITLE": "H.G. 4",
@@ -8622,7 +8622,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210292,
     "ART_CODE": "504",
     "TITLE": "Untitled, 73.120",
@@ -8642,7 +8642,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210293,
     "ART_CODE": "505",
     "TITLE": "Untitled, 12.74",
@@ -8662,7 +8662,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210294,
     "ART_CODE": "506",
     "TITLE": "Pennant",
@@ -8682,7 +8682,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210295,
     "ART_CODE": "507",
     "TITLE": "Double Cross",
@@ -8702,7 +8702,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210296,
     "ART_CODE": "508",
     "TITLE": "Untitled Don Quixote Sketch",
@@ -8722,7 +8722,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210297,
     "ART_CODE": "509",
     "TITLE": "Untitled Don Quixote Sketch",
@@ -8742,7 +8742,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210298,
     "ART_CODE": "510",
     "TITLE": "Untitled Don Quixote Sketch",
@@ -8762,7 +8762,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210299,
     "ART_CODE": "511",
     "TITLE": "Sancho",
@@ -8782,7 +8782,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210300,
     "ART_CODE": "512",
     "TITLE": "In the Valley",
@@ -8802,7 +8802,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210301,
     "ART_CODE": "513",
     "TITLE": "Winter in the Valley",
@@ -8822,7 +8822,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210302,
     "ART_CODE": "514",
     "TITLE": "All My Relations",
@@ -8842,7 +8842,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210303,
     "ART_CODE": "515",
     "TITLE": "Icarus Sundial",
@@ -8862,7 +8862,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210304,
     "ART_CODE": "516",
     "TITLE": "To the Swinger of Birches I",
@@ -8882,7 +8882,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210305,
     "ART_CODE": "517",
     "TITLE": "To the Swinger of Birches II",
@@ -8902,7 +8902,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210306,
     "ART_CODE": "518",
     "TITLE": "Cowgirl Stories of the West",
@@ -8922,7 +8922,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210307,
     "ART_CODE": "519",
     "TITLE": "Mysterious Cowboy Tales",
@@ -8942,7 +8942,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210308,
     "ART_CODE": "520",
     "TITLE": "M. W. Rabbit Cup & Teapot",
@@ -8962,7 +8962,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210309,
     "ART_CODE": "521",
     "TITLE": "Queen of Hearts in Red Field",
@@ -8982,7 +8982,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210310,
     "ART_CODE": "522",
     "TITLE": "Untitled",
@@ -9002,7 +9002,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210311,
     "ART_CODE": "523",
     "TITLE": "Untitled",
@@ -9022,7 +9022,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210312,
     "ART_CODE": "524",
     "TITLE": "Untitled",
@@ -9042,7 +9042,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210313,
     "ART_CODE": "525",
     "TITLE": "Untitled",
@@ -9062,7 +9062,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210314,
     "ART_CODE": "526",
     "TITLE": "Energy and Birds",
@@ -9082,7 +9082,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210315,
     "ART_CODE": "527",
     "TITLE": "Absent the Dead Are",
@@ -9102,7 +9102,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210316,
     "ART_CODE": "528",
     "TITLE": "Petals",
@@ -9122,7 +9122,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210317,
     "ART_CODE": "529",
     "TITLE": "White Lily Turn",
@@ -9142,7 +9142,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210318,
     "ART_CODE": "530",
     "TITLE": "Seated Rabbit I",
@@ -9162,7 +9162,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210319,
     "ART_CODE": "531",
     "TITLE": "Buffalo Amulet II",
@@ -9182,7 +9182,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210320,
     "ART_CODE": "532",
     "TITLE": "Untitled (Snake)",
@@ -9202,7 +9202,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210321,
     "ART_CODE": "533",
     "TITLE": "Untitled (Blue Head)",
@@ -9222,7 +9222,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210322,
     "ART_CODE": "534",
     "TITLE": "Swan Song",
@@ -9242,7 +9242,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210323,
     "ART_CODE": "535",
     "TITLE": "The Soul in Transition",
@@ -9262,7 +9262,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210324,
     "ART_CODE": "536",
     "TITLE": "The Mall",
@@ -9282,7 +9282,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210325,
     "ART_CODE": "537",
     "TITLE": "Velocipede",
@@ -9302,7 +9302,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210326,
     "ART_CODE": "538",
     "TITLE": "Sandia Sunset",
@@ -9322,7 +9322,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210327,
     "ART_CODE": "539",
     "TITLE": "Untitled 541 (Orange)",
@@ -9342,7 +9342,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210328,
     "ART_CODE": "540",
     "TITLE": "Untitled #542 (Red) ",
@@ -9362,7 +9362,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210329,
     "ART_CODE": "541",
     "TITLE": "The Norther",
@@ -9382,7 +9382,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210330,
     "ART_CODE": "542",
     "TITLE": "Migrating Home",
@@ -9402,7 +9402,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210331,
     "ART_CODE": "543",
     "TITLE": "Albuquerque",
@@ -9422,7 +9422,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210332,
     "ART_CODE": "543.01",
     "TITLE": "Albuquerque",
@@ -9442,7 +9442,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210333,
     "ART_CODE": "544",
     "TITLE": "17th Century Globe Theatre",
@@ -9462,7 +9462,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210334,
     "ART_CODE": "547",
     "TITLE": "Eagle Dancer",
@@ -9482,7 +9482,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210335,
     "ART_CODE": "548",
     "TITLE": "Buffalo Dancer",
@@ -9502,7 +9502,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210336,
     "ART_CODE": "549",
     "TITLE": "Lest We Forget",
@@ -9522,7 +9522,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210337,
     "ART_CODE": "550",
     "TITLE": "Dr. John A Aragon",
@@ -9542,7 +9542,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210338,
     "ART_CODE": "551",
     "TITLE": "Pillars of the Community (#1)",
@@ -9562,7 +9562,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210339,
     "ART_CODE": "551.01",
     "TITLE": "Pillars of the Community (#2)",
@@ -9582,7 +9582,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210340,
     "ART_CODE": "551.02",
     "TITLE": "Pillars of the Community (#3)",
@@ -9602,7 +9602,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210341,
     "ART_CODE": "552",
     "TITLE": "The Tools of Heroism",
@@ -9622,7 +9622,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210342,
     "ART_CODE": "553",
     "TITLE": "Braden Memorial",
@@ -9642,7 +9642,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210343,
     "ART_CODE": "554",
     "TITLE": "Aluminum Yucca",
@@ -9662,7 +9662,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210344,
     "ART_CODE": "555",
     "TITLE": "In the Big Inning...",
@@ -9682,7 +9682,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210345,
     "ART_CODE": "556",
     "TITLE": "Sleuth",
@@ -9702,7 +9702,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210346,
     "ART_CODE": "557",
     "TITLE": "Yei Be Chei Central",
@@ -9722,7 +9722,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210347,
     "ART_CODE": "558",
     "TITLE": "Waiting for Rain",
@@ -9742,7 +9742,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210348,
     "ART_CODE": "559",
     "TITLE": "Journey Ahead",
@@ -9762,7 +9762,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210349,
     "ART_CODE": "560",
     "TITLE": "La Trumbuleña/Our Lady of Trumbull",
@@ -9782,7 +9782,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210350,
     "ART_CODE": "561",
     "TITLE": "9th Inning Heroes",
@@ -9802,7 +9802,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210351,
     "ART_CODE": null,
     "TITLE": null,
@@ -9822,7 +9822,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210352,
     "ART_CODE": "562",
     "TITLE": "Montaño Bridge Interpretive Panels",
@@ -9842,7 +9842,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210353,
     "ART_CODE": null,
     "TITLE": null,
@@ -9862,7 +9862,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210354,
     "ART_CODE": "563",
     "TITLE": "Prism/Solar Spectrum",
@@ -9882,7 +9882,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210355,
     "ART_CODE": "564",
     "TITLE": "Dragons",
@@ -9902,7 +9902,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210356,
     "ART_CODE": "565",
     "TITLE": "Doorways to Imagination ",
@@ -9922,7 +9922,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210357,
     "ART_CODE": "566",
     "TITLE": "Throne of Nyoka",
@@ -9942,7 +9942,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210358,
     "ART_CODE": "567",
     "TITLE": "Pavilion",
@@ -9962,7 +9962,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210359,
     "ART_CODE": "568",
     "TITLE": "A Cool Friend",
@@ -9982,7 +9982,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210360,
     "ART_CODE": "569",
     "TITLE": "Centric Shear",
@@ -10002,7 +10002,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210361,
     "ART_CODE": "570",
     "TITLE": "Alphabet Soup",
@@ -10022,7 +10022,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210362,
     "ART_CODE": "571",
     "TITLE": "Valley Gardens: Past to the Present",
@@ -10042,7 +10042,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210363,
     "ART_CODE": "572",
     "TITLE": "Poets' Plaza",
@@ -10062,7 +10062,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210364,
     "ART_CODE": "573",
     "TITLE": "Travelin' Man",
@@ -10082,7 +10082,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210365,
     "ART_CODE": "574",
     "TITLE": "La Serpentina ",
@@ -10102,7 +10102,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210366,
     "ART_CODE": "575",
     "TITLE": "Convoluted Ambuguity",
@@ -10122,7 +10122,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210367,
     "ART_CODE": "576",
     "TITLE": "Metal Paper",
@@ -10142,7 +10142,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210368,
     "ART_CODE": "577",
     "TITLE": "Grouper Fish Door Pulls",
@@ -10162,7 +10162,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210369,
     "ART_CODE": "579",
     "TITLE": "What's for Lunch (Wall)",
@@ -10182,7 +10182,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210370,
     "ART_CODE": "579.01",
     "TITLE": "What's for Lunch (skylight 1)",
@@ -10202,7 +10202,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210371,
     "ART_CODE": "579.02",
     "TITLE": "What's for Lunch (skylight 2)",
@@ -10222,7 +10222,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210372,
     "ART_CODE": "580",
     "TITLE": "New Mexico Inspired",
@@ -10242,7 +10242,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210373,
     "ART_CODE": "581",
     "TITLE": "Positive Energy of New Mexico",
@@ -10262,7 +10262,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210374,
     "ART_CODE": "581.01",
     "TITLE": "Positive Energy of New Mexico (#2)",
@@ -10282,7 +10282,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210375,
     "ART_CODE": "582",
     "TITLE": "All Things are Possible",
@@ -10302,7 +10302,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210376,
     "ART_CODE": "583",
     "TITLE": "La Jornada / Cuarto Centenario",
@@ -10322,7 +10322,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210377,
     "ART_CODE": "583.01",
     "TITLE": "La Jornada / Cuarto Centenario",
@@ -10342,7 +10342,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210378,
     "ART_CODE": "583.02",
     "TITLE": "Numbe Whageh / Cuarto Centenario",
@@ -10362,7 +10362,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210379,
     "ART_CODE": "584",
     "TITLE": "Tricentennial Towers (North Tower)",
@@ -10382,7 +10382,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210380,
     "ART_CODE": "584.01",
     "TITLE": "Tricentennial Towers (South Tower)",
@@ -10402,7 +10402,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210381,
     "ART_CODE": "585",
     "TITLE": "Fish Globe",
@@ -10422,7 +10422,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210382,
     "ART_CODE": "586",
     "TITLE": "Wheat",
@@ -10442,7 +10442,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210383,
     "ART_CODE": null,
     "TITLE": null,
@@ -10462,7 +10462,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210384,
     "ART_CODE": "587",
     "TITLE": "Corazon",
@@ -10482,7 +10482,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210385,
     "ART_CODE": "589",
     "TITLE": "BioPark Fence",
@@ -10502,7 +10502,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210386,
     "ART_CODE": "590",
     "TITLE": "Harry E. Kinney Memorial",
@@ -10522,7 +10522,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210387,
     "ART_CODE": "591",
     "TITLE": "Clouds",
@@ -10542,7 +10542,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210388,
     "ART_CODE": "591.01",
     "TITLE": "Clouds (maquette)",
@@ -10562,7 +10562,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210389,
     "ART_CODE": "592",
     "TITLE": "Kick Flip Sequence",
@@ -10582,7 +10582,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210390,
     "ART_CODE": "593",
     "TITLE": "Cesar Chavez Monument",
@@ -10602,7 +10602,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210391,
     "ART_CODE": "594",
     "TITLE": "Rio Grande",
@@ -10622,7 +10622,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210392,
     "ART_CODE": "595",
     "TITLE": "La Luz de Trescientos Años (Tricentennial Light)",
@@ -10642,7 +10642,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210393,
     "ART_CODE": "596",
     "TITLE": "Mountain Sunrise",
@@ -10662,7 +10662,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210394,
     "ART_CODE": "597",
     "TITLE": "Gordon Church Portrait",
@@ -10682,7 +10682,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210395,
     "ART_CODE": "598",
     "TITLE": "La Compuerta (Los Candelarias Village Artwork)",
@@ -10702,7 +10702,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210396,
     "ART_CODE": null,
     "TITLE": null,
@@ -10722,7 +10722,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210397,
     "ART_CODE": "599",
     "TITLE": "Burr Tangle and Axis Mundi (El Bosque de Los Sueños)",
@@ -10742,7 +10742,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210398,
     "ART_CODE": "599.01",
     "TITLE": "Time-Vine Tree (El Bosque de Los Sueños)",
@@ -10762,7 +10762,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210399,
     "ART_CODE": "599.02",
     "TITLE": "Thorn in the Grove Flower (El Bosque de Los Sueños)",
@@ -10782,7 +10782,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210400,
     "ART_CODE": "599.03",
     "TITLE": "Root Stalk Story (El Bosque de Los Sueños)",
@@ -10802,7 +10802,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210401,
     "ART_CODE": "599.04",
     "TITLE": "From the Fifth Tree Puzzle (El Bosque de Los Sueños)",
@@ -10822,7 +10822,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210402,
     "ART_CODE": "599.05",
     "TITLE": "Old Mamma Fern (El Bosque de Los Sueños)",
@@ -10842,7 +10842,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210403,
     "ART_CODE": "600",
     "TITLE": "The Crossing",
@@ -10862,7 +10862,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210404,
     "ART_CODE": "601",
     "TITLE": "Illusion of Place",
@@ -10882,7 +10882,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210405,
     "ART_CODE": null,
     "TITLE": null,
@@ -10902,7 +10902,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210406,
     "ART_CODE": "601.01",
     "TITLE": "Light Box Snake",
@@ -10922,7 +10922,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210407,
     "ART_CODE": null,
     "TITLE": null,
@@ -10942,7 +10942,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210408,
     "ART_CODE": "602.01",
     "TITLE": "Sometimes He Could See Through Space",
@@ -10962,7 +10962,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210409,
     "ART_CODE": "602.02",
     "TITLE": "Light Catcher",
@@ -10982,7 +10982,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210410,
     "ART_CODE": "602.03",
     "TITLE": "Durand 8",
@@ -11002,7 +11002,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210411,
     "ART_CODE": "602.04",
     "TITLE": "Road to Madrid",
@@ -11022,7 +11022,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210412,
     "ART_CODE": "602.05",
     "TITLE": "Raven Flight I",
@@ -11042,7 +11042,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210413,
     "ART_CODE": "602.06",
     "TITLE": "Bosque del Apache",
@@ -11062,7 +11062,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210414,
     "ART_CODE": "602.07",
     "TITLE": "Supporting Beams",
@@ -11082,7 +11082,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210415,
     "ART_CODE": "602.08",
     "TITLE": "Drained Butte",
@@ -11102,7 +11102,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210416,
     "ART_CODE": "602.09",
     "TITLE": "Grand River",
@@ -11122,7 +11122,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210417,
     "ART_CODE": "602.1",
     "TITLE": "Rising Wedge",
@@ -11142,7 +11142,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210418,
     "ART_CODE": "602.11",
     "TITLE": "Aetheria II",
@@ -11162,7 +11162,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210419,
     "ART_CODE": "602.12",
     "TITLE": "Locus",
@@ -11182,7 +11182,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210420,
     "ART_CODE": "602.13",
     "TITLE": "AIDS Memorial",
@@ -11202,7 +11202,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210421,
     "ART_CODE": "602.14",
     "TITLE": "Cactus Ornament",
@@ -11222,7 +11222,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210422,
     "ART_CODE": "602.15",
     "TITLE": "Black o'matsapa (Black Sunflower)",
@@ -11242,7 +11242,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210423,
     "ART_CODE": "602.16",
     "TITLE": "Brighter Toward the Dawn",
@@ -11262,7 +11262,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210424,
     "ART_CODE": "602.17",
     "TITLE": "Ft. Union, NM",
@@ -11282,7 +11282,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210425,
     "ART_CODE": "602.18",
     "TITLE": "Overhead Vista",
@@ -11302,7 +11302,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210426,
     "ART_CODE": "602.19",
     "TITLE": "Forest Floor",
@@ -11322,7 +11322,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210427,
     "ART_CODE": "603",
     "TITLE": "A Stop on the Rio Grande",
@@ -11342,7 +11342,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210428,
     "ART_CODE": "604",
     "TITLE": "Pat Hurley Park Art - Phase I",
@@ -11362,7 +11362,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210429,
     "ART_CODE": "605",
     "TITLE": "KiMo Sign",
@@ -11382,7 +11382,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210430,
     "ART_CODE": "606",
     "TITLE": "Bird of Time Sundial",
@@ -11402,7 +11402,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210431,
     "ART_CODE": "607",
     "TITLE": "Main Library",
@@ -11422,7 +11422,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210432,
     "ART_CODE": "607.1",
     "TITLE": "West Copper",
@@ -11442,7 +11442,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210433,
     "ART_CODE": "608",
     "TITLE": "Fire Station 5 (Sublimation of Flame)",
@@ -11462,7 +11462,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210434,
     "ART_CODE": "609",
     "TITLE": "Camera Man",
@@ -11482,7 +11482,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210435,
     "ART_CODE": "610",
     "TITLE": "Convention Center Mosaic",
@@ -11502,7 +11502,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210436,
     "ART_CODE": "611",
     "TITLE": "Infinitus",
@@ -11522,7 +11522,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210437,
     "ART_CODE": "613",
     "TITLE": "Flyway",
@@ -11542,7 +11542,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210438,
     "ART_CODE": "614",
     "TITLE": "Any-Angled Light (Bear Canyon Bridge Lighting)",
@@ -11562,7 +11562,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210439,
     "ART_CODE": "615",
     "TITLE": "Campo Expandido XVIII ",
@@ -11582,7 +11582,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210440,
     "ART_CODE": "616",
     "TITLE": "Lowell Elementary Sculpture Wall ",
@@ -11602,7 +11602,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210441,
     "ART_CODE": "617",
     "TITLE": "Untitled",
@@ -11622,7 +11622,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210442,
     "ART_CODE": "617.01",
     "TITLE": "Untitled",
@@ -11642,7 +11642,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210443,
     "ART_CODE": "617.02",
     "TITLE": "Untitled",
@@ -11662,7 +11662,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210444,
     "ART_CODE": "618",
     "TITLE": "Center of the City Centennial Project (1912)",
@@ -11682,7 +11682,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210445,
     "ART_CODE": "618.01",
     "TITLE": "Center of the City Centennial Project (2012)",
@@ -11702,7 +11702,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210446,
     "ART_CODE": "619",
     "TITLE": "Golf Course Road Art Fence",
@@ -11722,7 +11722,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210447,
     "ART_CODE": "620",
     "TITLE": "Gentleman",
@@ -11742,7 +11742,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210448,
     "ART_CODE": "621",
     "TITLE": "Sky Portal",
@@ -11762,7 +11762,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210449,
     "ART_CODE": "624",
     "TITLE": "Book Warden",
@@ -11782,7 +11782,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210450,
     "ART_CODE": "625",
     "TITLE": "Communications Center Photo Panel-Fire",
@@ -11802,7 +11802,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210451,
     "ART_CODE": "625.01",
     "TITLE": "Communications Center Photo Panel-Medical",
@@ -11822,7 +11822,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210452,
     "ART_CODE": "625.02",
     "TITLE": "Communications Center Photo Panel-Police",
@@ -11842,7 +11842,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210453,
     "ART_CODE": "625.03",
     "TITLE": "Communications Center Photo Panel-Call Center",
@@ -11862,7 +11862,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210454,
     "ART_CODE": "626",
     "TITLE": "Angelitos de Caridad",
@@ -11882,7 +11882,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210455,
     "ART_CODE": "627",
     "TITLE": "American Dog",
@@ -11902,7 +11902,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210456,
     "ART_CODE": "628",
     "TITLE": "Intellect",
@@ -11922,7 +11922,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210457,
     "ART_CODE": "628.01",
     "TITLE": "Yin and Yang",
@@ -11942,7 +11942,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210458,
     "ART_CODE": "628.02",
     "TITLE": "Untitled",
@@ -11962,7 +11962,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210459,
     "ART_CODE": "628.03",
     "TITLE": "Economy",
@@ -11982,7 +11982,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210460,
     "ART_CODE": "628.04",
     "TITLE": "Happy Coincidence",
@@ -12002,7 +12002,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210461,
     "ART_CODE": "630",
     "TITLE": "Portable Grove",
@@ -12022,7 +12022,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210462,
     "ART_CODE": "631",
     "TITLE": "Native Bird",
@@ -12042,7 +12042,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210463,
     "ART_CODE": "631.01",
     "TITLE": "Libra",
@@ -12062,7 +12062,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210464,
     "ART_CODE": "631.02",
     "TITLE": "Boots & Saddle Blanket",
@@ -12082,7 +12082,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210465,
     "ART_CODE": "631.03",
     "TITLE": "Waiting for Godot",
@@ -12102,7 +12102,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210466,
     "ART_CODE": "631.04",
     "TITLE": "Opposites Attract",
@@ -12122,7 +12122,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210467,
     "ART_CODE": "631.05",
     "TITLE": "Morning Pond #995",
@@ -12142,7 +12142,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210468,
     "ART_CODE": "631.06",
     "TITLE": "#11 Altiplano",
@@ -12162,7 +12162,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210469,
     "ART_CODE": "631.07",
     "TITLE": "Bound",
@@ -12182,7 +12182,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210470,
     "ART_CODE": "631.08",
     "TITLE": "Entangled",
@@ -12202,7 +12202,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210471,
     "ART_CODE": "631.09",
     "TITLE": "Waterfall of the New Moon",
@@ -12222,7 +12222,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210472,
     "ART_CODE": "631.1",
     "TITLE": "Untitled #22",
@@ -12242,7 +12242,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210473,
     "ART_CODE": "631.11",
     "TITLE": "Sweet Tweets",
@@ -12262,7 +12262,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210474,
     "ART_CODE": "631.12",
     "TITLE": "Albuquerque Volcano",
@@ -12282,7 +12282,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210475,
     "ART_CODE": "631.13",
     "TITLE": "Essence",
@@ -12302,7 +12302,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210476,
     "ART_CODE": "631.14",
     "TITLE": "Red Mesa",
@@ -12322,7 +12322,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210477,
     "ART_CODE": "631.15",
     "TITLE": "Dome Study for Itinerary Map West Through Space and Time (Albuquerque)",
@@ -12342,7 +12342,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210478,
     "ART_CODE": "631.16",
     "TITLE": "Populate - Dome Study for Itinerary Map West Through Space and Time (Albuquerque)",
@@ -12362,7 +12362,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210479,
     "ART_CODE": "631.17",
     "TITLE": "Dentrite Fusion",
@@ -12382,7 +12382,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210480,
     "ART_CODE": "631.18",
     "TITLE": "Composition no. 15",
@@ -12402,7 +12402,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210481,
     "ART_CODE": "631.19",
     "TITLE": "Her Lips are Red",
@@ -12422,7 +12422,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210482,
     "ART_CODE": "631.2",
     "TITLE": "Sa sara",
@@ -12442,7 +12442,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210483,
     "ART_CODE": "631.21",
     "TITLE": "Bird and Mountain",
@@ -12462,7 +12462,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210484,
     "ART_CODE": "631.22",
     "TITLE": "Bird Girl's Search for Water: Eyeglasses",
@@ -12482,7 +12482,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210485,
     "ART_CODE": "631.23",
     "TITLE": "Stanza",
@@ -12502,7 +12502,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210486,
     "ART_CODE": "631.24",
     "TITLE": "Homeworks II",
@@ -12522,7 +12522,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210487,
     "ART_CODE": "631.25",
     "TITLE": "Bosque Rhythms",
@@ -12542,7 +12542,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210488,
     "ART_CODE": "632",
     "TITLE": "Eucalipto and Roblon",
@@ -12562,7 +12562,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210489,
     "ART_CODE": "633",
     "TITLE": "Untitled ",
@@ -12582,7 +12582,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210490,
     "ART_CODE": "633.01",
     "TITLE": "Untitled",
@@ -12602,7 +12602,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210491,
     "ART_CODE": "633.02",
     "TITLE": "Untitled",
@@ -12622,7 +12622,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210492,
     "ART_CODE": "633.03",
     "TITLE": "Merge",
@@ -12642,7 +12642,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210493,
     "ART_CODE": "633.04",
     "TITLE": "Untitled",
@@ -12662,7 +12662,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210494,
     "ART_CODE": "634",
     "TITLE": "Revivir (Orphan Sign)",
@@ -12682,7 +12682,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210495,
     "ART_CODE": "635.01",
     "TITLE": "Untitled",
@@ -12702,7 +12702,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210496,
     "ART_CODE": "635.02",
     "TITLE": "Allyssa Rose: self portrait",
@@ -12722,7 +12722,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210497,
     "ART_CODE": "635.03",
     "TITLE": "Untitled",
@@ -12742,7 +12742,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210498,
     "ART_CODE": "635.04",
     "TITLE": "Untitled",
@@ -12762,7 +12762,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210499,
     "ART_CODE": "635.05",
     "TITLE": "Untitled",
@@ -12782,7 +12782,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210500,
     "ART_CODE": "637",
     "TITLE": "Unquenchable Spirit",
@@ -12802,7 +12802,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210501,
     "ART_CODE": "638",
     "TITLE": "Big I Artworks - Icon Wall - (North-bound Frontage Road)",
@@ -12822,7 +12822,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210502,
     "ART_CODE": "638.01",
     "TITLE": "Big I Artworks - Icon Wall - (West-bound Frontage Road)",
@@ -12842,7 +12842,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210503,
     "ART_CODE": "638.02",
     "TITLE": "Big I Artworks - Icon Wall - (West-bound Frontage Road #2)",
@@ -12862,7 +12862,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210504,
     "ART_CODE": "638.03",
     "TITLE": "Big I Artworks - Icon Wall - (South-bound Frontage Road)",
@@ -12882,7 +12882,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210505,
     "ART_CODE": "638.04",
     "TITLE": "Big I Artworks - Stone Sweeps and Pylons - (East-bound I-40)",
@@ -12902,7 +12902,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210506,
     "ART_CODE": "638.05",
     "TITLE": "Big I Artworks - Stone Sweeps and Pylons - (East-bound I-40)",
@@ -12922,7 +12922,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210507,
     "ART_CODE": "638.06",
     "TITLE": "Big I Artworks - Steel Sweeps and Pylons - (East-bound I-40)",
@@ -12942,7 +12942,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210508,
     "ART_CODE": "638.07",
     "TITLE": "Big I Artworks - Steel Sweeps and Pylons - (East-bound I-40)",
@@ -12962,7 +12962,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210509,
     "ART_CODE": "639",
     "TITLE": "International District Pillars - Northern European",
@@ -12982,7 +12982,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210510,
     "ART_CODE": "639.01",
     "TITLE": "International District Pillars - Caribbean",
@@ -13002,7 +13002,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210511,
     "ART_CODE": "639.02",
     "TITLE": "International District Pillars - SE Asian",
@@ -13022,7 +13022,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210512,
     "ART_CODE": "639.03",
     "TITLE": "International District Pillars - Spanish",
@@ -13042,7 +13042,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210513,
     "ART_CODE": "639.04",
     "TITLE": "International District Pillars - African",
@@ -13062,7 +13062,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210514,
     "ART_CODE": "639.05",
     "TITLE": "International District Pillars - Japanese",
@@ -13082,7 +13082,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210515,
     "ART_CODE": "639.06",
     "TITLE": "International District Pillars - Central American",
@@ -13102,7 +13102,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210516,
     "ART_CODE": "639.07",
     "TITLE": "International District Pillars - Native American",
@@ -13122,7 +13122,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210517,
     "ART_CODE": "639.08",
     "TITLE": "International District Walls - Native American Wall",
@@ -13142,7 +13142,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210518,
     "ART_CODE": "639.09",
     "TITLE": "International District Walls - Aztec Wall",
@@ -13162,7 +13162,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210519,
     "ART_CODE": "639.1",
     "TITLE": "International District Walls - Wave Wall",
@@ -13182,7 +13182,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210520,
     "ART_CODE": "641",
     "TITLE": "Auto Hawk",
@@ -13202,7 +13202,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210521,
     "ART_CODE": "642",
     "TITLE": "Rain to River - Hahn Arroyo Mosaic ",
@@ -13222,7 +13222,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210522,
     "ART_CODE": "643",
     "TITLE": "El Otro Lado",
@@ -13242,7 +13242,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210523,
     "ART_CODE": "643.01",
     "TITLE": "El Otro Lado",
@@ -13262,7 +13262,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210524,
     "ART_CODE": "643.02",
     "TITLE": "El Otro Lado",
@@ -13282,7 +13282,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210525,
     "ART_CODE": "643.03",
     "TITLE": "El Otro Lado",
@@ -13302,7 +13302,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210526,
     "ART_CODE": "643.04",
     "TITLE": "El Otro Lado",
@@ -13322,7 +13322,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210527,
     "ART_CODE": "643.05",
     "TITLE": "El Otro Lado",
@@ -13342,7 +13342,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210528,
     "ART_CODE": "643.06",
     "TITLE": "El Otro Lado",
@@ -13362,7 +13362,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210529,
     "ART_CODE": "643.07",
     "TITLE": "El Otro Lado",
@@ -13382,7 +13382,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210530,
     "ART_CODE": "643.08",
     "TITLE": "El Otro Lado",
@@ -13402,7 +13402,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210531,
     "ART_CODE": "643.09",
     "TITLE": "El Otro Lado",
@@ -13422,7 +13422,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210532,
     "ART_CODE": "643.1",
     "TITLE": "El Otro Lado",
@@ -13442,7 +13442,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210533,
     "ART_CODE": "643.11",
     "TITLE": "El Otro Lado",
@@ -13462,7 +13462,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210534,
     "ART_CODE": "643.12",
     "TITLE": "El Otro Lado",
@@ -13482,7 +13482,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210535,
     "ART_CODE": "643.13",
     "TITLE": "El Otro Lado",
@@ -13502,7 +13502,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210536,
     "ART_CODE": "643.14",
     "TITLE": "El Otro Lado",
@@ -13522,7 +13522,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210537,
     "ART_CODE": "643.15",
     "TITLE": "El Otro Lado",
@@ -13542,7 +13542,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210538,
     "ART_CODE": "643.16",
     "TITLE": "El Otro Lado",
@@ -13562,7 +13562,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210539,
     "ART_CODE": "643.17",
     "TITLE": "El Otro Lado",
@@ -13582,7 +13582,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210540,
     "ART_CODE": "643.18",
     "TITLE": "El Otro Lado",
@@ -13602,7 +13602,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210541,
     "ART_CODE": "643.19",
     "TITLE": "El Otro Lado",
@@ -13622,7 +13622,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210542,
     "ART_CODE": "643.2",
     "TITLE": "El Otro Lado",
@@ -13642,7 +13642,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210543,
     "ART_CODE": "643.21",
     "TITLE": "El Otro Lado",
@@ -13662,7 +13662,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210544,
     "ART_CODE": "643.22",
     "TITLE": "El Otro Lado (the Book)",
@@ -13682,7 +13682,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210545,
     "ART_CODE": "645",
     "TITLE": "Tingley Art Fence",
@@ -13702,7 +13702,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210546,
     "ART_CODE": "646",
     "TITLE": "Reflecting",
@@ -13722,7 +13722,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210547,
     "ART_CODE": "646.01",
     "TITLE": "Rhythm of the Night: Coming and Going",
@@ -13742,7 +13742,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210548,
     "ART_CODE": "646.02",
     "TITLE": "Rhythm of the Night: Confiding",
@@ -13762,7 +13762,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210549,
     "ART_CODE": "646.03",
     "TITLE": "Rhythm of the Night: Gathering",
@@ -13782,7 +13782,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210550,
     "ART_CODE": "646.04",
     "TITLE": "Rhythm of the Night: Incoming",
@@ -13802,7 +13802,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210551,
     "ART_CODE": "646.05",
     "TITLE": "Rhythm of the Night: Landing",
@@ -13822,7 +13822,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210552,
     "ART_CODE": "646.06",
     "TITLE": "Rhythm of the Night: Spinning",
@@ -13842,7 +13842,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210553,
     "ART_CODE": "646.07",
     "TITLE": "Rhythm of the Night: Storming",
@@ -13862,7 +13862,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210554,
     "ART_CODE": "646.08",
     "TITLE": "Rhythm of the Night: Watching",
@@ -13882,7 +13882,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210555,
     "ART_CODE": "646.09",
     "TITLE": "Rhythm of the Night: Romancing",
@@ -13902,7 +13902,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210556,
     "ART_CODE": "647",
     "TITLE": "Light in Albuquerque - Foxtrot",
@@ -13922,7 +13922,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210557,
     "ART_CODE": "647.01",
     "TITLE": "Light in Albuquerque - Delta",
@@ -13942,7 +13942,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210558,
     "ART_CODE": "647.02",
     "TITLE": "Light in Albuquerque - Oscar",
@@ -13962,7 +13962,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210559,
     "ART_CODE": "647.03",
     "TITLE": "Light in Albuquerque - Roger",
@@ -13982,7 +13982,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210560,
     "ART_CODE": "647.04",
     "TITLE": "Light in Albuquerque - Uncle",
@@ -14002,7 +14002,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210561,
     "ART_CODE": "647.05",
     "TITLE": "Light in Albuquerque - Victor",
@@ -14022,7 +14022,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210562,
     "ART_CODE": "647.06",
     "TITLE": "Light in Albuquerque - X-Ray",
@@ -14042,7 +14042,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210563,
     "ART_CODE": "647.07",
     "TITLE": "Light in Albuquerque - Yankee 1",
@@ -14062,7 +14062,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210564,
     "ART_CODE": "647.08",
     "TITLE": "Light in Albuquerque - Yankee 2",
@@ -14082,7 +14082,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210565,
     "ART_CODE": "647.09",
     "TITLE": "Light in Albuquerque - Zulu",
@@ -14102,7 +14102,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210566,
     "ART_CODE": "648",
     "TITLE": "Portraits: The Artists of New Mexico (Betty Hahn)",
@@ -14122,7 +14122,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210567,
     "ART_CODE": "648.01",
     "TITLE": "Portraits: The Artists of New Mexico (Cheryl Dietz)",
@@ -14142,7 +14142,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210568,
     "ART_CODE": "648.02",
     "TITLE": "Portraits: The Artists of New Mexico (Frank McCulloch)",
@@ -14162,7 +14162,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210569,
     "ART_CODE": "648.03",
     "TITLE": "Portraits: The Artists of New Mexico (Roger Atkins)",
@@ -14182,7 +14182,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210570,
     "ART_CODE": "648.04",
     "TITLE": "Portraits: The Artists of New Mexico (Jim Wagner)",
@@ -14202,7 +14202,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210571,
     "ART_CODE": "648.05",
     "TITLE": "Portraits: The Artists of New Mexico (Larry Bell)",
@@ -14222,7 +14222,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210572,
     "ART_CODE": "648.06",
     "TITLE": "Portraits: The Artists of New Mexico (Nicholas Herrera)",
@@ -14242,7 +14242,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210573,
     "ART_CODE": "648.07",
     "TITLE": "Portraits: The Artists of New Mexico (Patrick Nagatani)",
@@ -14262,7 +14262,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210574,
     "ART_CODE": "648.08",
     "TITLE": "Portraits: The Artists of New Mexico (Norman Mauskopf)",
@@ -14282,7 +14282,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210575,
     "ART_CODE": "648.09",
     "TITLE": "Portraits: The Artists of New Mexico (John Garret)",
@@ -14302,7 +14302,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210576,
     "ART_CODE": "648.1",
     "TITLE": "Portraits: The Artists of New Mexico (Jennifer Vasher)",
@@ -14322,7 +14322,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210577,
     "ART_CODE": "649",
     "TITLE": "Mythological Landscape: Open Space Visitors Center: (Boca Negra Canyon)",
@@ -14342,7 +14342,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210578,
     "ART_CODE": "649.01",
     "TITLE": "Mythological Landscape: Open Space Visitors Center: (Maze in the Maize)",
@@ -14362,7 +14362,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210579,
     "ART_CODE": "649.02",
     "TITLE": "Mythological Landscape: Open Space Visitors Center: (Cottonwoods Falt Gray)",
@@ -14382,7 +14382,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210580,
     "ART_CODE": "649.03",
     "TITLE": "Mythological Landscape: Open Space Visitors Center: (Elena Gallegos)",
@@ -14402,7 +14402,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210581,
     "ART_CODE": "649.04",
     "TITLE": "Mythological Landscape: Open Space Visitors Center (Placitas Open Space)",
@@ -14422,7 +14422,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210582,
     "ART_CODE": "649.05",
     "TITLE": "Mythological Landscape: Open Space Visitors Center (National Rivers Cleanup Day - Montano Bridge)",
@@ -14442,7 +14442,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210583,
     "ART_CODE": "649.06",
     "TITLE": "Mythological Landscape: Open Space Visitors Center (Volunteer Day - Clearing Trees)",
@@ -14462,7 +14462,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210584,
     "ART_CODE": "649.07",
     "TITLE": "Mythological Landscape: Open Space Visitors Center (Volunteer Day - Along the Rio Grande)",
@@ -14482,7 +14482,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210585,
     "ART_CODE": "649.08",
     "TITLE": "Mythological Landscape: Open Space Visitors Center: (National River Cleanup Day - Under Bridge)",
@@ -14502,7 +14502,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210586,
     "ART_CODE": "649.09",
     "TITLE": "Mythological Landscape: Open Space Visitors Center: (Foothills open Space)",
@@ -14522,7 +14522,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210587,
     "ART_CODE": "649.1",
     "TITLE": "Mythological Landscape: Piedra Lisa",
@@ -14542,7 +14542,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210588,
     "ART_CODE": "649.11",
     "TITLE": "Mythological Landscape: Pino Trail",
@@ -14562,7 +14562,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210589,
     "ART_CODE": "650",
     "TITLE": "The Intersection: 12th and Mountain",
@@ -14582,7 +14582,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210590,
     "ART_CODE": "650.01",
     "TITLE": "Life on Mountain Road: Tiguex Park",
@@ -14602,7 +14602,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210591,
     "ART_CODE": "650.02",
     "TITLE": "Life on Mountain Road: The Crossing",
@@ -14622,7 +14622,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210592,
     "ART_CODE": "650.03",
     "TITLE": "Life on Mountain Road: The Artist",
@@ -14642,7 +14642,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210593,
     "ART_CODE": "650.04",
     "TITLE": "Life on Mountain Road: The Bike and the Burger",
@@ -14662,7 +14662,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210594,
     "ART_CODE": "650.05",
     "TITLE": "Life on Mountain Road: The Baker",
@@ -14682,7 +14682,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210595,
     "ART_CODE": "650.06",
     "TITLE": "Life on Mountain Road: The History of Transportation",
@@ -14702,7 +14702,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210596,
     "ART_CODE": "650.07",
     "TITLE": "Life on Mountain Road: The Welder",
@@ -14722,7 +14722,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210597,
     "ART_CODE": "650.08",
     "TITLE": "Life on Mountain Road: The Cafeteria",
@@ -14742,7 +14742,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210598,
     "ART_CODE": "650.09",
     "TITLE": "Life on Mountain Road: The Parade",
@@ -14762,7 +14762,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210599,
     "ART_CODE": "651",
     "TITLE": "Travel Through ABQ: Trolley",
@@ -14782,7 +14782,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210600,
     "ART_CODE": "651.01",
     "TITLE": "Travel Through ABQ: Airplane",
@@ -14802,7 +14802,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210601,
     "ART_CODE": "651.02",
     "TITLE": "Travel Through ABQ: Big-I",
@@ -14822,7 +14822,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210602,
     "ART_CODE": "651.03",
     "TITLE": "Travel Through ABQ: Central",
@@ -14842,7 +14842,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210603,
     "ART_CODE": "651.04",
     "TITLE": "Travel Through ABQ: Downtown",
@@ -14862,7 +14862,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210604,
     "ART_CODE": "651.05",
     "TITLE": "Travel Through ABQ: Nob Hill Bike Path",
@@ -14882,7 +14882,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210605,
     "ART_CODE": "651.06",
     "TITLE": "Travel Through ABQ: RailRunner",
@@ -14902,7 +14902,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210606,
     "ART_CODE": "651.07",
     "TITLE": "Travel Through ABQ: Rapid Ride 2",
@@ -14922,7 +14922,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210607,
     "ART_CODE": "651.08",
     "TITLE": "Travel Through ABQ: Rapid Ride",
@@ -14942,7 +14942,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210608,
     "ART_CODE": "651.09",
     "TITLE": "Travel Through ABQ: Tram",
@@ -14962,7 +14962,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210609,
     "ART_CODE": "652",
     "TITLE": "El Agua es La Vida: Reflection",
@@ -14982,7 +14982,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210610,
     "ART_CODE": "653",
     "TITLE": "Fractal #1",
@@ -15002,7 +15002,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210611,
     "ART_CODE": "653.01",
     "TITLE": "Fractal #2",
@@ -15022,7 +15022,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210612,
     "ART_CODE": "653.02",
     "TITLE": "Fractal #3",
@@ -15042,7 +15042,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210613,
     "ART_CODE": "654",
     "TITLE": "Los Muertitos",
@@ -15062,7 +15062,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210614,
     "ART_CODE": "655",
     "TITLE": "Goat Fight",
@@ -15082,7 +15082,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210615,
     "ART_CODE": "656",
     "TITLE": "Message in the Bottle",
@@ -15102,7 +15102,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210616,
     "ART_CODE": "657",
     "TITLE": "Fire Rocket",
@@ -15122,7 +15122,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210617,
     "ART_CODE": "659",
     "TITLE": "Of the Middle Rio Grande",
@@ -15142,7 +15142,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210618,
     "ART_CODE": "660",
     "TITLE": "Southwest Vernacular I",
@@ -15162,7 +15162,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210619,
     "ART_CODE": "660.01",
     "TITLE": "Southwest Vernacular II",
@@ -15182,7 +15182,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210620,
     "ART_CODE": "661",
     "TITLE": "The Passing (1 of 2)",
@@ -15202,7 +15202,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210621,
     "ART_CODE": "661.01",
     "TITLE": "The Passing (2 of 2)",
@@ -15222,7 +15222,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210622,
     "ART_CODE": "662",
     "TITLE": "You're Not From Around Here",
@@ -15242,7 +15242,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210623,
     "ART_CODE": "662.01",
     "TITLE": "Froggy",
@@ -15262,7 +15262,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210624,
     "ART_CODE": "662.02",
     "TITLE": "Toot",
@@ -15282,7 +15282,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210625,
     "ART_CODE": "662.03",
     "TITLE": "Spun",
@@ -15302,7 +15302,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210626,
     "ART_CODE": "662.04",
     "TITLE": "Posy",
@@ -15322,7 +15322,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210627,
     "ART_CODE": "662.05",
     "TITLE": "Pop",
@@ -15342,7 +15342,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210628,
     "ART_CODE": "662.06",
     "TITLE": "Fence II",
@@ -15362,7 +15362,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210629,
     "ART_CODE": "664",
     "TITLE": "Desert Flower",
@@ -15382,7 +15382,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210630,
     "ART_CODE": "664.01",
     "TITLE": "Desert Flower",
@@ -15402,7 +15402,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210631,
     "ART_CODE": "665",
     "TITLE": "Midstream",
@@ -15422,7 +15422,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210632,
     "ART_CODE": "666",
     "TITLE": "Prayer for Rain",
@@ -15442,7 +15442,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210633,
     "ART_CODE": "667.02",
     "TITLE": "Untitled",
@@ -15462,7 +15462,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210634,
     "ART_CODE": "667.03",
     "TITLE": "Untitled",
@@ -15482,7 +15482,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210635,
     "ART_CODE": "669",
     "TITLE": "Red-factor",
@@ -15502,7 +15502,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210636,
     "ART_CODE": "670",
     "TITLE": "Enigma II",
@@ -15522,7 +15522,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210637,
     "ART_CODE": "671",
     "TITLE": "Dazzle Razzle",
@@ -15542,7 +15542,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210638,
     "ART_CODE": "672",
     "TITLE": "Y'es Em (I am)",
@@ -15562,7 +15562,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210639,
     "ART_CODE": "673",
     "TITLE": "Untitled, Origins# 0-106-78 (bk 130)",
@@ -15582,7 +15582,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210640,
     "ART_CODE": "674",
     "TITLE": "Untitled, Origins# 0-105-78 (bk 130)",
@@ -15602,7 +15602,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210641,
     "ART_CODE": "675",
     "TITLE": "Yarman II",
@@ -15622,7 +15622,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210642,
     "ART_CODE": "676",
     "TITLE": "Untitled, (variant)",
@@ -15642,7 +15642,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210643,
     "ART_CODE": "677",
     "TITLE": "Untitled, 81.6.3A",
@@ -15662,7 +15662,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210644,
     "ART_CODE": "678",
     "TITLE": "Untitled 79.104",
@@ -15682,7 +15682,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210645,
     "ART_CODE": "679",
     "TITLE": "Untitled 79.12.3",
@@ -15702,7 +15702,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210646,
     "ART_CODE": "680",
     "TITLE": "Untitled 79.12.4",
@@ -15722,7 +15722,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210647,
     "ART_CODE": "681",
     "TITLE": "Untitled 78.9.4",
@@ -15742,7 +15742,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210648,
     "ART_CODE": "682",
     "TITLE": "Untitled 78.9.3",
@@ -15762,7 +15762,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210649,
     "ART_CODE": "683",
     "TITLE": "Untitled (1978)",
@@ -15782,7 +15782,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210650,
     "ART_CODE": "684",
     "TITLE": "Tamam",
@@ -15802,7 +15802,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210651,
     "ART_CODE": "685",
     "TITLE": "Osmanli",
@@ -15822,7 +15822,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210652,
     "ART_CODE": "686",
     "TITLE": "Maelstrom",
@@ -15842,7 +15842,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210653,
     "ART_CODE": "687",
     "TITLE": "Galata II",
@@ -15862,7 +15862,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210654,
     "ART_CODE": "688",
     "TITLE": "Ayasofia II",
@@ -15882,7 +15882,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210655,
     "ART_CODE": "689",
     "TITLE": "Attic Reflections I",
@@ -15902,7 +15902,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210656,
     "ART_CODE": "690",
     "TITLE": "Attic Reflections II",
@@ -15922,7 +15922,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210657,
     "ART_CODE": "691",
     "TITLE": "Attic Reflections III",
@@ -15942,7 +15942,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210658,
     "ART_CODE": "692",
     "TITLE": "Attic Reflections IV",
@@ -15962,7 +15962,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210659,
     "ART_CODE": "693",
     "TITLE": "Ars Antiqua",
@@ -15982,7 +15982,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210660,
     "ART_CODE": "694",
     "TITLE": "Arcanum",
@@ -16002,7 +16002,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210661,
     "ART_CODE": "695",
     "TITLE": "Ahmet Cami",
@@ -16022,7 +16022,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210662,
     "ART_CODE": "705",
     "TITLE": "Los Libros",
@@ -16042,7 +16042,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210663,
     "ART_CODE": "707",
     "TITLE": "Muertarina",
@@ -16062,7 +16062,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210664,
     "ART_CODE": "709",
     "TITLE": "In the Bosque",
@@ -16082,7 +16082,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210665,
     "ART_CODE": "710",
     "TITLE": "Holes in our Hearts",
@@ -16102,7 +16102,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210666,
     "ART_CODE": "711",
     "TITLE": "You Are Here",
@@ -16122,7 +16122,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210667,
     "ART_CODE": "714",
     "TITLE": "Fish School",
@@ -16142,7 +16142,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210668,
     "ART_CODE": "720",
     "TITLE": "Monument",
@@ -16162,7 +16162,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210669,
     "ART_CODE": "721",
     "TITLE": "She Taught Us to Weave",
@@ -16182,7 +16182,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210670,
     "ART_CODE": "722",
     "TITLE": "Trance Dance",
@@ -16202,7 +16202,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210671,
     "ART_CODE": "723",
     "TITLE": "Dualities",
@@ -16222,7 +16222,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210672,
     "ART_CODE": "724",
     "TITLE": "Mirrored Robots",
@@ -16242,7 +16242,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210673,
     "ART_CODE": "725",
     "TITLE": "Augmented Reality for Open Spaces",
@@ -16262,7 +16262,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210674,
     "ART_CODE": "726",
     "TITLE": "Untitled (Bees)",
@@ -16282,7 +16282,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210675,
     "ART_CODE": "727",
     "TITLE": "Inland Empire: A Suspended Animation",
@@ -16302,7 +16302,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210676,
     "ART_CODE": "728",
     "TITLE": "Patternation",
@@ -16322,7 +16322,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210677,
     "ART_CODE": "729",
     "TITLE": "Desert Elements",
@@ -16342,7 +16342,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210678,
     "ART_CODE": "730",
     "TITLE": "Quantum Bridge",
@@ -16362,7 +16362,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210679,
     "ART_CODE": "731",
     "TITLE": "Signs of the Times",
@@ -16382,7 +16382,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210680,
     "ART_CODE": "733",
     "TITLE": "Suspense",
@@ -16402,7 +16402,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210681,
     "ART_CODE": "734",
     "TITLE": "The Guardians",
@@ -16422,7 +16422,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210682,
     "ART_CODE": "737",
     "TITLE": "E Pluribus Unum",
@@ -16442,7 +16442,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210683,
     "ART_CODE": "738",
     "TITLE": "Passing Through the Night",
@@ -16462,7 +16462,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210684,
     "ART_CODE": "739",
     "TITLE": "Seed Bowl",
@@ -16482,7 +16482,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210685,
     "ART_CODE": "740",
     "TITLE": "Jolly Rodgers",
@@ -16502,7 +16502,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210686,
     "ART_CODE": "741",
     "TITLE": "16 Artist's I Like",
@@ -16522,7 +16522,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210687,
     "ART_CODE": "742",
     "TITLE": "Bosque del Apache",
@@ -16542,7 +16542,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210688,
     "ART_CODE": "743",
     "TITLE": "Prickly Green II",
@@ -16562,7 +16562,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210689,
     "ART_CODE": "744",
     "TITLE": "Foothills",
@@ -16582,7 +16582,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210690,
     "ART_CODE": "745",
     "TITLE": "Bucking Bronco",
@@ -16602,7 +16602,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210691,
     "ART_CODE": "746",
     "TITLE": "Holocene",
@@ -16622,7 +16622,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210692,
     "ART_CODE": "747",
     "TITLE": "Blue Sky Tour",
@@ -16642,7 +16642,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210693,
     "ART_CODE": "748",
     "TITLE": "Winter Meditation",
@@ -16662,7 +16662,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210694,
     "ART_CODE": "749",
     "TITLE": "Common Chama Chicken",
@@ -16682,7 +16682,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210695,
     "ART_CODE": "750",
     "TITLE": "Susurrus (Summer Evenings)",
@@ -16702,7 +16702,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210696,
     "ART_CODE": "751",
     "TITLE": "Rio Grande Table",
@@ -16722,7 +16722,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210697,
     "ART_CODE": "752",
     "TITLE": "Red Blanket",
@@ -16742,7 +16742,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210698,
     "ART_CODE": "753",
     "TITLE": "Tangerine Dreams and Marmalade Skies",
@@ -16762,7 +16762,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210699,
     "ART_CODE": "754",
     "TITLE": "Some Covers",
@@ -16782,7 +16782,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210700,
     "ART_CODE": "755",
     "TITLE": "NM12-0013",
@@ -16802,7 +16802,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210701,
     "ART_CODE": "756",
     "TITLE": "Soapworks",
@@ -16822,7 +16822,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210702,
     "ART_CODE": "757",
     "TITLE": "Flagship",
@@ -16842,7 +16842,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210703,
     "ART_CODE": "758",
     "TITLE": "Desert Primrose",
@@ -16862,7 +16862,7 @@
    }
   },
   {
-   "type": "Feature", "attributes": {
+   "type": "Feature", "properties": {
     "OBJECTID": 210704,
     "ART_CODE": "760",
     "TITLE": "Star Chair",
