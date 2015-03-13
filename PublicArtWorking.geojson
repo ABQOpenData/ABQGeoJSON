@@ -1,0 +1,4224 @@
+"type":"FeatureCollection",
+
+"features": [
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209861,
+    "ART_CODE": "101",
+    "TITLE": "Almond Blossom/Astronomy",
+    "TYPE": "public sculpture",
+    "YEAR": "1986",
+    "ARTIST": "David Anderson",
+    "ADDRESS": "4440 Osuna NE",
+    "LOCATION": "Osuna Median bet.Jefferson/ W.Frontage Rd",
+     -106.59183830000001,
+     35.155500000000004,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6831137393/",
+    "JPG_URL": "http://farm8.staticflickr.com/7153/6831137393_fa38634fd7_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11865749.1623,
+     4185033.1033999994]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209862,
+    "ART_CODE": "102",
+    "TITLE": "Formas Esperando Palabra de Otros Mundos",
+    "TYPE": "public sculpture",
+    "YEAR": "1983",
+    "ARTIST": "Federico Armijo",
+    "ADDRESS": "Lomas & 16th St. NW",
+    "LOCATION": "Old Town",
+     -106.6641772,
+     35.0931,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479129916/",
+    "JPG_URL": "http://farm3.staticflickr.com/2167/2479129916_0d861b2600.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873801.891800001,
+     4176540.2707000002]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209863,
+    "ART_CODE": "104",
+    "TITLE": "Sumer #24",
+    "TYPE": "public sculpture",
+    "YEAR": "1999",
+    "ARTIST": "Larry Bell",
+    "ADDRESS": "San Pedro &  Los Arboles NE",
+    "LOCATION": "Quigley Park",
+     -106.5779912,
+     35.1143,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/908720823/",
+    "JPG_URL": "http://farm2.staticflickr.com/1416/908720823_e390a242f4.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11864207.710200001,
+     4179424.9265000001]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209864,
+    "ART_CODE": "105",
+    "TITLE": "Images",
+    "TYPE": "public sculpture",
+    "YEAR": "1988",
+    "ARTIST": "Rod Blankley",
+    "ADDRESS": "620 Georgia SE",
+    "LOCATION": "Emerson School / John Carillo Park",
+     -106.5708861,
+     35.068199999999997,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6831253349/",
+    "JPG_URL": "http://farm8.staticflickr.com/7012/6831253349_52c0a680ba.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11863416.774,
+     4173153.1182999983]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209865,
+    "ART_CODE": "106",
+    "TITLE": "The Hounds of Enchantment",
+    "TYPE": "public sculpture",
+    "YEAR": "1998",
+    "ARTIST": "Peter Broussard",
+    "ADDRESS": "Morris & Lexington NE",
+    "LOCATION": "Matheson Park",
+     -106.52300990000001,
+     35.112099999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030960964/",
+    "JPG_URL": "http://farm2.staticflickr.com/1243/1030960964_d6de360ad9.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11858087.219799999,
+     4179125.5406000018]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209866,
+    "ART_CODE": "107",
+    "TITLE": "Carved Wood Dais",
+    "TYPE": "carvings (visual works)",
+    "YEAR": "1996",
+    "ARTIST": "Max Chavez",
+    "ADDRESS": "400 Marquette NW",
+    "LOCATION": "City/County Government Bldg.",
+     -106.6515905,
+     35.088000000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2513552515/",
+    "JPG_URL": "http://farm3.staticflickr.com/2413/2513552515_b6a0c07f08.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872400.7468,
+     4175846.4324000031]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209867,
+    "ART_CODE": "108",
+    "TITLE": "Runways",
+    "TYPE": "fiber art",
+    "YEAR": "1988",
+    "ARTIST": "Nancy Kozikowski",
+    "ADDRESS": "2200 Sunport Blvd SE",
+    "LOCATION": "Main Terminal",
+     -106.6166671,
+     35.0488,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2456692901/",
+    "JPG_URL": "http://farm3.staticflickr.com/2376/2456692901_505978bd9d.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11868513.091600001,
+     4170514.8482000008]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209868,
+    "ART_CODE": "109",
+    "TITLE": "Triptych",
+    "TYPE": "fiber art",
+    "YEAR": "1996",
+    "ARTIST": "Donna Contractor",
+    "ADDRESS": "400 Marquette NW",
+    "LOCATION": "City/County Government Bldg.",
+     -106.6515905,
+     35.088000000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2514376900/",
+    "JPG_URL": "http://farm3.staticflickr.com/2334/2514376900_5dd82a66e6.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872400.7468,
+     4175846.4324000031]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209869,
+    "ART_CODE": "110",
+    "TITLE": "Kindred Spirit",
+    "TYPE": "casts (sculpture)",
+    "YEAR": "1995",
+    "ARTIST": "Lou  Cuevas",
+    "ADDRESS": "11800 Sunset Gardens SW",
+    "LOCATION": "Westside Animal Control Center",
+     -106.76141579999999,
+     35.064799999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6836543449/",
+    "JPG_URL": "http://farm8.staticflickr.com/7013/6836543449_1ae0118bd9.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11884626.4432,
+     4172690.6957999989]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209870,
+    "ART_CODE": "111",
+    "TITLE": "Solar Arc",
+    "TYPE": "public sculpture",
+    "YEAR": "1985",
+    "ARTIST": "William Drexel",
+    "ADDRESS": "Menaul Blvd. at 12th Street NW",
+    "LOCATION": "4-H Park",
+     -106.65992300000001,
+     35.112299999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478318273/",
+    "JPG_URL": "http://farm3.staticflickr.com/2401/2478318273_601e1707d9.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873328.316399999,
+     4179152.757100001]
+   }
+  },
+
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209872,
+    "ART_CODE": "112",
+    "TITLE": "Interweave",
+    "TYPE": "public sculpture",
+    "YEAR": "1984",
+    "ARTIST": "C. Anthony Eck",
+    "ADDRESS": "7525 Zuni SE",
+    "LOCATION": "East Central Multi-Service Center",
+     -106.56375130000001,
+     35.0732,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2439174720/",
+    "JPG_URL": "http://farm3.staticflickr.com/2330/2439174720_0f1021c0e7.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11862622.5317,
+     4173833.186499998]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209873,
+    "ART_CODE": "113",
+    "TITLE": "Hand of Friendship",
+    "TYPE": "public sculpture",
+    "YEAR": "1984",
+    "ARTIST": "Ted Egri",
+    "ADDRESS": "Tramway & Central NE",
+    "LOCATION": "Tramway & Central",
+     -106.49650629999999,
+     35.068300000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2534820814/",
+    "JPG_URL": "http://farm3.staticflickr.com/2061/2534820814_22da1a0210.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11855136.852600001,
+     4173166.7193000019]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209874,
+    "ART_CODE": "114",
+    "TITLE": "Presto",
+    "TYPE": "neon sculpture",
+    "YEAR": "1984",
+    "ARTIST": "Jeanette Entwisle",
+    "ADDRESS": "5th St & Copper NW",
+    "LOCATION": "5th & Copper NW Parking Structure",
+     -106.65250210000001,
+     35.085500000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478318313/",
+    "JPG_URL": "http://farm3.staticflickr.com/2010/2478318313_1b56557417.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872502.2256,
+     4175506.3313999996]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209875,
+    "ART_CODE": "115",
+    "TITLE": "Las Mesas",
+    "TYPE": "public sculpture",
+    "YEAR": "1984",
+    "ARTIST": "Tommie Findley",
+    "ADDRESS": "Lomas and Rancho Seco NW",
+    "LOCATION": "Lomas Pedestrianway",
+     -106.66681850000001,
+     35.093400000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6877658481/",
+    "JPG_URL": "http://farm8.staticflickr.com/7039/6877658481_efbbd8f746.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11874095.92,
+     4176581.0860999972]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209876,
+    "ART_CODE": "116",
+    "TITLE": "The Shepherd",
+    "TYPE": "public sculpture",
+    "YEAR": "1990",
+    "ARTIST": "Lincoln Fox",
+    "ADDRESS": "2000 Mountain Rd NW",
+    "LOCATION": "Albuquerque Museum",
+     -106.66796410000001,
+     35.097200000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478318321/",
+    "JPG_URL": "http://farm3.staticflickr.com/2204/2478318321_36cd548144.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11874223.4476,
+     4177098.0936999992]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209877,
+    "ART_CODE": "117",
+    "TITLE": "Retratos de la Vecinidad (#1)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "1420 Edith NE",
+    "LOCATION": "Santa Barbara/Martineztown Community Center",
+     -106.6384858,
+     35.097900000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837494307/",
+    "JPG_URL": "http://farm8.staticflickr.com/7153/6837494307_4af386bf13_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11870941.938200001,
+     4177193.3346000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209878,
+    "ART_CODE": "117",
+    "TITLE": "Retratos de la Vecinidad (#1)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "401 2nd St",
+    "LOCATION": "Albuquerque Convention Center",
+     -106.6494,
+     35.087600000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837494307/",
+    "JPG_URL": "http://farm8.staticflickr.com/7153/6837494307_4af386bf13_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872156.9014,
+     4175792.0155000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209879,
+    "ART_CODE": "117.01",
+    "TITLE": "Retratos de la Vecinidad (#2)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "1420 Edith NE",
+    "LOCATION": "Santa Barbara/Martineztown Community Center",
+     -106.6384858,
+     35.097900000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837494561/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7015/6837494561_cbef26c225_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11870941.938200001,
+     4177193.3346000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209880,
+    "ART_CODE": "117.01",
+    "TITLE": "Retratos de la Vecinidad (#2)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "401 2nd St.",
+    "LOCATION": "Albuquerque Convention Center",
+     -106.6494,
+     35.087600000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837494561/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7015/6837494561_cbef26c225_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872156.9014,
+     4175792.0155000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209881,
+    "ART_CODE": "117.02",
+    "TITLE": "Retratos de la Vecinidad (#3)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "1420 Edith NE",
+    "LOCATION": "Santa Barbara/Martineztown Community Center",
+     -106.6384858,
+     35.097900000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837494725/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7169/6837494725_47acee5cfd_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11870941.938200001,
+     4177193.3346000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209882,
+    "ART_CODE": "117.02",
+    "TITLE": "Retratos de la Vecinidad (#3)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "401 2nd St.",
+    "LOCATION": "Albuquerque Convention Center",
+     -106.6494,
+     35.087600000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837494725/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7169/6837494725_47acee5cfd_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872156.9014,
+     4175792.0155000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209883,
+    "ART_CODE": "117.03",
+    "TITLE": "Retratos de la Vecinidad (#4)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "1420 Edith NE",
+    "LOCATION": "Santa Barbara/Martineztown Community Center",
+     -106.6384858,
+     35.097900000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837494957/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7021/6837494957_9b9b52636d_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11870941.938200001,
+     4177193.3346000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209884,
+    "ART_CODE": "117.03",
+    "TITLE": "Retratos de la Vecinidad (#4)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "401 2nd St.",
+    "LOCATION": "Albuquerque Convention Center",
+     -106.6494,
+     35.087600000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837494957/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7021/6837494957_9b9b52636d_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872156.9014,
+     4175792.0155000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209885,
+    "ART_CODE": "117.04",
+    "TITLE": "Retratos de la Vecinidad (#5)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "1420 Edith NE",
+    "LOCATION": "Santa Barbara/Martineztown Community Center",
+     -106.6384858,
+     35.097900000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837495137/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7022/6837495137_1ebba535a8_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11870941.938200001,
+     4177193.3346000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209886,
+    "ART_CODE": "117.04",
+    "TITLE": "Retratos de la Vecinidad (#5)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "401 2nd St.",
+    "LOCATION": "Albuquerque Convention Center",
+     -106.6494,
+     35.087600000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837495137/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7022/6837495137_1ebba535a8_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872156.9014,
+     4175792.0155000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209887,
+    "ART_CODE": "117.05",
+    "TITLE": "Retratos de la Vecinidad (#6)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "1420 Edith NE",
+    "LOCATION": "Santa Barbara/Martineztown Community Center",
+     -106.6384858,
+     35.097900000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837495447/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7021/6837495447_58c1a93c6f_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11870941.938200001,
+     4177193.3346000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209888,
+    "ART_CODE": "117.05",
+    "TITLE": "Retratos de la Vecinidad (#6)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "401 2nd St.",
+    "LOCATION": "Albuquerque Convention Center",
+     -106.6494,
+     35.087600000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837495447/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7021/6837495447_58c1a93c6f_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872156.9014,
+     4175792.0155000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209889,
+    "ART_CODE": "117.06",
+    "TITLE": "Retratos de la Vecinidad (#7)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "1420 Edith NE",
+    "LOCATION": "Santa Barbara/Martineztown Community Center",
+     -106.6384858,
+     35.097900000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837495593/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7159/6837495593_dd11ca14d5_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11870941.938200001,
+     4177193.3346000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209890,
+    "ART_CODE": "117.06",
+    "TITLE": "Retratos de la Vecinidad (#7)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "401 2nd St.",
+    "LOCATION": "Albuquerque Convention Center",
+     -106.6494,
+     35.087600000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837495593/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7159/6837495593_dd11ca14d5_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872156.9014,
+     4175792.0155000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209891,
+    "ART_CODE": "117.07",
+    "TITLE": "Retratos de la Vecinidad (#8)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "1420 Edith NE",
+    "LOCATION": "Santa Barbara/Martineztown Community Center",
+     -106.6384858,
+     35.097900000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837495865/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7034/6837495865_f1713250aa_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11870941.938200001,
+     4177193.3346000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209892,
+    "ART_CODE": "117.07",
+    "TITLE": "Retratos de la Vecinidad (#8)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "401 2nd St.",
+    "LOCATION": "Albuquerque Convention Center",
+     -106.6494,
+     35.087600000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837495865/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7034/6837495865_f1713250aa_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872156.9014,
+     4175792.0155000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209893,
+    "ART_CODE": "117.08",
+    "TITLE": "Retratos de la Vecinidad (#9)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "1420 Edith NE",
+    "LOCATION": "Santa Barbara/Martineztown Community Center",
+     -106.6384858,
+     35.097900000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837496087/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7141/6837496087_e9566f7123_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11870941.938200001,
+     4177193.3346000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209894,
+    "ART_CODE": "117.08",
+    "TITLE": "Retratos de la Vecinidad (#9)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "401 2nd St.",
+    "LOCATION": "Albuquerque Convention Center",
+     -106.6494,
+     35.087600000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837496087/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7141/6837496087_e9566f7123_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872156.9014,
+     4175792.0155000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209895,
+    "ART_CODE": "117.09",
+    "TITLE": "Retratos de la Vecinidad (#10)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "1420 Edith NE",
+    "LOCATION": "Santa Barbara/Martineztown Community Center",
+     -106.6384858,
+     35.097900000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837496291/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7153/6837496291_6b0e4f80bf_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11870941.938200001,
+     4177193.3346000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209896,
+    "ART_CODE": "117.09",
+    "TITLE": "Retratos de la Vecinidad (#10)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "401 2nd St.",
+    "LOCATION": "Albuquerque Convention Center",
+     -106.6494,
+     35.087600000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837496291/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7153/6837496291_6b0e4f80bf_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872156.9014,
+     4175792.0155000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209897,
+    "ART_CODE": "117.1",
+    "TITLE": "Retratos de la Vecinidad (#11)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "1420 Edith NE",
+    "LOCATION": "Santa Barbara/Martineztown Community Center",
+     -106.6384858,
+     35.097900000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837496533/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7023/6837496533_0ccca68b5c_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11870941.938200001,
+     4177193.3346000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209898,
+    "ART_CODE": "117.1",
+    "TITLE": "Retratos de la Vecinidad (#11)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "401 2nd St.",
+    "LOCATION": "Albuquerque Convention Center",
+     -106.6494,
+     35.087600000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837496533/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7023/6837496533_0ccca68b5c_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872156.9014,
+     4175792.0155000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209899,
+    "ART_CODE": "117.11",
+    "TITLE": "Retratos de la Vecinidad (#12)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "1420 Edith NE",
+    "LOCATION": "Santa Barbara/Martineztown Community Center",
+     -106.6384858,
+     35.097900000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837496769/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7022/6837496769_d8c1b1dfbf_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11870941.938200001,
+     4177193.3346000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209900,
+    "ART_CODE": "117.11",
+    "TITLE": "Retratos de la Vecinidad (#12)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "401 2nd St.",
+    "LOCATION": "Albuquerque Convention Center",
+     -106.6494,
+     35.087600000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837496769/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7022/6837496769_d8c1b1dfbf_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872156.9014,
+     4175792.0155000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209901,
+    "ART_CODE": "117.12",
+    "TITLE": "Retratos de la Vecinidad (#13)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "1420 Edith NE",
+    "LOCATION": "Santa Barbara/Martineztown Community Center",
+     -106.6384858,
+     35.097900000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837496973/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7034/6837496973_860168eec6_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11870941.938200001,
+     4177193.3346000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209902,
+    "ART_CODE": "117.12",
+    "TITLE": "Retratos de la Vecinidad (#13)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "401 2nd St.",
+    "LOCATION": "Albuquerque Convention Center",
+     -106.6494,
+     35.087600000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837496973/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7034/6837496973_860168eec6_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872156.9014,
+     4175792.0155000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209903,
+    "ART_CODE": "117.13",
+    "TITLE": "Retratos de la Vecinidad (#14)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "1420 Edith NE",
+    "LOCATION": "Santa Barbara/Martineztown Community Center",
+     -106.6384858,
+     35.097900000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837497117/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7171/6837497117_2d73d0f632_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11870941.938200001,
+     4177193.3346000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209904,
+    "ART_CODE": "117.13",
+    "TITLE": "Retratos de la Vecinidad (#14)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "401 2nd St.",
+    "LOCATION": "Albuquerque Convention Center",
+     -106.6494,
+     35.087600000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837497117/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7171/6837497117_2d73d0f632_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872156.9014,
+     4175792.0155000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209905,
+    "ART_CODE": "117.14",
+    "TITLE": "Retratos de la Vecinidad (#15)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "1420 Edith NE",
+    "LOCATION": "Santa Barbara/Martineztown Community Center",
+     -106.6384858,
+     35.097900000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837497317/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7164/6837497317_f6bea399a1_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11870941.938200001,
+     4177193.3346000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209906,
+    "ART_CODE": "117.14",
+    "TITLE": "Retratos de la Vecinidad (#15)",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Miguel Gandert",
+    "ADDRESS": "401 2nd St.",
+    "LOCATION": "Albuquerque Convention Center",
+     -106.6494,
+     35.087600000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6837497317/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7164/6837497317_f6bea399a1_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872156.9014,
+     4175792.0155000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209907,
+    "ART_CODE": "118",
+    "TITLE": "Memories of the North Valley (Haciendo Adobes)",
+    "TYPE": "acrylic paintings",
+    "YEAR": "1994",
+    "ARTIST": "Edward  Gonzales",
+    "ADDRESS": "3825 4th Street NW",
+    "LOCATION": "North Valley Senior Center",
+     -106.64548720000001,
+     35.122500000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479130112/",
+    "JPG_URL": "http://farm3.staticflickr.com/2162/2479130112_8042a4ffd5_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11871721.330499999,
+     4180540.8909000009]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209908,
+    "ART_CODE": "118.01",
+    "TITLE": "Memories of the North Valley (La Acequia)",
+    "TYPE": "acrylic paintings",
+    "YEAR": "1994",
+    "ARTIST": "Edward  Gonzales",
+    "ADDRESS": "3825 4th Street NW",
+    "LOCATION": "North Valley Senior Center",
+     -106.64548720000001,
+     35.122500000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478318443/in/photostream/",
+    "JPG_URL": "http://farm4.staticflickr.com/3107/2478318443_884aafb3b5_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11871721.330499999,
+     4180540.8909000009]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209909,
+    "ART_CODE": "118.02",
+    "TITLE": "Memories of the North Valley (The Harvesters)",
+    "TYPE": "acrylic paintings",
+    "YEAR": "1994",
+    "ARTIST": "Edward  Gonzales",
+    "ADDRESS": "3825 4th Street NW",
+    "LOCATION": "North Valley Senior Center",
+     -106.64548720000001,
+     35.122500000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478318511/in/photostream/",
+    "JPG_URL": "http://farm3.staticflickr.com/2068/2478318511_735ce79007_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11871721.330499999,
+     4180540.8909000009]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209910,
+    "ART_CODE": "118.03",
+    "TITLE": "Memories of the North Valley (Hanging Chile)",
+    "TYPE": "acrylic paintings",
+    "YEAR": "1994",
+    "ARTIST": "Edward  Gonzales",
+    "ADDRESS": "3825 4th Street NW",
+    "LOCATION": "North Valley Senior Center",
+     -106.64548720000001,
+     35.122500000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478318615/in/photostream/",
+    "JPG_URL": "http://farm4.staticflickr.com/3012/2478318615_570542b7a1_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11871721.330499999,
+     4180540.8909000009]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209911,
+    "ART_CODE": "118.04",
+    "TITLE": "Memories of the North Valley (Los Abuelos)",
+    "TYPE": "acrylic paintings",
+    "YEAR": "1994",
+    "ARTIST": "Edward  Gonzales",
+    "ADDRESS": "3825 4th Street NW",
+    "LOCATION": "North Valley Senior Center",
+     -106.64548720000001,
+     35.122500000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478318631/in/photostream/",
+    "JPG_URL": "http://farm3.staticflickr.com/2282/2478318631_c04bda0830_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11871721.330499999,
+     4180540.8909000009]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209912,
+    "ART_CODE": "118.05",
+    "TITLE": "Memories of the North Valley (Haciendo Tortillas)",
+    "TYPE": "acrylic paintings",
+    "YEAR": "1994",
+    "ARTIST": "Edward  Gonzales",
+    "ADDRESS": "3825 4th Street NW",
+    "LOCATION": "North Valley Senior Center",
+     -106.64548720000001,
+     35.122500000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479130506/in/photostream/",
+    "JPG_URL": "http://farm4.staticflickr.com/3200/2479130506_aa1e6a062d_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11871721.330499999,
+     4180540.8909000009]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209913,
+    "ART_CODE": "119",
+    "TITLE": "Sidewalk Society",
+    "TYPE": "public sculpture",
+    "YEAR": "1991",
+    "ARTIST": "Glenna Goodacre",
+    "ADDRESS": "330 Tijeras Ave NW",
+    "LOCATION": "Hyatt Hotel Building (sidewalk at 3rd and Tijeras)",
+     -106.65022930000001,
+     35.086399999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6876390491/",
+    "JPG_URL": "http://farm8.staticflickr.com/7179/6876390491_2ca233dd17_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872249.218699999,
+     4175628.7665999979]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209914,
+    "ART_CODE": "120",
+    "TITLE": "Zia",
+    "TYPE": "public sculpture",
+    "YEAR": "1990",
+    "ARTIST": "William Goodman",
+    "ADDRESS": "1420 Edith NE",
+    "LOCATION": "Santa Barbara/Martineztown Community Center",
+     -106.6380699,
+     35.097299999999997,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030961394/",
+    "JPG_URL": "http://farm2.staticflickr.com/1421/1030961394_dd8e2bacb7_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11870895.6404,
+     4177111.699500002]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209915,
+    "ART_CODE": "121",
+    "TITLE": "Tapestry of Life",
+    "TYPE": "stained glass (visual works)",
+    "YEAR": "1993",
+    "ARTIST": "Cathy Gore",
+    "ADDRESS": "903 10th St SW",
+    "LOCATION": "Rio Grande Zoological Park ",
+     -106.66115499999999,
+     35.0777,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2420677579/",
+    "JPG_URL": "http://farm4.staticflickr.com/3013/2420677579_db6f213e69_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873465.462000001,
+     4174445.2833999991]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209916,
+    "ART_CODE": "122",
+    "TITLE": "Fountain of Peace",
+    "TYPE": "public sculpture",
+    "YEAR": "1989",
+    "ARTIST": "Sandy Scott",
+    "ADDRESS": "Central and San Felipe NW",
+    "LOCATION": "Old Town",
+     -106.6697064,
+     35.0944,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479130542/",
+    "JPG_URL": "http://farm4.staticflickr.com/3253/2479130542_bf278d1387_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11874417.399500001,
+     4176717.1384000033]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209917,
+    "ART_CODE": "123",
+    "TITLE": "Picture Fountain",
+    "TYPE": " Fountains",
+    "YEAR": "1990",
+    "ARTIST": "Maera Green",
+    "ADDRESS": "6500 Los Volcanes NW",
+    "LOCATION": "Los Volcanes Senior Center",
+     -106.7125515,
+     35.0899,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6876428481/",
+    "JPG_URL": "http://farm8.staticflickr.com/7200/6876428481_ed80e13b06_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11879186.894200001,
+     4176104.9161000028]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209918,
+    "ART_CODE": "124",
+    "TITLE": "Coronado’s First Visit to New Mexico",
+    "TYPE": "Painting (visual works)",
+    "YEAR": "1997",
+    "ARTIST": "Maurice Green",
+    "ADDRESS": "714 Seventh St SW",
+    "LOCATION": "Barelas Senior Multi-Service Center",
+     -106.6558775,
+     35.078899999999997,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2420677741/",
+    "JPG_URL": "http://farm4.staticflickr.com/3038/2420677741_8a0b45b597_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872877.9734,
+     4174608.5150000006]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209919,
+    "ART_CODE": "125",
+    "TITLE": "Albuquerque Apparition",
+    "TYPE": "neon sculpture",
+    "YEAR": "1992",
+    "ARTIST": "David Griggs",
+    "ADDRESS": "1700 Yale SE",
+    "LOCATION": "Loma Linda Community Center",
+     -106.6207553,
+     35.063699999999997,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2438349729/",
+    "JPG_URL": "http://farm4.staticflickr.com/3188/2438349729_64372c55cf_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11868968.188000001,
+     4172541.0926000029]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209920,
+    "ART_CODE": "126",
+    "TITLE": "New Life in Old Albuquerque",
+    "TYPE": "Painting (visual works)",
+    "YEAR": "1993",
+    "ARTIST": "Roy Grinnell",
+    "ADDRESS": "400 Marquette NW",
+    "LOCATION": "City/County Government Bldg. ",
+     -106.6515905,
+     35.088000000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2513552575/",
+    "JPG_URL": "http://farm3.staticflickr.com/2396/2513552575_fb858a6bd9_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872400.7468,
+     4175846.4324000031]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209921,
+    "ART_CODE": "127",
+    "TITLE": "Cruising San Mateo I",
+    "TYPE": "public sculpture",
+    "YEAR": "1991",
+    "ARTIST": "Barbara Grygutis",
+    "ADDRESS": "San Mateo at Gibson SE",
+    "LOCATION": "Gibson Blvd.",
+     -106.5868557,
+     35.058500000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2438349803/",
+    "JPG_URL": "http://farm3.staticflickr.com/2340/2438349803_751c385b68_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11865194.501800001,
+     4171833.9048999995]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209922,
+    "ART_CODE": "127.01",
+    "TITLE": "Cruising San Mateo II",
+    "TYPE": "public sculpture",
+    "YEAR": "1991",
+    "ARTIST": "Barbara Grygutis",
+    "ADDRESS": "San Mateo at Eastern SE",
+    "LOCATION": "San Mateo Roadway",
+     -106.586204,
+     35.060299999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6779966622/in/photostream",
+    "JPG_URL": "http://farm8.staticflickr.com/7061/6779966622_8e30779ba1_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11865121.9549,
+     4172078.695600003]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209923,
+    "ART_CODE": "128",
+    "TITLE": "The Harvest",
+    "TYPE": "mural paintings (visual works)",
+    "YEAR": "1984",
+    "ARTIST": "Gilberto Guzman",
+    "ADDRESS": "5th & Copper NW",
+    "LOCATION": "5th & Copper NW Parking Structure",
+     -106.6525475,
+     35.0854,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479130748/",
+    "JPG_URL": "http://farm4.staticflickr.com/3044/2479130748_15f6abb119_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872507.2795,
+     4175492.7276000008]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209924,
+    "ART_CODE": "129",
+    "TITLE": "A Tree of Mixed Metaphors",
+    "TYPE": "public sculpture",
+    "YEAR": "1988",
+    "ARTIST": "Ed Haddaway",
+    "ADDRESS": "2000 Mountain Rd NW",
+    "LOCATION": "Albuquerque Museum ",
+     -106.66796410000001,
+     35.097200000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6876375911/",
+    "JPG_URL": "http://farm8.staticflickr.com/7197/6876375911_84f0141b7a_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11874223.4476,
+     4177098.0936999992]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209925,
+    "ART_CODE": "130",
+    "TITLE": "Lioness and Cubs",
+    "TYPE": "public sculpture",
+    "YEAR": "1984",
+    "ARTIST": "Una  Hanbury",
+    "ADDRESS": "903 10th St SW",
+    "LOCATION": "Rio Grande Zoological Park",
+     -106.66115499999999,
+     35.0777,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2421492774/",
+    "JPG_URL": "http://farm3.staticflickr.com/2381/2421492774_c8927f65f2_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873465.462000001,
+     4174445.2833999991]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209926,
+    "ART_CODE": "131",
+    "TITLE": "Phoenix Rising from the Ashes",
+    "TYPE": "public sculpture ",
+    "YEAR": "1985",
+    "ARTIST": "Una  Hanbury",
+    "ADDRESS": "903 10th St SW",
+    "LOCATION": "Rio Grande Zoological Park",
+     -106.66115499999999,
+     35.0777,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2420677835/",
+    "JPG_URL": "http://farm3.staticflickr.com/2095/2420677835_f00538b8d3_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873465.462000001,
+     4174445.2833999991]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209927,
+    "ART_CODE": "132",
+    "TITLE": "Cultural Crossroads of the Americas",
+    "TYPE": "public sculpture",
+    "YEAR": "1996",
+    "ARTIST": "Bob Haozous",
+    "ADDRESS": "Central at Harvard NE",
+    "LOCATION": "Yale Park",
+     -106.621143,
+     35.081383940000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6871063649/",
+    "JPG_URL": "http://farm8.staticflickr.com/7206/6871063649_e4dba1f3cf_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11869011.3466,
+     4174946.4037000015]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209928,
+    "ART_CODE": "133",
+    "TITLE": "Walk in Beauty",
+    "TYPE": "public sculpture",
+    "YEAR": "1983",
+    "ARTIST": "Doug Hyde",
+    "ADDRESS": "2000 Mountain Rd NW",
+    "LOCATION": "Albuquerque Museum",
+     -106.66796410000001,
+     35.097200000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478319015/",
+    "JPG_URL": "http://farm4.staticflickr.com/3033/2478319015_fdbcd0d22a_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11874223.4476,
+     4177098.0936999992]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209929,
+    "ART_CODE": "134",
+    "TITLE": "Southwest Pieta/Pieta Suroeste",
+    "TYPE": "public sculpture",
+    "YEAR": "1987",
+    "ARTIST": "Luis Jimenez",
+    "ADDRESS": "520 Edith Blvd. NE",
+    "LOCATION": "Martineztown Longfellow Park",
+     -106.641093,
+     35.087600000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2534006459/",
+    "JPG_URL": "http://farm2.staticflickr.com/1326/1030110055_e384613406_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11871232.170400001,
+     4175792.0155000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209930,
+    "ART_CODE": "134.01",
+    "TITLE": "Southwest Pieta/Pieta Suroeste (Drawing)",
+    "TYPE": "drawings (visual works)",
+    "YEAR": "1987",
+    "ARTIST": "Luis Jimenez",
+    "ADDRESS": "401 2nd St. ",
+    "LOCATION": "Albuquerque Convention Center",
+     -106.649,
+     35.086799999999997,
+    "IMAGE_URL": "https://www.flickr.com/photos/abqpublicart/15285253999/",
+    "JPG_URL": "https://c1.staticflickr.com/3/2947/15285253999_675a7882a6_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872112.373599999,
+     4175683.182599999]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209931,
+    "ART_CODE": "135.01",
+    "TITLE": "Stepping Stone Table",
+    "TYPE": "Sidewalk Insets",
+    "YEAR": "2001",
+    "ARTIST": "Elzbieta Kaleta",
+    "ADDRESS": "400 Marquette NW",
+    "LOCATION": "Cultural Services Reception",
+     -106.6518822,
+     35.088140520000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6780216952/in/photostream",
+    "JPG_URL": "http://farm8.staticflickr.com/7064/6780216952_69fa3d2d58_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872433.218600001,
+     4175865.5490999967]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209932,
+    "ART_CODE": "136",
+    "TITLE": "Asteroid Sequence #2",
+    "TYPE": "Painting (visual works)",
+    "YEAR": "1994",
+    "ARTIST": "Aaron Karp",
+    "ADDRESS": "2033 Columbia Drive SE",
+    "LOCATION": "Sunport Pool",
+     -106.6183061,
+     35.037100000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2439175098/#/",
+    "JPG_URL": "http://farm4.staticflickr.com/3223/2439175098_9e5eb394e9_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11868695.544300001,
+     4168924.0295000002]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209933,
+    "ART_CODE": "137",
+    "TITLE": "Heritage",
+    "TYPE": "mural paintings (visual works)",
+    "YEAR": "1985",
+    "ARTIST": "Celia Kimball",
+    "ADDRESS": "6100 Taylor Ranch Rd NW",
+    "LOCATION": "Taylor Ranch Fire Station #18",
+     -106.69366290000001,
+     35.154299999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6926342359/in/photostream",
+    "JPG_URL": "http://farm8.staticflickr.com/7068/6926342359_f99ba36534_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11877084.2249,
+     4184869.7182999998]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209934,
+    "ART_CODE": "140",
+    "TITLE": "Thread of New Mexico",
+    "TYPE": "fiber art",
+    "YEAR": "1992",
+    "ARTIST": "Nancy Kozikowski",
+    "ADDRESS": "400 Marquette NW",
+    "LOCATION": "City/County Government Bldg.",
+     -106.6515905,
+     35.088000000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2514376952/",
+    "JPG_URL": "http://farm3.staticflickr.com/2195/2514376952_52781df1e3_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872400.7468,
+     4175846.4324000031]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209935,
+    "ART_CODE": "141",
+    "TITLE": "Breath of Life",
+    "TYPE": "relief (sculptures)",
+    "YEAR": "1995",
+    "ARTIST": "Bruce  LaFountain",
+    "ADDRESS": "11800 Sunset Gardens SW",
+    "LOCATION": "Westside Animal Control Center",
+     -106.76141579999999,
+     35.064799999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2420678055/",
+    "JPG_URL": "http://farm3.staticflickr.com/2061/2420678055_f6238b5e9a_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11884626.4432,
+     4172690.6957999989]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209936,
+    "ART_CODE": "142",
+    "TITLE": "Vehicle Stop",
+    "TYPE": "public sculpture",
+    "YEAR": "2001",
+    "ARTIST": "Erika Wanenmacher",
+    "ADDRESS": "1701 Mountain Rd NW",
+    "LOCATION": "Explora",
+     -106.6635981,
+     35.09710785,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479130918/",
+    "JPG_URL": "http://farm3.staticflickr.com/2073/2479130918_b089c74a5e_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873737.4267,
+     4177085.5560000017]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209937,
+    "ART_CODE": "143",
+    "TITLE": "Madonna of the Trail",
+    "TYPE": "public sculpture",
+    "YEAR": "1998",
+    "ARTIST": "August Leimbach",
+    "ADDRESS": "4th St & Marble NW",
+    "LOCATION": "Federal Courthouse Building",
+     -106.6497857,
+     35.0929,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478319287/",
+    "JPG_URL": "http://farm3.staticflickr.com/2178/2478319287_808eaab46a_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872199.837299999,
+     4176513.0605000034]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209938,
+    "ART_CODE": "144",
+    "TITLE": "Tea Gate V",
+    "TYPE": "sculpture (visual work)",
+    "YEAR": "2001",
+    "ARTIST": "Paula Castillo",
+    "ADDRESS": "3400 University Blvd SE",
+    "LOCATION": "Airport Rental Car Facility",
+     -106.62575409999999,
+     35.040300000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2438410577/",
+    "JPG_URL": "http://farm3.staticflickr.com/2238/2438410577_70d081ffe1_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11869524.651900001,
+     4169359.1026000008]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209939,
+    "ART_CODE": "145",
+    "TITLE": "River of Life",
+    "TYPE": "mosaics",
+    "YEAR": "1996",
+    "ARTIST": "Susan Linnell",
+    "ADDRESS": "Unser Blvd & Dellyne NW ",
+    "LOCATION": "Unser Blvd, Site #3",
+     -106.7122222,
+     35.145299999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479131098/",
+    "JPG_URL": "http://farm4.staticflickr.com/3050/2479131098_da1f883a4e_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11879150.2367,
+     4183644.4069000036]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209940,
+    "ART_CODE": "146",
+    "TITLE": "Holocaust Memorial",
+    "TYPE": "public sculpture",
+    "YEAR": "1999",
+    "ARTIST": "Jake Lovato",
+    "ADDRESS": "3rd St and Tijeras NW",
+    "LOCATION": "Civic Plaza",
+     -106.650757,
+     35.0869,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479131262/",
+    "JPG_URL": "http://farm3.staticflickr.com/2191/2479131262_1a0597a5bc_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872307.962000001,
+     4175696.7867000028]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209941,
+    "ART_CODE": "147",
+    "TITLE": "Yei-bi-chai Gathering Place",
+    "TYPE": "public sculpture",
+    "YEAR": "1995",
+    "ARTIST": "Jake Lovato",
+    "ADDRESS": "5221 Palo Duro NE",
+    "LOCATION": "Palo Duro Senior Center",
+     -106.58491549999999,
+     35.124600000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030961824/",
+    "JPG_URL": "http://farm2.staticflickr.com/1222/1030961824_94165eb43c_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11864978.5197,
+     4180826.7047000006]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209942,
+    "ART_CODE": "148",
+    "TITLE": "The Shield",
+    "TYPE": "reliefs (sculptures)",
+    "YEAR": "1986",
+    "ARTIST": "Elizabeth Red Sun Lyon",
+    "ADDRESS": "6404 Los Volcanes NW",
+    "LOCATION": "Shawn McWethy Memorial Police Substation",
+     -106.7125399,
+     35.090800000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478319513/",
+    "JPG_URL": "http://farm3.staticflickr.com/2353/2478319513_36d7f9b153_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11879185.6029,
+     4176227.3579000011]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209943,
+    "ART_CODE": "149",
+    "TITLE": "Full Circle",
+    "TYPE": "public sculpture",
+    "YEAR": "1990",
+    "ARTIST": "Beverly Magennis",
+    "ADDRESS": "440 Jefferson NE",
+    "LOCATION": "Zia School Park",
+     -106.5925572,
+     35.084800000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030961914/",
+    "JPG_URL": "http://farm2.staticflickr.com/1291/1030961914_b21ffd1e01_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11865829.1899,
+     4175411.1049999967]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209944,
+    "ART_CODE": "150",
+    "TITLE": "Tree of Life",
+    "TYPE": "mosaic",
+    "YEAR": "1999",
+    "ARTIST": "Beverly Magennis",
+    "ADDRESS": "4th St & Montano NW",
+    "LOCATION": "4th Street and Montano",
+     -106.6409759,
+     35.138399999999997,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479131318/",
+    "JPG_URL": "http://farm3.staticflickr.com/2315/2479131318_e7bc687c0a_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11871219.1349,
+     4182705.0931999981]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209945,
+    "ART_CODE": "151",
+    "TITLE": "\"Mestizaje,\"  De Colores Hispanic Heritage Festival Mural",
+    "TYPE": "mural paintings (visual works)",
+    "YEAR": "1996",
+    "ARTIST": "Emanuel Martinez",
+    "ADDRESS": "1025 Broadway SE",
+    "LOCATION": "South Broadway Cultural Center",
+     -106.6460537,
+     35.072699999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2439175208/",
+    "JPG_URL": "http://farm4.staticflickr.com/3050/2439175208_49dbff1c16_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11871784.392999999,
+     4173765.1777999997]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209946,
+    "ART_CODE": "152",
+    "TITLE": "Blue Tile Walls",
+    "TYPE": "public sculpture",
+    "YEAR": "1983",
+    "ARTIST": "Molly Mason",
+    "ADDRESS": "Lomas at 11th St. NW",
+    "LOCATION": "Lomas at 11th NW",
+     -106.65883410000001,
+     35.091900000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479131360/",
+    "JPG_URL": "http://farm3.staticflickr.com/2303/2479131360_7ed18362b3_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873207.1006,
+     4176377.0107000023]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209947,
+    "ART_CODE": "153",
+    "TITLE": "Don Francisco Cuervo y Valdes, Founder of Albuquerque",
+    "TYPE": "public sculpture",
+    "YEAR": "1988",
+    "ARTIST": "Buck McCain",
+    "ADDRESS": "Romero and Rio Grande NW",
+    "LOCATION": "Old Town",
+     -106.67055480000001,
+     35.098199999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478319719/",
+    "JPG_URL": "http://farm4.staticflickr.com/3141/2478319719_24f76f8fde_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11874511.843,
+     4177234.1524000019]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209948,
+    "ART_CODE": "154",
+    "TITLE": "To Create the Beloved Community",
+    "TYPE": "public sculpture",
+    "YEAR": "1994",
+    "ARTIST": "Jerome Meadows",
+    "ADDRESS": "150 Tijeras Ave NW",
+    "LOCATION": "Martin Luther King Jr. Memorial",
+     -106.6475283,
+     35.0854,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479131588/",
+    "JPG_URL": "http://farm3.staticflickr.com/2195/2479131588_9a9642f2d9_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11871948.5447,
+     4175492.7276000008]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209949,
+    "ART_CODE": "155",
+    "TITLE": "Running Horses",
+    "TYPE": "public sculpture",
+    "YEAR": "1991",
+    "ARTIST": "Gray Mercer",
+    "ADDRESS": "2200 Sunport Blvd. SE",
+    "LOCATION": "Main Terminal",
+     -106.6166671,
+     35.0488,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2456692995/",
+    "JPG_URL": "http://farm4.staticflickr.com/3057/2456692995_35186b17f6_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11868513.091600001,
+     4170514.8482000008]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209950,
+    "ART_CODE": "156",
+    "TITLE": "Lifelines",
+    "TYPE": "public sculpture",
+    "YEAR": "1997",
+    "ARTIST": "Leigh Moore/Walters",
+    "ADDRESS": "550 San Mateo SE",
+    "LOCATION": "Northeast corner of San Mateo & Zuni SE",
+     -106.58605110000001,
+     35.073799999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6870692297/",
+    "JPG_URL": "http://farm8.staticflickr.com/7194/6870692297_f9a58e3ddb_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11865104.9341,
+     4173914.7973999977]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209951,
+    "ART_CODE": "157",
+    "TITLE": "George J. Maloof",
+    "TYPE": "public sculpture",
+    "YEAR": "1990",
+    "ARTIST": "Paul Moore",
+    "ADDRESS": "3rd St. and Tijeras NW",
+    "LOCATION": "40 First Plaza",
+     -106.64997200000001,
+     35.086300000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6876488691/",
+    "JPG_URL": "http://farm8.staticflickr.com/7183/6876488691_15b5cedbea_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872220.576200001,
+     4175615.1626000032]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209952,
+    "ART_CODE": "158",
+    "TITLE": "The Fallen Friend",
+    "TYPE": "public sculpture",
+    "YEAR": "1997",
+    "ARTIST": "Jesus Moroles",
+    "ADDRESS": "1100 Louisiana Blvd. SE",
+    "LOCATION": "Veteran's Memorial Park - Phil Chacon Park",
+     -106.566295,
+     35.060400000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2439175698/",
+    "JPG_URL": "http://farm3.staticflickr.com/2364/2439175698_10fd27e955_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11862905.6951,
+     4172092.2951999977]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209953,
+    "ART_CODE": "159",
+    "TITLE": "Floating Mesa",
+    "TYPE": "public sculpture",
+    "YEAR": "1984",
+    "ARTIST": "Jesus Moroles",
+    "ADDRESS": "2000 Mountain Rd NW",
+    "LOCATION": "Albuquerque Museum",
+     -106.66796410000001,
+     35.097200000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479131626/",
+    "JPG_URL": "http://farm3.staticflickr.com/2268/2479131626_99f9eb41cb_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11874223.4476,
+     4177098.0936999992]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209954,
+    "ART_CODE": "160",
+    "TITLE": "Globe",
+    "TYPE": "public sculpture",
+    "YEAR": "2001",
+    "ARTIST": "Ramsey Rose",
+    "ADDRESS": "6320 Domingo Rd NE",
+    "LOCATION": "Musical Theatre Southwest",
+     -106.5904714,
+     35.078099999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6780485458/in/photostream",
+    "JPG_URL": "http://farm8.staticflickr.com/7068/6780485478_a9203fec10_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11865596.999699999,
+     4174499.6937000006]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209955,
+    "ART_CODE": "161",
+    "TITLE": "Spirit Maiden",
+    "TYPE": "public sculpture",
+    "YEAR": "1996",
+    "ARTIST": "Michael Naranjo",
+    "ADDRESS": "Central Ave at Harvard NE",
+    "LOCATION": "Yale Park",
+     -106.6206866,
+     35.081200000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6926608409/in/photostream",
+    "JPG_URL": "http://farm8.staticflickr.com/7056/6926608409_1c60dbfca8_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11868960.5403,
+     4174921.3822000027]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209956,
+    "ART_CODE": "162",
+    "TITLE": "Khwee ... Seng (Woman...Man)",
+    "TYPE": "public sculpture",
+    "YEAR": "1993",
+    "ARTIST": "Nora Naranjo Morse",
+    "ADDRESS": "2000 Mountain Rd NW",
+    "LOCATION": "Albuquerque Museum",
+     -106.66796410000001,
+     35.097200000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479131858/",
+    "JPG_URL": "http://farm4.staticflickr.com/3139/2479131858_f280a24648_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11874223.4476,
+     4177098.0936999992]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209957,
+    "ART_CODE": "163",
+    "TITLE": "Portrait of Roger A. Hoisington",
+    "TYPE": "Painting (visual works)",
+    "YEAR": "1996",
+    "ARTIST": "Leo Neufeld",
+    "ADDRESS": "5412 Second St. NW",
+    "LOCATION": "Albuquerque Police Training Academy",
+     -106.6367991,
+     35.136800000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479132064/in/photostream/",
+    "JPG_URL": "http://farm4.staticflickr.com/3295/2479132064_fd11571bdc_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11870754.1756,
+     4182487.2927000001]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209958,
+    "ART_CODE": "164",
+    "TITLE": "Dreams & Nightmares: Journey of a Broken Weave",
+    "TYPE": "public sculpture",
+    "YEAR": "1987",
+    "ARTIST": "Dennis Oppenheim",
+    "ADDRESS": "2210 Lomas Blvd. NE ",
+    "LOCATION": "University of New Mexico",
+     -106.6186603,
+     35.087299999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2534820974/",
+    "JPG_URL": "http://farm3.staticflickr.com/2206/2534820974_b6fe2f373b_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11868734.9737,
+     4175751.2031000033]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209959,
+    "ART_CODE": "165",
+    "TITLE": "Maria C.",
+    "TYPE": "Weavings",
+    "YEAR": "1990",
+    "ARTIST": "Luis Ortega",
+    "ADDRESS": "1500 Broadway NE",
+    "LOCATION": "Vehicle Pollution Management Bldg.",
+     -106.6413934,
+     35.098700000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030111109/",
+    "JPG_URL": "http://farm2.staticflickr.com/1004/1030111109_e3581227d5_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11871265.6108,
+     4177302.1823000014]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209960,
+    "ART_CODE": "166",
+    "TITLE": "El Camino Real, Road of Life",
+    "TYPE": "mural paintings (visual works)",
+    "YEAR": "1998",
+    "ARTIST": "Patricio A. Zamora (PAZ)",
+    "ADDRESS": "1801 4th Street NW",
+    "LOCATION": "4th Street City Yards",
+     -106.6483551,
+     35.1021,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478320549/",
+    "JPG_URL": "http://farm3.staticflickr.com/2263/2478320549_e77672598e_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872040.583700001,
+     4177764.7971000001]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209961,
+    "ART_CODE": "167",
+    "TITLE": "La Communidad",
+    "TYPE": "mural paintings (visual works)",
+    "YEAR": "1997",
+    "ARTIST": "Patricio A. Zamora (PAZ)",
+    "ADDRESS": "Bridge Blvd and Old Coors DR SW",
+    "LOCATION": "Bridge Blvd and Old Coors",
+     -106.7110026,
+     35.07,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6836564611/",
+    "JPG_URL": "http://farm8.staticflickr.com/7002/6836564611_bfb467d0d3_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11879014.4715,
+     4173397.938000001]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209962,
+    "ART_CODE": "168",
+    "TITLE": "More than a Fire Fighter",
+    "TYPE": "mural paintings (visual works)",
+    "YEAR": "1999",
+    "ARTIST": "Patricio A. Zamora (PAZ)",
+    "ADDRESS": "724 Silver SW",
+    "LOCATION": "Fire Department Administration Bldg.",
+     -106.6566483,
+     35.082900000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6836582183/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7143/6836582183_261be223f8_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872963.7785,
+     4175152.637500003]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209963,
+    "ART_CODE": "169",
+    "TITLE": "La Primavera ",
+    "TYPE": "mural paintings (visual works)",
+    "YEAR": "2013",
+    "ARTIST": "Francisco LeFebre",
+    "ADDRESS": "263 Garfield SE",
+    "LOCATION": "South Broadway Park/Arroyo Murals",
+     -106.6470802,
+     35.072200000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6870747399/",
+    "JPG_URL": "http://farm8.staticflickr.com/7067/6870747399_f7233a02ef_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11871898.6625,
+     4173697.1695000008]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209964,
+    "ART_CODE": "170",
+    "TITLE": "Crossroads",
+    "TYPE": "public sculpture",
+    "YEAR": "1984",
+    "ARTIST": "Jerry Peart",
+    "ADDRESS": "University Blvd. and Coal Ave SE",
+    "LOCATION": "Median ",
+     -106.6278192,
+     35.076300000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2438350615/",
+    "JPG_URL": "http://farm3.staticflickr.com/2247/2438350615_04be190c93_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11869754.537700001,
+     4174254.8496000022]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209965,
+    "ART_CODE": "171",
+    "TITLE": "La Blessure",
+    "TYPE": "public sculpture",
+    "YEAR": "1990",
+    "ARTIST": "Collette  Perazio-Itkin",
+    "ADDRESS": "Tramway and Lomas NE",
+    "LOCATION": "Tramway Library",
+     -106.4978478,
+     35.085900000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030111235/",
+    "JPG_URL": "http://farm2.staticflickr.com/1352/1030111235_ff0114f838_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11855286.1877,
+     4175560.7468999997]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209966,
+    "ART_CODE": "172",
+    "TITLE": "Gorilla Route #66",
+    "TYPE": "public sculpture",
+    "YEAR": "1990",
+    "ARTIST": "Sarah Perry",
+    "ADDRESS": "4600 Edith NE",
+    "LOCATION": "Solid Waste",
+     -106.63134890000001,
+     35.125900000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030111303/in/photostream/",
+    "JPG_URL": "http://farm2.staticflickr.com/1015/1030111303_ac5dd00245_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11870147.462099999,
+     4181003.6407999992]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209967,
+    "ART_CODE": "174",
+    "TITLE": "First Furrow",
+    "TYPE": "public sculpture",
+    "YEAR": "1998",
+    "ARTIST": "Susan Raymond",
+    "ADDRESS": "5408 Second St NW",
+    "LOCATION": "APD 4th Area Command Substation",
+     -106.6371245,
+     35.136200000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478320639/in/photostream/",
+    "JPG_URL": "http://farm3.staticflickr.com/2049/2478320639_1d805b269c_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11870790.399,
+     4182405.6186999977]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209968,
+    "ART_CODE": "175",
+    "TITLE": "Jack Rabbit, Lizards & Bats",
+    "TYPE": "public sculpture",
+    "YEAR": "1996",
+    "ARTIST": "Reynaldo  Rivera",
+    "ADDRESS": "2901 Candelaria Rd NW",
+    "LOCATION": "Rio Grande Nature Center",
+     -106.6825992,
+     35.131,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6876358677/",
+    "JPG_URL": "http://farm8.staticflickr.com/7038/6876358677_92e4f6dfbc_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11875852.6194,
+     4181697.8017999977]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209969,
+    "ART_CODE": "176",
+    "TITLE": "Los Cibolos del Rio Grande",
+    "TYPE": "public sculpture",
+    "YEAR": "1990",
+    "ARTIST": "Reynaldo  Rivera",
+    "ADDRESS": "903 10th St SW",
+    "LOCATION": "Rio Grande Zoological Park",
+     -106.66115499999999,
+     35.0777,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2420678115/",
+    "JPG_URL": "http://farm3.staticflickr.com/2028/2420678115_fb6bcddbba_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873465.462000001,
+     4174445.2833999991]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209970,
+    "ART_CODE": "177",
+    "TITLE": "Los Osos del Canyon",
+    "TYPE": "public sculpture",
+    "YEAR": "1995",
+    "ARTIST": "Reynaldo  Rivera",
+    "ADDRESS": "Tramway Blvd, Bear Canyon Arroyo NE",
+    "LOCATION": "Bear Canyon Arroyo/Open Space",
+     -106.49876810000001,
+     35.139800000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030111367/",
+    "JPG_URL": "http://farm2.staticflickr.com/1327/1030111367_fe0eb135ef_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11855388.635,
+     4182895.6722000018]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209971,
+    "ART_CODE": "178",
+    "TITLE": "La Curandera y su Jardin",
+    "TYPE": "reliefs (sculptures)",
+    "YEAR": "1998",
+    "ARTIST": "Reynaldo  Rivera",
+    "ADDRESS": "2601 Central Ave NW",
+    "LOCATION": "Botanic Garden",
+     -106.6808887,
+     35.092700000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479132554/",
+    "JPG_URL": "http://farm3.staticflickr.com/2039/2479132554_84a3f79189_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11875662.2075,
+     4176485.8504000008]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209972,
+    "ART_CODE": "179",
+    "TITLE": "La Entrada al Futuro",
+    "TYPE": "Bas Reliefs (sculpture)",
+    "YEAR": "1996",
+    "ARTIST": "Leopoldo Romero",
+    "ADDRESS": "Zearing & Rio Grande NW",
+    "LOCATION": "Rio Grande Blvd & Zearing NE Corner",
+     -106.6702147,
+     35.102499999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479132604/in/photostream/",
+    "JPG_URL": "http://farm3.staticflickr.com/2380/2479132604_f2d58b04d6_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11874473.983199999,
+     4177819.2236000001]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209973,
+    "ART_CODE": "180",
+    "TITLE": "BMW, Chetro Ketl Kiva, Chaco Canyon, USA",
+    "TYPE": "photographs (visual works)",
+    "YEAR": "2000",
+    "ARTIST": "Patrick Nagatani",
+    "ADDRESS": "3400 University Blvd SE",
+    "LOCATION": "Airport Rental Car Facility",
+     -106.62575409999999,
+     35.040300000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2439236712/",
+    "JPG_URL": "http://farm4.staticflickr.com/3075/2439236712_b7606df525_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11869524.651900001,
+     4169359.1026000008]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209974,
+    "ART_CODE": "181",
+    "TITLE": "NM Lowrider Bench",
+    "TYPE": "public sculpture",
+    "YEAR": "1992",
+    "ARTIST": "Pedro Romero",
+    "ADDRESS": "1500 Broadway NE",
+    "LOCATION": "Vehicle Pollution Management Bldg.",
+     -106.6410966,
+     35.097999999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030963082/",
+    "JPG_URL": "http://farm2.staticflickr.com/1003/1030963082_fbb0f7389b_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11871232.5711,
+     4177206.9404999986]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209975,
+    "ART_CODE": "182",
+    "TITLE": "Gridlock",
+    "TYPE": "public sculpture",
+    "YEAR": "1984",
+    "ARTIST": "Ramsey Rose",
+    "ADDRESS": "5th & Copper NW",
+    "LOCATION": "5th & Copper NW Parking Structure",
+     -106.6519924,
+     35.085500000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478320809/in/photostream/",
+    "JPG_URL": "http://farm3.staticflickr.com/2051/2478320809_fda33fba2c_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872445.486099999,
+     4175506.3313999996]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209976,
+    "ART_CODE": "183",
+    "TITLE": "Fire Work",
+    "TYPE": "public sculpture ",
+    "YEAR": "1993",
+    "ARTIST": "Evelyn Rosenberg",
+    "ADDRESS": "11500 Sunset Gardens SW",
+    "LOCATION": "Albuquerque Fire Academy",
+     -106.7588353,
+     35.0655,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2420678217/",
+    "JPG_URL": "http://farm3.staticflickr.com/2259/2420678217_4f19c60f11_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11884339.1833,
+     4172785.8988000005]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209977,
+    "ART_CODE": "184",
+    "TITLE": "El Senador Memorial Honoring Senator Dennis Chavez",
+    "TYPE": "public sculpture",
+    "YEAR": "1999",
+    "ARTIST": "Cynthia Rowland",
+    "ADDRESS": "3rd St and Tijeras NW",
+    "LOCATION": "Civic Plaza",
+     -106.65027569999999,
+     35.0867,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478320939/",
+    "JPG_URL": "http://farm3.staticflickr.com/2252/2478320939_1c39a0f364_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872254.3839,
+     4175669.5785999969]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209978,
+    "ART_CODE": "185",
+    "TITLE": "Natural Vistas",
+    "TYPE": "mosaics (visual works)",
+    "YEAR": "2001",
+    "ARTIST": "H. John Bell",
+    "ADDRESS": "Lowell NE at Spain",
+    "LOCATION": "Peppertree/Royal Oak Neighborhood",
+     -106.5067588,
+     35.145000000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030111555/",
+    "JPG_URL": "http://farm2.staticflickr.com/1162/1030111555_1527d91c03_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11856278.1557,
+     4183603.5654999986]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209979,
+    "ART_CODE": "186",
+    "TITLE": "Tree II",
+    "TYPE": "public sculpture",
+    "YEAR": "1980",
+    "ARTIST": "Steven Rudy",
+    "ADDRESS": "Guadalupe Trail and Douglas MacArthur NW",
+    "LOCATION": "Columbus Park",
+     -106.6536449,
+     35.138800000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479132840/",
+    "JPG_URL": "http://farm3.staticflickr.com/2071/2479132840_5d60987275_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872629.441500001,
+     4182759.5439999998]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209980,
+    "ART_CODE": "187",
+    "TITLE": "Cowboy Dream",
+    "TYPE": "assemblage (sculpture)",
+    "YEAR": "2001",
+    "ARTIST": "Ed Larson",
+    "ADDRESS": "3400 University Blvd SE",
+    "LOCATION": "Airport Rental Car Facility",
+     -106.62575409999999,
+     35.040300000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2439236758/",
+    "JPG_URL": "http://farm3.staticflickr.com/2254/2439236758_b2a34cfbc7_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11869524.651900001,
+     4169359.1026000008]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209981,
+    "ART_CODE": "188",
+    "TITLE": "Chile Harvest",
+    "TYPE": "monoprint",
+    "YEAR": "2001",
+    "ARTIST": "Gilberto Guzman",
+    "ADDRESS": "3400 University Blvd SE",
+    "LOCATION": "Airport Rental Car Facility",
+     -106.62575409999999,
+     35.040300000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2438410809/in/photostream/",
+    "JPG_URL": "http://farm4.staticflickr.com/3164/2438410809_7bd61e2cce_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11869524.651900001,
+     4169359.1026000008]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209982,
+    "ART_CODE": "189",
+    "TITLE": "Big Hearted Joy Beasts",
+    "TYPE": "wood carvings",
+    "YEAR": "1986",
+    "ARTIST": "Ken Saville",
+    "ADDRESS": "1000 Griegos Road NW",
+    "LOCATION": "Los Griegos Branch Library",
+     -106.6494661,
+     35.132300000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478321077/",
+    "JPG_URL": "http://farm3.staticflickr.com/2349/2478321077_50629e6239_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872164.2596,
+     4181874.7518000007]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209983,
+    "ART_CODE": "190",
+    "TITLE": "Brave Men",
+    "TYPE": "bas-reliefs (sculpture)",
+    "YEAR": "1984",
+    "ARTIST": "Willard Schroeder",
+    "ADDRESS": "900 Girard SE",
+    "LOCATION": "Ernie Pyle Branch Library",
+     -106.6131194,
+     35.0702,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6870719147/",
+    "JPG_URL": "http://farm8.staticflickr.com/7066/6870719147_366aedd632_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11868118.1635,
+     4173425.1406000033]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209984,
+    "ART_CODE": "191",
+    "TITLE": "The Last Ride",
+    "TYPE": "public sculpture",
+    "YEAR": "1990",
+    "ARTIST": "Fritz Scholder",
+    "ADDRESS": "2000 Mountain Rd NW",
+    "LOCATION": "Albuquerque Museum",
+     -106.66796410000001,
+     35.097200000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478321189/",
+    "JPG_URL": "http://farm4.staticflickr.com/3253/2478321189_1069c7805d_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11874223.4476,
+     4177098.0936999992]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209985,
+    "ART_CODE": "192",
+    "TITLE": "Children Build Community",
+    "TYPE": "mosaics (visual works)",
+    "YEAR": "1998",
+    "ARTIST": "Glenn Schwaiger",
+    "ADDRESS": "9801 Academy Hills Dr NE",
+    "LOCATION": "Hubert H. Humphrey Elementary School",
+     -106.52967870000001,
+     35.151400000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030963388/",
+    "JPG_URL": "http://farm2.staticflickr.com/1278/1030963388_3dbeb7f623_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11858829.587299999,
+     4184474.880900003]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209986,
+    "ART_CODE": "193",
+    "TITLE": "Lion’s Share",
+    "TYPE": "public sculpture",
+    "YEAR": "2001",
+    "ARTIST": "Cynthia Rowland",
+    "ADDRESS": "3400 University Blvd SE",
+    "LOCATION": "Airport Rental Car Facility",
+     -106.62575409999999,
+     35.040300000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2439236908/",
+    "JPG_URL": "http://farm3.staticflickr.com/2301/2439236908_94c72b7ecf_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11869524.651900001,
+     4169359.1026000008]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209988,
+    "ART_CODE": "194",
+    "TITLE": "Variacion Nuevo Mexico",
+    "TYPE": "public sculpture",
+    "YEAR": "1989",
+    "ARTIST": " Sebastian",
+    "ADDRESS": "2000 Mountain Rd NW",
+    "LOCATION": "Albuquerque Museum",
+     -106.66796410000001,
+     35.097200000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479133088/",
+    "JPG_URL": "http://farm3.staticflickr.com/2148/2479133088_a1f5b7329b_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11874223.4476,
+     4177098.0936999992]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209989,
+    "ART_CODE": "195",
+    "TITLE": "Wild Things (Squirrel)",
+    "TYPE": "wood carvings",
+    "YEAR": "1993",
+    "ARTIST": "Michael Semsch",
+    "ADDRESS": "903 10th St SW",
+    "LOCATION": "Rio Grande Zoological Park",
+     -106.66115499999999,
+     35.0777,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2421493360/",
+    "JPG_URL": "http://farm4.staticflickr.com/3042/2421493360_25ce8ca6b3_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873465.462000001,
+     4174445.2833999991]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209990,
+    "ART_CODE": "195.01",
+    "TITLE": "Wild Things (Ram)",
+    "TYPE": "wood carvings",
+    "YEAR": "1993",
+    "ARTIST": "Michael Semsch",
+    "ADDRESS": "903 10th St SW",
+    "LOCATION": "Rio Grande Zoological Park",
+     -106.66115499999999,
+     35.0777,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6780633010/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7199/6780633010_d2ccb5c8e4_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873465.462000001,
+     4174445.2833999991]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209991,
+    "ART_CODE": "195.02",
+    "TITLE": "Wild Things (Wolf)",
+    "TYPE": "wood carvings",
+    "YEAR": "1993",
+    "ARTIST": "Michael Semsch",
+    "ADDRESS": "903 10th St SW",
+    "LOCATION": "Rio Grande Zoological Park",
+     -106.66115499999999,
+     35.0777,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6780633050/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7183/6780633050_bfa91555db_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873465.462000001,
+     4174445.2833999991]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209992,
+    "ART_CODE": "195.03",
+    "TITLE": "Wild Things (Deer)",
+    "TYPE": "wood carvings",
+    "YEAR": "1993",
+    "ARTIST": "Michael Semsch",
+    "ADDRESS": "903 10th St SW",
+    "LOCATION": "Rio Grande Zoological Park",
+     -106.66115499999999,
+     35.0777,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6780633092/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7060/6780633092_25bff622fd_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873465.462000001,
+     4174445.2833999991]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209993,
+    "ART_CODE": "195.04",
+    "TITLE": "Wild Things (Fish)",
+    "TYPE": "wood carvings",
+    "YEAR": "1993",
+    "ARTIST": "Michael Semsch",
+    "ADDRESS": "903 10th St SW",
+    "LOCATION": "Rio Grande Zoological Park",
+     -106.66115499999999,
+     35.0777,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6780633144/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7037/6780633144_07a54ee25e_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873465.462000001,
+     4174445.2833999991]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209994,
+    "ART_CODE": "195.05",
+    "TITLE": "Wild Things (Toad)",
+    "TYPE": "wood carvings",
+    "YEAR": "1993",
+    "ARTIST": "Michael Semsch",
+    "ADDRESS": "903 10th St SW",
+    "LOCATION": "Rio Grande Zoological Park",
+     -106.66115499999999,
+     35.0777,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6926750711/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7040/6926750711_324b5cf0f1_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873465.462000001,
+     4174445.2833999991]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209995,
+    "ART_CODE": "195.06",
+    "TITLE": "Wild Things (Buffalo)",
+    "TYPE": "wood carvings",
+    "YEAR": "1993",
+    "ARTIST": "Michael Semsch",
+    "ADDRESS": "903 10th St SW",
+    "LOCATION": "Rio Grande Zoological Park",
+     -106.66115499999999,
+     35.0777,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6780633210/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7187/6780633210_e615d86ca2_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873465.462000001,
+     4174445.2833999991]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209996,
+    "ART_CODE": "195.07",
+    "TITLE": "Wild Things (Hummingbird 1)",
+    "TYPE": "wood carvings",
+    "YEAR": "1993",
+    "ARTIST": "Michael Semsch",
+    "ADDRESS": "903 10th St SW",
+    "LOCATION": "Rio Grande Zoological Park",
+     -106.66115499999999,
+     35.0777,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6926750833/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7045/6926750833_844e7713f2_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873465.462000001,
+     4174445.2833999991]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209997,
+    "ART_CODE": "195.08",
+    "TITLE": "Wild Things (Hummingbird 2)",
+    "TYPE": "wood carvings",
+    "YEAR": "1993",
+    "ARTIST": "Michael Semsch",
+    "ADDRESS": "903 10th St SW",
+    "LOCATION": "Rio Grande Zoological Park",
+     -106.66115499999999,
+     35.0777,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6780633368/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7205/6780633368_abef173775_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873465.462000001,
+     4174445.2833999991]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209998,
+    "ART_CODE": "195.09",
+    "TITLE": "Wild Things (Hare)",
+    "TYPE": "wood carvings",
+    "YEAR": "1993",
+    "ARTIST": "Michael Semsch",
+    "ADDRESS": "903 10th St SW",
+    "LOCATION": "Rio Grande Zoological Park",
+     -106.66115499999999,
+     35.0777,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6780633420/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7185/6780633420_6263c8d83b_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873465.462000001,
+     4174445.2833999991]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 209999,
+    "ART_CODE": "195.1",
+    "TITLE": "Wild Things (Eagle)",
+    "TYPE": "wood carvings",
+    "YEAR": "1993",
+    "ARTIST": "Michael Semsch",
+    "ADDRESS": "903 10th St SW",
+    "LOCATION": "Rio Grande Zoological Park",
+     -106.66115499999999,
+     35.0777,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6926751023/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7210/6926751023_59f91388c8_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873465.462000001,
+     4174445.2833999991]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210000,
+    "ART_CODE": "195.11",
+    "TITLE": "Wild Things (Lizards)",
+    "TYPE": "wood carvings",
+    "YEAR": "1993",
+    "ARTIST": "Michael Semsch",
+    "ADDRESS": "903 10th St SW",
+    "LOCATION": "Rio Grande Zoological Park",
+     -106.66115499999999,
+     35.0777,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6780633494/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7191/6780633494_787aee10cf_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873465.462000001,
+     4174445.2833999991]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210001,
+    "ART_CODE": "195.12",
+    "TITLE": "Wild Things (Hawk)",
+    "TYPE": "wood carvings",
+    "YEAR": "1993",
+    "ARTIST": "Michael Semsch",
+    "ADDRESS": "903 10th St SW",
+    "LOCATION": "Rio Grande Zoological Park",
+     -106.66115499999999,
+     35.0777,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6780633514/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7185/6780633514_4748d99b0c_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873465.462000001,
+     4174445.2833999991]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210002,
+    "ART_CODE": "196",
+    "TITLE": "Bus Stop and Low Walls",
+    "TYPE": "public sculpture",
+    "YEAR": "1997",
+    "ARTIST": "Joan Weissman",
+    "ADDRESS": "Central, Girard & Monte Vista NE",
+    "LOCATION": "Nob Hill Triangle Park",
+     -106.6122349,
+     35.081299999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6871077785/",
+    "JPG_URL": "http://farm8.staticflickr.com/7058/6871077785_1486c2b60d_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11868019.701400001,
+     4174934.985299997]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210003,
+    "ART_CODE": "197",
+    "TITLE": "Star",
+    "TYPE": "public sculpture",
+    "YEAR": "1997",
+    "ARTIST": "Richard Beckman",
+    "ADDRESS": "Central, Girard & Monte Vista NE",
+    "LOCATION": "Nob Hill Triangle Park",
+     -106.6126428,
+     35.080800000000004,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6780655826/in/photostream",
+    "JPG_URL": "http://farm8.staticflickr.com/7186/6780655826_194bba9efb_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11868065.1086,
+     4174866.9698000029]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210004,
+    "ART_CODE": "198",
+    "TITLE": "Mi Jacalito y Mi Comunidad",
+    "TYPE": "mosaics (visual works)",
+    "YEAR": "1997",
+    "ARTIST": "Esteban Duran",
+    "ADDRESS": "4th Street at Barelas SW",
+    "LOCATION": "4th St./Barelas Streetscape Improvements",
+     -106.65311749999999,
+     35.076700000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2420678329/",
+    "JPG_URL": "http://farm3.staticflickr.com/2284/2420678329_4ab5b45d0b_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872570.7316,
+     4174309.2589000016]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210005,
+    "ART_CODE": "199",
+    "TITLE": "Ahora y Cuando",
+    "TYPE": "mosaics",
+    "YEAR": "1997",
+    "ARTIST": "Patricio A. Zamora (PAZ)",
+    "ADDRESS": "4th Street at Stover SW",
+    "LOCATION": "4th St./Barelas Streetscape Improvements",
+     -106.6527372,
+     35.078699999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6831951021/",
+    "JPG_URL": "http://farm8.staticflickr.com/7020/6831951021_4fab622133_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872528.3968,
+     4174581.3095000014]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210006,
+    "ART_CODE": "200",
+    "TITLE": "Kolowisi",
+    "TYPE": "public sculpture",
+    "YEAR": "1983",
+    "ARTIST": "Andrew Shows",
+    "ADDRESS": "Lomas at 8th St. NW",
+    "LOCATION": "Lomas at 8th Street NW",
+     -106.6556453,
+     35.091799999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478321353/",
+    "JPG_URL": "http://farm3.staticflickr.com/2128/2478321353_da74d83208_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872852.125,
+     4176363.4057999998]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210007,
+    "ART_CODE": "202",
+    "TITLE": "Historical Timeline of Books",
+    "TYPE": "mural paintings (visual works)",
+    "YEAR": "1996",
+    "ARTIST": "Diana Stetson",
+    "ADDRESS": "423 Central Ave NE",
+    "LOCATION": "Special Collections Library",
+     -106.6421777,
+     35.083599999999997,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030111983/",
+    "JPG_URL": "http://farm2.staticflickr.com/1041/1030111983_d89e36d5ef_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11871352.9186,
+     4175247.8616999984]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210008,
+    "ART_CODE": "203",
+    "TITLE": "East Central Mosaics (Home on the Rainbow)",
+    "TYPE": "mosaics (visual works)",
+    "YEAR": "1996",
+    "ARTIST": "Robert Stout",
+    "ADDRESS": "302 San Pablo SE",
+    "LOCATION": "East Central Center for Family & Community Services",
+     -106.5630647,
+     35.073799999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2439175860/",
+    "JPG_URL": "http://farm4.staticflickr.com/3165/2439175860_bfd6174e61_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11862546.0998,
+     4173914.7973999977]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210009,
+    "ART_CODE": "203.01",
+    "TITLE": "East Central Mosaics (March of the Flowers)",
+    "TYPE": "mosaics (visual works)",
+    "YEAR": "1996",
+    "ARTIST": "Robert Stout",
+    "ADDRESS": "306 San Pablo SE",
+    "LOCATION": "East Central Center for Family & Community Services",
+     -106.5632614,
+     35.072800000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6926782129/in/photostream",
+    "JPG_URL": "http://farm8.staticflickr.com/7183/6926782129_8b730ac09c_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11862567.996300001,
+     4173778.7795000002]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210010,
+    "ART_CODE": "203.02",
+    "TITLE": "East Central Mosaics (Pinwheel)",
+    "TYPE": "mosaics (visual works)",
+    "YEAR": "1996",
+    "ARTIST": "Robert Stout",
+    "ADDRESS": "306 San Pablo SE",
+    "LOCATION": "East Central Center for Family & Community Services",
+     -106.56375130000001,
+     35.0732,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6926782165/in/photostream",
+    "JPG_URL": "http://farm8.staticflickr.com/7196/6926782165_f47db4c61c_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11862622.5317,
+     4173833.186499998]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210011,
+    "ART_CODE": "204",
+    "TITLE": "Palo Duro Mosaic",
+    "TYPE": "Mosaic",
+    "YEAR": "1994",
+    "ARTIST": "Robert Stout",
+    "ADDRESS": "5221 Palo Duro NE",
+    "LOCATION": "Palo Duro Senior Center",
+     -106.58491549999999,
+     35.124600000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030112049/",
+    "JPG_URL": "http://farm2.staticflickr.com/1318/1030112049_288969a272_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11864978.5197,
+     4180826.7047000006]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210012,
+    "ART_CODE": "205",
+    "TITLE": "Gates to Sculpture Garden",
+    "TYPE": "gates",
+    "YEAR": "1996",
+    "ARTIST": "John Suttman",
+    "ADDRESS": "2000 Mountain Rd NW",
+    "LOCATION": "Albuquerque Museum",
+     -106.66796410000001,
+     35.097200000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478321445/",
+    "JPG_URL": "http://farm4.staticflickr.com/3193/2478321445_d5860558a2_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11874223.4476,
+     4177098.0936999992]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210013,
+    "ART_CODE": "206",
+    "TITLE": "Pentaceratops Sternbergii (aka \"Spike\")",
+    "TYPE": "public sculpture",
+    "YEAR": "1985",
+    "ARTIST": "David Thomas",
+    "ADDRESS": "1801 Mountain Rd NW",
+    "LOCATION": "Natural History Museum",
+     -106.6651028,
+     35.098399999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479133298/",
+    "JPG_URL": "http://farm4.staticflickr.com/3164/2479133298_ce941172f8_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873904.929099999,
+     4177261.3642999977]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210014,
+    "ART_CODE": "207",
+    "TITLE": "Albertosaurus Sternbergii (aka \"Alberta\")",
+    "TYPE": "public sculpture",
+    "YEAR": "1987",
+    "ARTIST": "David Thomas",
+    "ADDRESS": "1801 Mountain Rd NW",
+    "LOCATION": "Natural History Museum",
+     -106.6651028,
+     35.098399999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478321577/in/photostream/",
+    "JPG_URL": "http://farm3.staticflickr.com/2262/2478321577_e383d727ff_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873904.929099999,
+     4177261.3642999977]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210015,
+    "ART_CODE": "208",
+    "TITLE": "Historia de Barelas",
+    "TYPE": "Tapestry",
+    "YEAR": "1989",
+    "ARTIST": "Helen Thompson",
+    "ADDRESS": "714 Seventh St SW",
+    "LOCATION": "Barelas Senior Multi-Service Center",
+     -106.6558775,
+     35.078899999999997,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6264395167/",
+    "JPG_URL": "http://farm7.staticflickr.com/6158/6264395167_628c7cc00f_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872877.9734,
+     4174608.5150000006]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210016,
+    "ART_CODE": "209",
+    "TITLE": "Sharing the Joy of a New Discovery",
+    "TYPE": "public sculpture",
+    "YEAR": "1996",
+    "ARTIST": "Alice Thompson",
+    "ADDRESS": "8205 Apache Ave NE",
+    "LOCATION": "Wyoming Branch Library ",
+     -106.5532206,
+     35.107999999999997,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6264405715/",
+    "JPG_URL": "http://farm7.staticflickr.com/6049/6264405715_2e66449648_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11861450.2596,
+     4178567.6155000031]
+	 }
+    },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210018,
+    "ART_CODE": "210",
+    "TITLE": "To Serve & Protect",
+    "TYPE": "public sculpture",
+    "YEAR": "1984",
+    "ARTIST": "Storm Townsend",
+    "ADDRESS": "8201 Osuna Rd NE",
+    "LOCATION": "NE Heights Police Substation",
+     -106.55250270000001,
+     35.137900000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030112113/",
+    "JPG_URL": "http://farm2.staticflickr.com/1266/1030112113_2fbc7ccc0e_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11861370.3433,
+     4182637.0301000029]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210019,
+    "ART_CODE": "211",
+    "TITLE": "Kimo the Cat",
+    "TYPE": "public sculpture",
+    "YEAR": "1999",
+    "ARTIST": "Michele VandenHeuvel",
+    "ADDRESS": "8920 Lomas Blvd. NE",
+    "LOCATION": "Eastside Animal Care Center",
+     -106.544979,
+     35.086300000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6926792621/",
+    "JPG_URL": "http://farm8.staticflickr.com/7065/6926792621_a9182d4036_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11860532.808899999,
+     4175615.1626000032]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210020,
+    "ART_CODE": "212",
+    "TITLE": "Dawn Light",
+    "TYPE": "public sculpture",
+    "YEAR": "1982",
+    "ARTIST": "Ed Vega",
+    "ADDRESS": "San Mateo & Hannett Ave NE",
+    "LOCATION": "San Mateo Mini Park",
+     -106.58601059999999,
+     35.097499999999997,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030963812/",
+    "JPG_URL": "http://farm2.staticflickr.com/1088/1030963812_602b44b9a4_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11865100.4257,
+     4177138.9112000018]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210021,
+    "ART_CODE": "213",
+    "TITLE": "Historic Railing Design",
+    "TYPE": "gates",
+    "YEAR": "2000",
+    "ARTIST": "Jim Crane",
+    "ADDRESS": "100 First Street SW",
+    "LOCATION": "Alvarado Transportation Center",
+     -106.6476614,
+     35.0839,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2420678377/",
+    "JPG_URL": "http://farm4.staticflickr.com/3265/2420678377_714f18d129_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11871963.361299999,
+     4175288.6723000035]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210022,
+    "ART_CODE": "214",
+    "TITLE": "A Tradition of Public Transportation in Albuquerque",
+    "TYPE": "Painting (visual works)",
+    "YEAR": "1989",
+    "ARTIST": "Eric Velhagen",
+    "ADDRESS": "Central Ave and First Street SW",
+    "LOCATION": "Alvarado Transportation Center",
+     -106.648062,
+     35.084099999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6836595439/",
+    "JPG_URL": "http://farm8.staticflickr.com/7034/6836595439_d5cb2d2dcd_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872007.9559,
+     4175315.8794]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210023,
+    "ART_CODE": "215",
+    "TITLE": "Santa Madre Tierra y su Alma",
+    "TYPE": "mural paintings (visual works)",
+    "YEAR": "1992",
+    "ARTIST": "Frederico Vigil",
+    "ADDRESS": "2000 Mountain Rd NW",
+    "LOCATION": " Albuquerque Museum",
+     -106.6687057,
+     35.098100000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479133388/",
+    "JPG_URL": "http://farm3.staticflickr.com/2036/2479133388_6691947336_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11874306.0021,
+     4177220.5464999974]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210024,
+    "ART_CODE": "216",
+    "TITLE": "Cone 10",
+    "TYPE": "public sculpture",
+    "YEAR": "1994",
+    "ARTIST": "Tom Waldron",
+    "ADDRESS": "501Copper NW",
+    "LOCATION": "Main Library ",
+     -106.6532516,
+     35.086199999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/3093717552/",
+    "JPG_URL": "http://farm4.staticflickr.com/3113/3093717552_62a34af7f9_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872585.659600001,
+     4175601.5587000027]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210025,
+    "ART_CODE": "217",
+    "TITLE": "Alligator Vase",
+    "TYPE": "public sculpture",
+    "YEAR": "1992",
+    "ARTIST": "Tom Waldron",
+    "ADDRESS": "908 Eastridge DR NE",
+    "LOCATION": "Lomas Tramway Library ",
+     -106.4978478,
+     35.085900000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030963870/",
+    "JPG_URL": "http://farm2.staticflickr.com/1326/1030963870_325ab23b84_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11855286.1877,
+     4175560.7468999997]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210026,
+    "ART_CODE": "218",
+    "TITLE": "“Five Stones of Elena Gallegos” Memorial",
+    "TYPE": "public sculpture",
+    "YEAR": "1982",
+    "ARTIST": "Billie Walters",
+    "ADDRESS": "Elena Gallegos Open Space and Simms Park Rd. NE",
+    "LOCATION": "Elena Gallegos Open Space ",
+     -106.4735774,
+     35.161700000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030112375/in/photostream/",
+    "JPG_URL": "http://farm2.staticflickr.com/1112/1030112375_d9243815a6_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11852584.4191,
+     4185877.2981000021]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210027,
+    "ART_CODE": "219",
+    "TITLE": "Ceramic Tile Mural",
+    "TYPE": "mosaics (visual works)",
+    "YEAR": "1986",
+    "ARTIST": "Joan Weissman",
+    "ADDRESS": "4645 Pitt NE",
+    "LOCATION": "Bear Canyon Senior Center",
+     -106.53060000000001,
+     35.134099999999997,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030112581/in/photostream/",
+    "JPG_URL": "http://farm2.staticflickr.com/1398/1030112581_fdf618683a_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11858932.1459,
+     4182119.7641000003]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210028,
+    "ART_CODE": "220",
+    "TITLE": "Arc - 28",
+    "TYPE": "public sculpture",
+    "YEAR": "2001",
+    "ARTIST": " Rivet",
+    "ADDRESS": "10100 Lomas Blvd NE",
+    "LOCATION": "Los Altos Skate Park",
+     -106.5378722,
+     35.085999999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6871875013/",
+    "JPG_URL": "http://farm8.staticflickr.com/7052/6871875013_d1ec7e5db4_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11859741.683499999,
+     4175574.3508000001]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210029,
+    "ART_CODE": "221",
+    "TITLE": "Nob Hill Gateway",
+    "TYPE": "public sculpture",
+    "YEAR": "1993",
+    "ARTIST": "Joan Weissman",
+    "ADDRESS": "Central Ave & Washington NE",
+    "LOCATION": "Central Ave & Washington NE",
+     -106.6133148,
+     35.081200000000003,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6871139035/",
+    "JPG_URL": "http://farm8.staticflickr.com/7187/6871139035_ac871cdd7b_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11868139.9153,
+     4174921.3822000027]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210030,
+    "ART_CODE": "222",
+    "TITLE": "Nob Hill Gateway",
+    "TYPE": "architecture",
+    "YEAR": "1993",
+    "ARTIST": "Terry Conrad",
+    "ADDRESS": "Central Ave & Girard NE",
+    "LOCATION": "Nob Hill Triangle Park",
+     -106.5953365,
+     35.078800000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6780723678/in/photostream",
+    "JPG_URL": "http://farm8.staticflickr.com/7198/6780723678_003252dca1_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11866138.5801,
+     4174594.9121999964]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210031,
+    "ART_CODE": "223",
+    "TITLE": "La Pared de Imagenes (The Wall of Images)",
+    "TYPE": "public sculpture",
+    "YEAR": "1996",
+    "ARTIST": "Byron Wickstrom",
+    "ADDRESS": "401 2nd St. NW",
+    "LOCATION": "Albuquerque Convention Center",
+     -106.6474,
+     35.085999999999999,
+    "IMAGE_URL": "https://www.flickr.com/photos/abqpublicart/14924667563/",
+    "JPG_URL": "https://c2.staticflickr.com/6/5611/14924667563_481373e8bd_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11871934.262400001,
+     4175574.3508000001]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210032,
+    "ART_CODE": "224",
+    "TITLE": "Netherwood Habitat",
+    "TYPE": "public sculpture",
+    "YEAR": "2000",
+    "ARTIST": "Susan Wink",
+    "ADDRESS": "Cutler Ave at Princeton & Apache Ct NE",
+    "LOCATION": "Netherwood Storm Drainage Detention Basin",
+     -106.61682190000001,
+     35.104999999999997,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030964138/",
+    "JPG_URL": "http://farm2.staticflickr.com/1181/1030964138_09016f9eb6_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11868530.323899999,
+     4178159.3954999968]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210033,
+    "ART_CODE": "225",
+    "TITLE": "Mountain Waves",
+    "TYPE": "public sculpture",
+    "YEAR": "1986",
+    "ARTIST": "David Witherspoon",
+    "ADDRESS": "Menaul at Punta de Vista NE",
+    "LOCATION": "Piedra Lisa Park",
+     -106.4913409,
+     35.107599999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030964320/in/photostream/",
+    "JPG_URL": "http://farm2.staticflickr.com/1099/1030964320_52d06510fe_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11854561.842900001,
+     4178513.1853]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210034,
+    "ART_CODE": "226",
+    "TITLE": "Police Officers Memorial \"Beyond the Call\"",
+    "TYPE": "public sculpture",
+    "YEAR": "1991",
+    "ARTIST": "Bill Worthen",
+    "ADDRESS": "8201 Osuna NE",
+    "LOCATION": "Xeriscape Garden Park",
+     -106.55250270000001,
+     35.137900000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030964368/in/photostream/",
+    "JPG_URL": "http://farm2.staticflickr.com/1104/1030964368_a6bceb135c_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11861370.3433,
+     4182637.0301000029]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210035,
+    "ART_CODE": "227",
+    "TITLE": "Morning Allegory",
+    "TYPE": "mural paintings (visual works)",
+    "YEAR": "1996",
+    "ARTIST": "Nancy Young",
+    "ADDRESS": "Menaul & Punta de Vista NE",
+    "LOCATION": "Piedra Lisa Dam",
+     -106.4910775,
+     35.107999999999997,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/1030113225/in/photostream/",
+    "JPG_URL": "http://farm2.staticflickr.com/1136/1030113225_b0db2c9e19_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11854532.521299999,
+     4178567.6155000031]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210036,
+    "ART_CODE": "228",
+    "TITLE": " Mediterranean Conservatory Mural",
+    "TYPE": "mural paintings (visual works)",
+    "YEAR": "1996",
+    "ARTIST": "Claudia Baragiola",
+    "ADDRESS": "2601 Central Ave NW",
+    "LOCATION": "Botanic Garden",
+     -106.6808887,
+     35.092700000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478321775/",
+    "JPG_URL": "http://farm4.staticflickr.com/3041/2478321775_c671ca4b39_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11875662.2075,
+     4176485.8504000008]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210037,
+    "ART_CODE": "229",
+    "TITLE": "Under the Portal of Santa Fe",
+    "TYPE": "Painting (visual works)",
+    "YEAR": "1988",
+    "ARTIST": "Elias Rivera",
+    "ADDRESS": "2200 Sunport Blvd SE",
+    "LOCATION": "Main Terminal",
+     -106.6166671,
+     35.0488,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2456693015/",
+    "JPG_URL": "http://farm3.staticflickr.com/2173/2456693015_a8d9904260_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11868513.091600001,
+     4170514.8482000008]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210038,
+    "ART_CODE": "230",
+    "TITLE": "Jubilee",
+    "TYPE": "Painting",
+    "YEAR": "1996",
+    "ARTIST": "Garo Antreasian",
+    "ADDRESS": "7521 Carmel NE",
+    "LOCATION": "North Domingo Baca Multigenerational Center",
+     -106.56143899999999,
+     35.177306999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6871885561/",
+    "JPG_URL": "http://farm8.staticflickr.com/7036/6871885561_cd9efe2636_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11862365.127700001,
+     4188002.6389999986]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210039,
+    "ART_CODE": "231",
+    "TITLE": "Kokobello I",
+    "TYPE": "Painting (visual works)",
+    "YEAR": "1996",
+    "ARTIST": "Garo Antreasian",
+    "ADDRESS": "7521 Carmel NE",
+    "LOCATION": "North Domingo Baca Multigenerational Center",
+     -106.56143899999999,
+     35.177306999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6871679015/",
+    "JPG_URL": "http://farm8.staticflickr.com/7040/6871679015_3eb3690e27_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11862365.127700001,
+     4188002.6389999986]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210040,
+    "ART_CODE": "232",
+    "TITLE": "The Rio Wildlife (Frogs)",
+    "TYPE": "public sculpture",
+    "YEAR": "1996",
+    "ARTIST": "O.K. Harris",
+    "ADDRESS": "2601 Central Ave NW",
+    "LOCATION": "Rio Grande Aquarium",
+     -106.6791604,
+     35.0931,
+    "IMAGE_URL": "https://www.flickr.com/photos/abqpublicart/6926852839/in/photolist-4M14zp-by6YpZ-bkc44S-by6W2e",
+    "JPG_URL": "http://farm8.staticflickr.com/7063/6926852839_bb55b64f5a_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11875469.813999999,
+     4176540.2707000002]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210041,
+    "ART_CODE": "232.01",
+    "TITLE": "The Rio Wildlife (Fish)",
+    "TYPE": "public sculpture",
+    "YEAR": "1996",
+    "ARTIST": "O.K. Harris",
+    "ADDRESS": "2601 Central Ave NW",
+    "LOCATION": "Rio Grande Aquarium",
+     -106.6791604,
+     35.0931,
+    "IMAGE_URL": "https://www.flickr.com/photos/abqpublicart/2478324653/in/photolist-4M14zp-by6YpZ-bkc44S-by6W2e",
+    "JPG_URL": "http://farm3.staticflickr.com/2003/2478324653_7ab7f1697a_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11875469.813999999,
+     4176540.2707000002]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210042,
+    "ART_CODE": "232.02",
+    "TITLE": "The Rio Wildlife (Pelican)",
+    "TYPE": "public sculpture",
+    "YEAR": "1996",
+    "ARTIST": "O.K. Harris",
+    "ADDRESS": "2601 Central Ave NW",
+    "LOCATION": "Rio Grande Aquarium",
+     -106.6791604,
+     35.0931,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6780737652/in/photostream",
+    "JPG_URL": "http://farm8.staticflickr.com/7057/6780737652_7fae6f57b8_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11875469.813999999,
+     4176540.2707000002]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210043,
+    "ART_CODE": "232.03",
+    "TITLE": "The Rio Wildlife (Turtle)",
+    "TYPE": "public sculpture",
+    "YEAR": "1996",
+    "ARTIST": "O.K. Harris",
+    "ADDRESS": "2601 Central Ave NW",
+    "LOCATION": "Rio Grande Aquarium",
+     -106.6791604,
+     35.0931,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6926860887/in/photostream",
+    "JPG_URL": "http://farm8.staticflickr.com/7179/6926860887_c33840cf0a_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11875469.813999999,
+     4176540.2707000002]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210044,
+    "ART_CODE": "233",
+    "TITLE": "Ark",
+    "TYPE": "Work on paper",
+    "YEAR": "1996",
+    "ARTIST": "Garo Antreasian",
+    "ADDRESS": "7521 Carmel NE",
+    "LOCATION": "North Domingo Baca Multigenerational Center",
+     -106.56143899999999,
+     35.177306999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2514376970/",
+    "JPG_URL": "http://farm4.staticflickr.com/3082/2514376970_1941d15a69_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11862365.127700001,
+     4188002.6389999986]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210045,
+    "ART_CODE": "234",
+    "TITLE": "Large Sculptural Form",
+    "TYPE": "Works on Paper",
+    "YEAR": "1996",
+    "ARTIST": "Garo Antreasian",
+    "ADDRESS": "7521 Carmel NE",
+    "LOCATION": "North Domingo Baca Multigenerational Center",
+     -106.56143899999999,
+     35.177306999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6871718705/",
+    "JPG_URL": "http://farm8.staticflickr.com/7037/6871718705_e7ccafb501_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11862365.127700001,
+     4188002.6389999986]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210046,
+    "ART_CODE": "235",
+    "TITLE": "Ramagir-A ",
+    "TYPE": "Work on Paper",
+    "YEAR": "1996",
+    "ARTIST": "Garo Antreasian",
+    "ADDRESS": "7521 Carmel NE",
+    "LOCATION": "NDB Multicultural Center ",
+     -106.56143899999999,
+     35.177306999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6871710343/",
+    "JPG_URL": "http://farm8.staticflickr.com/7186/6871710343_5be70a06e2_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11862365.127700001,
+     4188002.6389999986]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210047,
+    "ART_CODE": "237",
+    "TITLE": "Construction with Chacmol",
+    "TYPE": "Painting (visual works)",
+    "YEAR": "2000",
+    "ARTIST": "Mary Wood",
+    "ADDRESS": "3400 University Blvd SE",
+    "LOCATION": "Airport Rental Car Facility",
+     -106.62575409999999,
+     35.040300000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2438410963/",
+    "JPG_URL": "http://farm3.staticflickr.com/2008/2438410963_a4558e25dc_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11869524.651900001,
+     4169359.1026000008]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210048,
+    "ART_CODE": "238",
+    "TITLE": " Rosalie Doolittle Fountain",
+    "TYPE": "Fountains",
+    "YEAR": "1996",
+    "ARTIST": "Shel Neymark",
+    "ADDRESS": "2601 Central Ave NW",
+    "LOCATION": "Botanic Garden",
+     -106.6808887,
+     35.092700000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2479133628/",
+    "JPG_URL": "http://farm3.staticflickr.com/2084/2479133628_7830d3cb12_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11875662.2075,
+     4176485.8504000008]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210049,
+    "ART_CODE": "241",
+    "TITLE": "Emerging Madonna I",
+    "TYPE": "public sculpture",
+    "YEAR": "2001",
+    "ARTIST": "Artis Lane",
+    "ADDRESS": "3400 University Blvd SE",
+    "LOCATION": "Airport Rental Car Facility",
+     -106.62575409999999,
+     35.040300000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6870916793/",
+    "JPG_URL": "http://farm8.staticflickr.com/7064/6870916793_5f24cdc1d3_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11869524.651900001,
+     4169359.1026000008]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210050,
+    "ART_CODE": "242",
+    "TITLE": "Blackened Clay",
+    "TYPE": "public sculpture",
+    "YEAR": "1998",
+    "ARTIST": "Veloy Vigil",
+    "ADDRESS": "500 Lomas NE",
+    "LOCATION": "Edith and Lomas Nichos (near Martineztown)",
+     -106.6401941,
+     35.089700000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6871051069/",
+    "JPG_URL": "http://farm8.staticflickr.com/7199/6871051069_d5b204a8cb_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11871132.1053,
+     4176077.7070000023]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210051,
+    "ART_CODE": "243",
+    "TITLE": "Nichos with Tile #1",
+    "TYPE": "public sculpture",
+    "YEAR": "1998",
+    "ARTIST": "Esteban Duran",
+    "ADDRESS": "500 Lomas NE",
+    "LOCATION": "Edith and Lomas Nichos, SE corner of Lomas and Edith (near Martineztown)",
+     -106.6401941,
+     35.089700000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6871509161/",
+    "JPG_URL": "http://farm8.staticflickr.com/7051/6871509161_6d1d304873_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11871132.1053,
+     4176077.7070000023]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210052,
+    "ART_CODE": "243.01",
+    "TITLE": "Nichos with Tile #2",
+    "TYPE": "public sculpture",
+    "YEAR": "1998",
+    "ARTIST": "Esteban Duran",
+    "ADDRESS": "500 Lomas NE",
+    "LOCATION": "Edith and Lomas Nichos SW corner of Lomas and Edith (near Martineztown)",
+     -106.6408249,
+     35.089700000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6871555525/in/photostream/",
+    "JPG_URL": "http://farm8.staticflickr.com/7051/6871555525_5d6e244aea_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11871202.3256,
+     4176077.7070000023]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210053,
+    "ART_CODE": "244",
+    "TITLE": "Illustration",
+    "TYPE": "collages (visual works)",
+    "YEAR": "1982",
+    "ARTIST": "Jackie St. Aubyn",
+    "ADDRESS": "501 Copper NW",
+    "LOCATION": " Main Library",
+     -106.6532516,
+     35.086199999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2486731711/",
+    "JPG_URL": "http://farm4.staticflickr.com/3035/2486731711_fd4899ed71_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872585.659600001,
+     4175601.5587000027]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210054,
+    "ART_CODE": "245",
+    "TITLE": "Illustration",
+    "TYPE": "drawings (visual works)",
+    "YEAR": "1983",
+    "ARTIST": "Nick Abdalla",
+    "ADDRESS": "501 Copper NW",
+    "LOCATION": "Main Library",
+     -106.6532516,
+     35.086199999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6926902221/in/photostream",
+    "JPG_URL": "http://farm8.staticflickr.com/7055/6926902221_4516f5c43f_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872585.659600001,
+     4175601.5587000027]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210055,
+    "ART_CODE": "246",
+    "TITLE": "Illustration",
+    "TYPE": "drawings (visual works)",
+    "YEAR": "1983",
+    "ARTIST": "Chris  Bull",
+    "ADDRESS": "501 Copper NW",
+    "LOCATION": "Main Library",
+     -106.6532516,
+     35.086199999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2486731787/",
+    "JPG_URL": "http://farm4.staticflickr.com/3090/2486731787_e00bdfa2bf_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872585.659600001,
+     4175601.5587000027]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210056,
+    "ART_CODE": "247",
+    "TITLE": "Illustration",
+    "TYPE": "paintings (visual works)",
+    "YEAR": "1983",
+    "ARTIST": "Reg Loving",
+    "ADDRESS": "501 Copper NW",
+    "LOCATION": "Main Library",
+     -106.6532516,
+     35.086199999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2486731927/in/photostream/",
+    "JPG_URL": "http://farm4.staticflickr.com/3012/2486731927_af253c5a92_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872585.659600001,
+     4175601.5587000027]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210057,
+    "ART_CODE": "248",
+    "TITLE": "Illustration",
+    "TYPE": "drawings (visual works)",
+    "YEAR": "1983",
+    "ARTIST": "John Wenger",
+    "ADDRESS": "501 Copper NW",
+    "LOCATION": "Main Library ",
+     -106.6532516,
+     35.086199999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2487547376/in/photostream/",
+    "JPG_URL": "http://farm3.staticflickr.com/2407/2487547376_908351e7cc_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872585.659600001,
+     4175601.5587000027]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210058,
+    "ART_CODE": "249",
+    "TITLE": "Illustration",
+    "TYPE": "paintings (visual works)",
+    "YEAR": "1983",
+    "ARTIST": "Frank McCulloch",
+    "ADDRESS": "501 Copper NW",
+    "LOCATION": "Main Library",
+     -106.6532516,
+     35.086199999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2486732089/in/photostream/",
+    "JPG_URL": "http://farm4.staticflickr.com/3027/2486732089_eac64e74f1_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872585.659600001,
+     4175601.5587000027]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210059,
+    "ART_CODE": "250",
+    "TITLE": "Illustration",
+    "TYPE": "watercolors (paintings)",
+    "YEAR": "1983",
+    "ARTIST": "Dennis  Culver",
+    "ADDRESS": "501 Copper NW",
+    "LOCATION": "Main Library",
+     -106.6532516,
+     35.086199999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2487547446/in/photostream/",
+    "JPG_URL": "http://farm4.staticflickr.com/3261/2487547446_26c0dee3ab_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872585.659600001,
+     4175601.5587000027]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210060,
+    "ART_CODE": "251",
+    "TITLE": "Illustration",
+    "TYPE": "watercolors (paintings)",
+    "YEAR": "1983",
+    "ARTIST": "Carl  Johansen",
+    "ADDRESS": "501 Copper NW",
+    "LOCATION": "Main Library",
+     -106.6532516,
+     35.086199999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2486732155/in/photostream/",
+    "JPG_URL": "http://farm4.staticflickr.com/3198/2486732155_efd0ba69aa_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872585.659600001,
+     4175601.5587000027]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210061,
+    "ART_CODE": "252",
+    "TITLE": "Illustration",
+    "TYPE": "paintings (visual works)",
+    "YEAR": "1983",
+    "ARTIST": "Randy White",
+    "ADDRESS": "501 Copper NW",
+    "LOCATION": "Main Library ",
+     -106.6532516,
+     35.086199999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6876514173/",
+    "JPG_URL": "http://farm8.staticflickr.com/7179/6876514173_ed8385b78d_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872585.659600001,
+     4175601.5587000027]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210062,
+    "ART_CODE": "253",
+    "TITLE": "Illustration",
+    "TYPE": "drawings (visual works)",
+    "YEAR": "1983",
+    "ARTIST": "Robert Peterson",
+    "ADDRESS": "501 Copper NW",
+    "LOCATION": "Main Library",
+     -106.6532516,
+     35.086199999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2486732177/",
+    "JPG_URL": "http://farm3.staticflickr.com/2289/2486732177_17de890f38_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872585.659600001,
+     4175601.5587000027]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210063,
+    "ART_CODE": "254",
+    "TITLE": "Calligraphy",
+    "TYPE": "Calligraphy (visual works)",
+    "YEAR": "1983",
+    "ARTIST": "Diana Stetson",
+    "ADDRESS": "501 Copper NW",
+    "LOCATION": "Main Library",
+     -106.6532516,
+     35.086199999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2487547556/in/photostream/",
+    "JPG_URL": "http://farm3.staticflickr.com/2237/2487547556_d28f1a9ba3_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872585.659600001,
+     4175601.5587000027]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210064,
+    "ART_CODE": "255",
+    "TITLE": "Don Quixote Suit Case",
+    "TYPE": "found object sculpture",
+    "YEAR": "1983",
+    "ARTIST": "J. Pearson",
+    "ADDRESS": "501 Copper NW",
+    "LOCATION": "Main Library",
+     -106.6532516,
+     35.086199999999998,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2487547592/in/photostream/",
+    "JPG_URL": "http://farm3.staticflickr.com/2233/2487547592_076099ae7b_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872585.659600001,
+     4175601.5587000027]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210065,
+    "ART_CODE": "256",
+    "TITLE": "Untitled #1",
+    "TYPE": "paintings (visual works)",
+    "YEAR": "2001",
+    "ARTIST": "Orlando Ley",
+    "ADDRESS": "3400 University Blvd SE",
+    "LOCATION": "Airport Rental Car Facility",
+     -106.62575409999999,
+     35.040300000000002,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2439237012/",
+    "JPG_URL": "http://farm4.staticflickr.com/3247/2439237012_9c6ef59924_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11869524.651900001,
+     4169359.1026000008]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210066,
+    "ART_CODE": "257",
+    "TITLE": "Untitled, 76.1.1",
+    "TYPE": "Lithographs",
+    "YEAR": "1996",
+    "ARTIST": "Garo Antreasian",
+    "ADDRESS": "7521 Carmel NE",
+    "LOCATION": "North Domingo Baca Multigenerational Center",
+     -106.56143899999999,
+     35.177306999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6871782031/",
+    "JPG_URL": "http://farm8.staticflickr.com/7207/6871782031_f1630bddaf_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11862365.127700001,
+     4188002.6389999986]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210067,
+    "ART_CODE": "258",
+    "TITLE": "Apprehension of the Stage Robbers",
+    "TYPE": "Painting (visual works)",
+    "YEAR": "1993",
+    "ARTIST": "Harvey Johnson",
+    "ADDRESS": "400 Marquette NW",
+    "LOCATION": "City/County Government Bldg.",
+     -106.6515905,
+     35.088000000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2513552647/",
+    "JPG_URL": "http://farm4.staticflickr.com/3028/2513552647_f2a3fa2757_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872400.7468,
+     4175846.4324000031]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210068,
+    "ART_CODE": "259",
+    "TITLE": "Untitled, 78.2.2A and 78.2.1B",
+    "TYPE": "works on paper",
+    "YEAR": "1996",
+    "ARTIST": "Garo Antreasian",
+    "ADDRESS": "7521 Carmel NE",
+    "LOCATION": "NDB Multicultural Center",
+     -106.56143899999999,
+     35.177306999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6871790815/",
+    "JPG_URL": "http://farm8.staticflickr.com/7192/6871790815_8c1c1936f2_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11862365.127700001,
+     4188002.6389999986]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210069,
+    "ART_CODE": "260",
+    "TITLE": "Eastern Provinces",
+    "TYPE": "lithograph (Chine Colle)",
+    "YEAR": "1996",
+    "ARTIST": "Garo Antreasian",
+    "ADDRESS": "7521 Carmel NE",
+    "LOCATION": "North Domingo Baca Multigenerational Center",
+     -106.56143899999999,
+     35.177306999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2513552671/",
+    "JPG_URL": "http://farm3.staticflickr.com/2276/2513552671_62f749ecb7_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11862365.127700001,
+     4188002.6389999986]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210070,
+    "ART_CODE": "261",
+    "TITLE": "Untitled,78.3.2",
+    "TYPE": "Work on Paper",
+    "YEAR": "1996",
+    "ARTIST": "Garo Antreasian",
+    "ADDRESS": "7521 Carmel NE",
+    "LOCATION": "North Domingo Baca Multigenerational Center",
+     -106.56143899999999,
+     35.177306999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/6871810281/",
+    "JPG_URL": "http://farm8.staticflickr.com/7195/6871810281_f1aa882b44_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11862365.127700001,
+     4188002.6389999986]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210071,
+    "ART_CODE": "262",
+    "TITLE": "Celebration in Story",
+    "TYPE": "mosaics (visual works)",
+    "YEAR": "1996",
+    "ARTIST": "Debra Rogers",
+    "ADDRESS": "2200 Yale Blvd SE",
+    "LOCATION": "NM Commission for the Blind",
+     -106.6213454,
+     35.056899999999999,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2439176040/",
+    "JPG_URL": "http://farm3.staticflickr.com/2256/2439176040_c048ebd434_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11869033.877599999,
+     4171616.3178000003]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210072,
+    "ART_CODE": "263",
+    "TITLE": "To All the Great Animals Around the World",
+    "TYPE": "Carvings",
+    "YEAR": "1993",
+    "ARTIST": "Leonard Lee",
+    "ADDRESS": "903 10th St SW",
+    "LOCATION": "Rio Grande Zoological Park",
+     -106.66115499999999,
+     35.0777,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2420678427/",
+    "JPG_URL": "http://farm4.staticflickr.com/3040/2420678427_3820aa8913_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11873465.462000001,
+     4174445.2833999991]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210073,
+    "ART_CODE": "264",
+    "TITLE": "Bosque Rio Sunset",
+    "TYPE": "mural paintings (visual works)",
+    "YEAR": "1997",
+    "ARTIST": "Dave Dekker",
+    "ADDRESS": "Montaño at the Rio Grande NW",
+    "LOCATION": "Montaño Bridge",
+     -106.6789982,
+     35.146000000000001,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478321975/",
+    "JPG_URL": "http://farm4.staticflickr.com/3275/2478321975_5377542e6f_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11875451.758000001,
+     4183739.7040000036]
+   }
+  },
+  {
+   "type": "Feature", "properties": {
+    "OBJECTID": 210074,
+    "ART_CODE": "265",
+    "TITLE": "“Very Special Arts Garage” Neon Sign",
+    "TYPE": "Art signs",
+    "YEAR": "1993",
+    "ARTIST": "Robert Randazzo",
+    "ADDRESS": "5th St. and Copper NW",
+    "LOCATION": "5th St. and Copper NW Parking Structure",
+     -106.6525323,
+     35.085299999999997,
+    "IMAGE_URL": "http://www.flickr.com/photos/abqpublicart/2478322061/",
+    "JPG_URL": "http://farm3.staticflickr.com/2408/2478322061_827ffd4ccf_m.jpg"
+   },
+   "geometry": {"type":"Point","coordinates":[
+     -11872505.587400001,
+     4175479.123800002]
+   }
+}]
