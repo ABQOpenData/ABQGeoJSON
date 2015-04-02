@@ -6,6 +6,7 @@ The intent of this repo is to provide GeoJSON for Albuquerque Data that is not a
 ##Embed a Map in your Webpage
 You can embed any of the maps here in your webpage using the code below. Just change the .geojson file name to the one you want to use.
 
+```html
 <html><head><title>GitHub GeoJSON as IFrame</title>
 </head>
 <body>
@@ -14,4 +15,4 @@ You can embed any of the maps here in your webpage using the code below. Just ch
 <script src="https://embed.github.com/view/geojson/ABQOpenData/ABQGeoJSON/master/cityparks_fromesrijson.geojson?height=600&width=1000"></script>
 </body>
 </html>
-~~~
+```
