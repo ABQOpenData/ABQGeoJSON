@@ -1,5 +1,3 @@
-<h1>Project: ABQ Open Data Census</h1>
-
 <h2>What is the ABQ Open Data Census?</h2>
 <p>
 The first step in making data actionable is to make sure the data is easily accessible. Many cities, whether they have an open data policy in place or not, have work to do in terms of making datasets open and available online. 
